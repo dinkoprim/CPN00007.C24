@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Revision commitTime="1721649685396" author="sprodanov" message="Intermediate report" id="14d6998f57a8b90533decc962290a316">
+    <Tag name="14d6998f57a8b90533decc962290a316RELEASE" type="RELEASE" id="3327e05d19a4637bb3614c8537f04c72"/>
+    <Parts>
+        <Part name="docs\shipStatus.pdf" id="316b1b2fc6bc9d2a0d44d759aeeaa908"/>
+        <Part name="img\20240617_083458 gangway_800.jpg" id="581872086a4eca20df2f22fdab4ecff1"/>
+        <Part name="img\20240603_100656 forecastle windlass winch motor Foundation Brackets_800.jpg" id="a3395c7cac232deac4af1fd128765f0b"/>
+        <Part name="img\20240603_095646 main deck port side, safe walkway, entry to forecastle store, wide_800.jpg" id="0f15a82928d91d39d3129374adc9cc87"/>
+        <Part name="img\20240609_083612 anchor windlass portside_800.jpg" id="4a3098bf84049d3ed4dc3a4af45e836b"/>
+        <Part name="img\IMG_1718108978328 mooring winch fwd clutch pad removed_800_0.jpg" id="1b9388f2a0217e0b75183a5b67c37d3b"/>
+        <Part name="compartmentLibrary.xml" id="b3477305ff9b2579a4bcdad4ab19ba86"/>
+        <Part name="report.xml" compression="GZIP" id="edc06033dfd51ef1b285305b28e6e38a"/>
+    </Parts>
+</Revision>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Revision commitTime="1717396746975" author="server" message="repository initialisation" id="683551df4bb342cdc57ba1597519379e">
+    <Tag name="683551df4bb342cdc57ba1597519379eNORMAL" type="NORMAL" id="470205845a9783b14c3591a936ee2fce"/>
+    <Parts>
+        <Part name="report.xml" id="a8846a338afad06717347c5135a69e05"/>
+        <Part name="docs/shipStatus.pdf" id="316b1b2fc6bc9d2a0d44d759aeeaa908"/>
+    </Parts>
+</Revision>

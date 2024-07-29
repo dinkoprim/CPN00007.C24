@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wtf name="CPN0/2024/C0007">
+    <RevisionsDescriptor>
+        <RevisionDescriptor commitTime="1717396746975" author="server" message="repository initialisation" id="683551df4bb342cdc57ba1597519379e">
+            <Tag name="683551df4bb342cdc57ba1597519379eNORMAL" type="NORMAL" id="470205845a9783b14c3591a936ee2fce"/>
+        </RevisionDescriptor>
+        <RevisionDescriptor commitTime="1721648630796" author="sprodanov" message="Intermediate report" id="4f1dde74c30cc192d1ae59661f64a2dd">
+            <Tag name="4f1dde74c30cc192d1ae59661f64a2ddRELEASE" type="RELEASE" id="399f100aa06e8e4d06f052fde570c373"/>
+        </RevisionDescriptor>
+        <RevisionDescriptor commitTime="1721649668777" author="sprodanov" message="Intermediate report" id="a6880eaecd143b08a13261140b6d3d67">
+            <Tag name="a6880eaecd143b08a13261140b6d3d67RELEASE" type="RELEASE" id="ec5492b591890de6d569ad42ce4628d4"/>
+        </RevisionDescriptor>
+        <RevisionDescriptor commitTime="1721649685396" author="sprodanov" message="Intermediate report" id="14d6998f57a8b90533decc962290a316">
+            <Tag name="14d6998f57a8b90533decc962290a316RELEASE" type="RELEASE" id="3327e05d19a4637bb3614c8537f04c72"/>
+        </RevisionDescriptor>
+    </RevisionsDescriptor>
+</Wtf>
