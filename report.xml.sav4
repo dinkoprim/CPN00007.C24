@@ -8570,6 +8570,10 @@ No area with coating condition less than good has been found.&#xD;
 <Photos>
     <Photo>I_D_DO_0610</Photo>
     <Photo>I_D_DO_0614</Photo>
+    <Photo>I_D_DO_0733</Photo>
+    <Photo>I_D_DO_0732</Photo>
+    <Photo>I_D_DO_0734</Photo>
+    <Photo>I_D_DO_0735</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -22269,6 +22273,30 @@ HRU expiry - March 2026</Description>
             <Document id="I_D_DO_0731" location="img\20240603_085947 fresh water tank sb_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fresh water Tk SB" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0034</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0732" location="img\IMG_20240618_080951 Internal structure after coating repairs_800.jpg" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0020</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0733" location="img\IMG_20240618_080729 Internal structure after coating repairs_800.jpg" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0020</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0734" location="img\IMG_20240617_082246_800.jpg" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0020</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0735" location="img\IMG_20240617_075206_800.jpg" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0020</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>

@@ -8831,8 +8831,6 @@ No area with coating condition less than good has been found.&#xD;
                             <Item id="I_R_IT_0179" refId="R_IT_704" manual="false">
 <Photos>
     <Photo>I_D_DO_0625</Photo>
-    <Photo>I_D_DO_0719</Photo>
-    <Photo>I_D_DO_0720</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -8934,6 +8932,8 @@ No area with coating condition less than good has been found.&#xD;
                             <Item id="I_R_IT_0188" refId="R_IT_718" manual="false">
 <Photos>
     <Photo>I_D_DO_0631</Photo>
+    <Photo>I_D_DO_0719</Photo>
+    <Photo>I_D_DO_0720</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -10073,7 +10073,7 @@ No area with coating condition less than good has been found.&#xD;
                             <Item id="I_R_IT_0249" refId="R_IT_704" manual="false">
 <Photos>
     <Photo>I_D_DO_0681</Photo>
-    <Photo>I_D_DO_0721</Photo>
+    <Photo>I_D_DO_0737</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -10175,6 +10175,7 @@ No area with coating condition less than good has been found.&#xD;
                             <Item id="I_R_IT_0258" refId="R_IT_718" manual="false">
 <Photos>
     <Photo>I_D_DO_0687</Photo>
+    <Photo>I_D_DO_0721</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -22195,21 +22196,21 @@ HRU expiry - March 2026</Description>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0719" location="img\IMG_3203 CT2P dome hatch coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Main deck" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0719" location="img\IMG_3203 CT2P dome hatch coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
                 <Description>CT 2 PS dome hatch after coating repairs.</Description>
                 <Tags>
                     <TagId>I_D_TA_0022</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0720" location="img\IMG_3204 CT2P dome hatch coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Main deck" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0720" location="img\IMG_3204 CT2P dome hatch coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
                 <Description>CT 2 PS dome hatch after coating repairs.</Description>
                 <Tags>
                     <TagId>I_D_TA_0022</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0721" location="img\IMG_3141 CT5S dome hatch coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Main deck" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0721" location="img\IMG_3141 CT5S dome hatch coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
                 <Description>CT 5 SB dome hatch after coating repairs.</Description>
                 <Tags>
                     <TagId>I_D_TA_0029</TagId>
@@ -22297,6 +22298,13 @@ HRU expiry - March 2026</Description>
             <Document id="I_D_DO_0735" location="img\IMG_20240617_075206_800.jpg" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0020</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0737" location="img\IMG_3142_800.JPG" use="PHOTO" contentType="image/jpeg" name="Main deck" attachmentDate="2024-08-01+03:00">
+                <Description>Inside CT 5 SB a staging was erected for coating repairs of the Main Deck due to welding of the BWTS container.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0029</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
