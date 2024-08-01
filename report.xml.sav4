@@ -10666,11 +10666,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0033" refId="R_GR_007" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.1"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -10683,7 +10683,13 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Fuel oil and lub oil tanks.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than fair has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
@@ -10699,15 +10705,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the Fuel oil and lub oil tanks.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than fair has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -10715,101 +10729,119 @@ No area with coating condition less than good has been found.&#xD;
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0284" refId="R_IT_059" name="Evac Tk" elementId="I_S_TA_30229684" manual="false">
+<Photos>
+    <Photo>I_D_DO_0744</Photo>
+    <Photo>I_D_DO_0745</Photo>
+    <Photo>I_D_DO_0746</Photo>
+    <Photo>I_D_DO_0747</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
-    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_002" value="2"/>
     <Rating refRatingId="R_RA_003" value="1"/>
-    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_004" value="1.3"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0285" refId="R_IT_059" name="Gas Oil Day Tk" elementId="I_S_TA_30229682" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001" value="1"/>
-    <Rating refRatingId="R_RA_002" value="1"/>
-    <Rating refRatingId="R_RA_003" value="1"/>
-    <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005" value="NF"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
+    <Rating refRatingId="R_RA_002"/>
+    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
+    <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0286" refId="R_IT_059" name="Gas Oil Tk SB" elementId="I_S_TA_30229679" manual="false">
 <Ratings>
+    <Rating refRatingId="R_RA_001" value="NA"/>
+    <Rating refRatingId="R_RA_002"/>
+    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
+    <Rating refRatingId="R_RA_005"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0287" refId="R_IT_059" name="HFO Centre Tk" elementId="I_S_TA_30229683" manual="false">
+<Photos>
+    <Photo>I_D_DO_0748</Photo>
+    <Photo>I_D_DO_0749</Photo>
+    <Photo>I_D_DO_0750</Photo>
+    <Photo>I_D_DO_0751</Photo>
+</Photos>
+<Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
-</Ratings>
-                            </Item>
-                            <Item id="I_R_IT_0287" refId="R_IT_059" name="HFO Centre Tk" elementId="I_S_TA_30229683" manual="false">
-<Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0288" refId="R_IT_059" name="HFO Day Tk." elementId="I_S_TA_30229678" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
     <Rating refRatingId="R_RA_002"/>
     <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0289" refId="R_IT_059" name="HFO Sett. Tk" elementId="I_S_TA_30229677" manual="false">
+<Photos>
+    <Photo>I_D_DO_0755</Photo>
+    <Photo>I_D_DO_0754</Photo>
+    <Photo>I_D_DO_0753</Photo>
+    <Photo>I_D_DO_0752</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0290" refId="R_IT_059" name="HFO Wingtank PS" elementId="I_S_TA_30105900" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001" value="1"/>
-    <Rating refRatingId="R_RA_002" value="1"/>
-    <Rating refRatingId="R_RA_003" value="1"/>
-    <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005" value="NF"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
+    <Rating refRatingId="R_RA_002"/>
+    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
+    <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0291" refId="R_IT_059" name="HFO Wink Tk SB" elementId="I_S_TA_30229681" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001" value="1"/>
-    <Rating refRatingId="R_RA_002" value="1"/>
-    <Rating refRatingId="R_RA_003" value="1"/>
-    <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005" value="NF"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
+    <Rating refRatingId="R_RA_002"/>
+    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
+    <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0292" refId="R_IT_059" name="LO Tk Aux Engines" elementId="I_S_TA_30229674" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001" value="1"/>
-    <Rating refRatingId="R_RA_002" value="1"/>
-    <Rating refRatingId="R_RA_003" value="1"/>
-    <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005" value="NF"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
+    <Rating refRatingId="R_RA_002"/>
+    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
+    <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0293" refId="R_IT_059" name="LO Tk Main Engine" elementId="I_S_TA_30229673" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001" value="1"/>
-    <Rating refRatingId="R_RA_002" value="1"/>
-    <Rating refRatingId="R_RA_003" value="1"/>
-    <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005" value="NF"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
+    <Rating refRatingId="R_RA_002"/>
+    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
+    <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0294" refId="R_IT_059" name="LO Tk Reduction gear" elementId="I_S_TA_30229675" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
+    <Rating refRatingId="R_RA_001" value="NA"/>
     <Rating refRatingId="R_RA_002"/>
     <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_004" value="NA"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
@@ -14253,11 +14285,16 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0523" refId="R_IT_303" manual="false">
+<Photos>
+    <Photo>I_D_DO_0756</Photo>
+    <Photo>I_D_DO_0757</Photo>
+    <Photo>I_D_DO_0758</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_039"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_039" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0524" refId="R_IT_304" manual="false">
@@ -22335,6 +22372,96 @@ HRU expiry - March 2026</Description>
                 <Tags>
                     <TagId>I_D_TA_0032</TagId>
                     <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0744" location="img\IMG_0618 sewage collecting tank no.768_800.JPG" use="PHOTO" contentType="image/jpeg" name="Evac Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0745" location="img\IMG_0619 sewage collecting tank no.768_800.JPG" use="PHOTO" contentType="image/jpeg" name="Evac Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0746" location="img\IMG_0620 sewage collecting tank no.768_800.JPG" use="PHOTO" contentType="image/jpeg" name="Evac Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0747" location="img\IMG_0622 sewage collecting tank no.768_800.JPG" use="PHOTO" contentType="image/jpeg" name="Evac Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0748" location="img\20240603_131201 FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Centre Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0749" location="img\20240603_131156 manhole, FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Centre Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0750" location="img\20240603_131148 FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Centre Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0751" location="img\20240603_131133 FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Centre Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0752" location="img\20240617_094059 fuel tank, HFO settling tank, no.756_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Sett. Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0753" location="img\20240617_094056 fuel tank, HFO settling tank, no.756_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Sett. Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0754" location="img\20240617_094046 fuel tank, HFO settling tank, no.756_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Sett. Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0755" location="img\20240617_094006 fuel tank, HFO settling tank, no.756_800.jpg" use="PHOTO" contentType="image/jpeg" name="HFO Sett. Tk" attachmentDate="2024-08-01+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0033</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0756" location="img\20240603_134348 engine room, purifier room general, separators, FO fuel oil preparation equipment_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room General incl. bulkheads, floors and deckhead" attachmentDate="2024-08-01+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0055</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0757" location="img\20240603_140155 engine room, main engine, general condition, cranckcase doors, foundation bolts_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room General incl. bulkheads, floors and deckhead" attachmentDate="2024-08-01+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0055</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0758" location="img\20240604_141017 engine room, lavatory, air compressors, general_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room General incl. bulkheads, floors and deckhead" attachmentDate="2024-08-01+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0055</TagId>
+                    <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
         </Documents>
