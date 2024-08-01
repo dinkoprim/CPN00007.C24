@@ -6256,6 +6256,8 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Ratings were deleted by Stephan.&#xD;
+</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -17599,16 +17601,16 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             </Item>
                             <Item id="I_R_IT_0855" refId="R_IT_604" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0856" refId="R_IT_605" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0857" refId="R_IT_606" manual="false">
@@ -17627,9 +17629,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             </Item>
                             <Item id="I_R_IT_0859" refId="R_IT_608" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0860" refId="R_IT_609" manual="false">
@@ -17648,9 +17650,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             </Item>
                             <Item id="I_R_IT_0862" refId="R_IT_611" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0863" refId="R_IT_612" manual="false">
@@ -17731,30 +17733,30 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             </Item>
                             <Item id="I_R_IT_0869" refId="R_IT_618" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0870" refId="R_IT_619" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0871" refId="R_IT_620" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0872" refId="R_IT_621" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0873" refId="R_IT_622" manual="false">
