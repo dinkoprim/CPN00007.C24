@@ -6256,6 +6256,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Ratings were deleted by Stephan.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
