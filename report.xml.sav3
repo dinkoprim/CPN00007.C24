@@ -10619,7 +10619,7 @@ No area with coating condition less than good has been found.&#xD;
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0280" refId="R_IT_058" name="Cofferdam ER DB fwd" elementId="I_S_TA_30105901" manual="false">
+                            <Item id="I_R_IT_0280" refId="R_IT_058" name="Cofferdam ER DB fwd No. 782" elementId="I_S_TA_30105901" manual="false">
 <Photos>
     <Photo>I_D_DO_0739</Photo>
     <Photo>I_D_DO_0740</Photo>
@@ -17938,14 +17938,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                 </Summaries>
             </Module>
         </Modules>
-        <GeneralData shipPhotoId="I_D_DO_0759">
-            <GeneralArrangements>
-                <GeneralArrangement>I_D_DO_0762</GeneralArrangement>
-            </GeneralArrangements>
-            <MidShipSections>
-                <MidShipSection>I_D_DO_0760</MidShipSection>
-                <MidShipSection>I_D_DO_0761</MidShipSection>
-            </MidShipSections>
+        <GeneralData>
+            <GeneralArrangements/>
+            <MidShipSections/>
         </GeneralData>
     </Report>
     <Ship>
@@ -17955,14 +17950,13 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
             <ShipyardData yardName="SCHEEPSWERF FERUS SMIT B.V. - NETHERLANDS" yardId="13447" yardHullNumber="344" dateOfBuild="2004-07-02+02:00"/>
             <ClassData society="Bureau Veritas" societyId="G_CS_28010" identification="04025C"/>
             <StatutoryData portRegistration="DELFZIJL" flagState="NLD - Netherlands"/>
-            <VesselType gasType="LPG">
+            <VesselType gasType="NA">
                 <VesselTypes>
                     <Type typeId="G_SN_05" name="Oil tanker"/>
                     <Type typeId="G_SN_10" name="Chemical tanker"/>
                 </VesselTypes>
             </VesselType>
             <TonnageData grossTonnage="4295.0" netTonnage="2141" deadweight="7479.0"/>
-            <TankData tankType="Ind-A" tankTypeId="S_TA_TY_IA"/>
             <EngineData propellingType="Diesel" propellingTypeId="G_PT_DZ"/>
         </ShipData>
         <ShipStatus mode="EXPORTED" shipStatusId="I_D_DO_0001">
@@ -22350,31 +22344,31 @@ HRU expiry - March 2026</Description>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0739" location="img\IMG_0625 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0739" location="img\IMG_0625 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd No. 782" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0032</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0740" location="img\IMG_0626 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0740" location="img\IMG_0626 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd No. 782" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0032</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0741" location="img\IMG_0628 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0741" location="img\IMG_0628 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd No. 782" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0032</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0742" location="img\IMG_0631 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0742" location="img\IMG_0631 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd No. 782" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0032</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0743" location="img\IMG_0632 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd" attachmentDate="2024-08-01+03:00">
+            <Document id="I_D_DO_0743" location="img\IMG_0632 VOID space no.782_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cofferdam ER DB fwd No. 782" attachmentDate="2024-08-01+03:00">
                 <Tags>
                     <TagId>I_D_TA_0032</TagId>
                     <TagId>I_D_TA_0001</TagId>
@@ -22470,10 +22464,6 @@ HRU expiry - March 2026</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0759" location="img\20240618_132436 ship hull front portside, bow_800.jpg" use="OTHER" contentType="image/jpeg" name="20240618_132436 ship hull front portside, bow_800.jpg" attachmentDate="2024-08-01+02:00"/>
-            <Document id="I_D_DO_0760" location="docs\62002-2-2a Construction Plan Midship.pdf" use="OTHER" contentType="application/pdf" name="62002-2-2a Construction Plan Midship.pdf" attachmentDate="2004-06-02+02:00"/>
-            <Document id="I_D_DO_0761" location="docs\62002-2-1a Construction Plan Midship.pdf" use="OTHER" contentType="application/pdf" name="62002-2-1a Construction Plan Midship.pdf" attachmentDate="2004-06-02+02:00"/>
-            <Document id="I_D_DO_0762" location="docs\62001-1 General arrangement.PDF" use="OTHER" contentType="application/octet-stream" name="62001-1 General arrangement.PDF" attachmentDate="2004-05-11+02:00"/>
         </Documents>
     </DocLibrary>
 </ReportCAP>
