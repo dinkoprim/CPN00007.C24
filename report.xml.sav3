@@ -5935,11 +5935,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0006" refId="R_GR_004" name="Aftpeak" elementId="I_S_TA_30130399" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5952,7 +5952,13 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Aftpeak.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
@@ -5968,15 +5974,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the Aftpeak.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -5984,21 +5998,27 @@ No area with coating condition less than good has been found.&#xD;
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0019" refId="R_IT_038" manual="false">
+<Photos>
+    <Photo>I_D_DO_0775</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0020" refId="R_IT_036" manual="false">
+<Photos>
+    <Photo>I_D_DO_0776</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0021" refId="R_IT_037" manual="false">
@@ -6012,38 +6032,47 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0022" refId="R_IT_025" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0023" refId="R_IT_026" manual="false">
+<Photos>
+    <Photo>I_D_DO_0777</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0024" refId="R_IT_040" manual="false">
+<Photos>
+    <Photo>I_D_DO_0778</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0025" refId="R_IT_041" manual="false">
+<Photos>
+    <Photo>I_D_DO_0779</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0026" refId="R_IT_027" manual="false">
@@ -6065,12 +6094,15 @@ No area with coating condition less than good has been found.&#xD;
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0028" refId="R_IT_057" manual="false">
+<Photos>
+    <Photo>I_D_DO_0780</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -22563,6 +22595,42 @@ HRU expiry - March 2026</Description>
                 <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0775" location="img\IMG_3095 afterpeak, main deck_800.JPG" use="PHOTO" contentType="image/jpeg" name="Main deck" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0006</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0776" location="img\IMG_3093 afterpeak bottom_800.JPG" use="PHOTO" contentType="image/jpeg" name="Bottom" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0006</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0777" location="img\IMG_3084 afterpeak, fore bulkhead_800.JPG" use="PHOTO" contentType="image/jpeg" name="Transverse bulkhead Fore" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0006</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0778" location="img\IMG_3082 afterpeak side shell_800.JPG" use="PHOTO" contentType="image/jpeg" name="Side Shell PS" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0006</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0779" location="img\IMG_3091 afterpeak side shell_800.JPG" use="PHOTO" contentType="image/jpeg" name="Side Shell SB" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0006</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0780" location="img\IMG_3088 afterpeak internal structure_800.JPG" use="PHOTO" contentType="image/jpeg" name="Internal Structure" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0006</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>

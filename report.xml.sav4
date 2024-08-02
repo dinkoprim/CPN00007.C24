@@ -18224,6 +18224,7 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                 </Tags>
             </Document>
             <Document id="I_D_DO_0004" location="img\20240603_095646 main deck port side, safe walkway, entry to forecastle store, wide_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Forward PS" attachmentDate="2024-07-22+03:00">
+                <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
@@ -22489,66 +22490,77 @@ HRU expiry - March 2026</Description>
             <Document id="I_D_DO_0761" location="docs\62002-2-1a Construction Plan Midship.pdf" use="OTHER" contentType="application/pdf" name="62002-2-1a Construction Plan Midship.pdf" attachmentDate="2004-06-02+02:00"/>
             <Document id="I_D_DO_0762" location="docs\62001-1 General arrangement.PDF" use="OTHER" contentType="application/octet-stream" name="62001-1 General arrangement.PDF" attachmentDate="2004-05-11+02:00"/>
             <Document id="I_D_DO_0764" location="img\20240603_095643 main deck starboard mooring winch, wide_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Forward SB" attachmentDate="2024-08-02+02:00">
+                <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0765" location="img\20240603_095046 main deck midship portside_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Midship area PS" attachmentDate="2024-08-02+02:00">
+                <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0766" location="img\20240603_094959 main deck midship starboard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Midship area SB" attachmentDate="2024-08-02+02:00">
+                <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0767" location="img\20240603_094900 main deck aft portside_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft SB" attachmentDate="2024-08-02+02:00">
+                <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0768" location="img\20240603_094855 main deck aft starboard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft PS" attachmentDate="2024-08-02+02:00">
+                <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0769" location="img\Main deck midships sb after docking_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Midship area SB" attachmentDate="2024-08-02+02:00">
+                <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0770" location="img\Main deck midships ps after docking_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Midship area PS" attachmentDate="2024-08-02+02:00">
+                <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0771" location="img\Main Deck Fore sb after docking_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Forward SB" attachmentDate="2024-08-02+02:00">
+                <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0772" location="img\Main deck Fore ps after docking_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Forward PS" attachmentDate="2024-08-02+02:00">
+                <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0773" location="img\Main deck Aft sb after docking_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft SB" attachmentDate="2024-08-02+02:00">
+                <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0774" location="img\Main deck aft ps after docking_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft PS" attachmentDate="2024-08-02+02:00">
+                <Description>After the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>

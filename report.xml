@@ -17615,17 +17615,20 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                     </Group>
                     <Group id="I_R_GR_0077" refId="R_GR_056" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Fire/Smoke/Gas Detection and Fire Fighting Systems.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -17638,32 +17641,49 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Fire/Smoke/Gas Detection and Fire Fighting Systems.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0852" refId="R_IT_601" manual="false">
+<Photos>
+    <Photo>I_D_DO_0807</Photo>
+    <Photo>I_D_DO_0808</Photo>
+    <Photo>I_D_DO_0804</Photo>
+    <Photo>I_D_DO_0806</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0853" refId="R_IT_602" manual="false">
+<Photos>
+    <Photo>I_D_DO_0809</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0854" refId="R_IT_603" manual="false">
+<Photos>
+    <Photo>I_D_DO_0810</Photo>
+    <Photo>I_D_DO_0811</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0855" refId="R_IT_604" manual="false">
@@ -17686,9 +17706,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0284</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0858" refId="R_IT_607" manual="false">
@@ -17696,9 +17716,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0283</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0859" refId="R_IT_608" manual="false">
@@ -17709,17 +17729,25 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0860" refId="R_IT_609" manual="false">
+<Photos>
+    <Photo>I_D_DO_0814</Photo>
+    <Photo>I_D_DO_0815</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0861" refId="R_IT_610" manual="false">
+<Photos>
+    <Photo>I_D_DO_0816</Photo>
+    <Photo>I_D_DO_0817</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0862" refId="R_IT_611" manual="false">
@@ -17730,34 +17758,48 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0863" refId="R_IT_612" manual="false">
+<Photos>
+    <Photo>I_D_DO_0818</Photo>
+    <Photo>I_D_DO_0820</Photo>
+    <Photo>I_D_DO_0821</Photo>
+    <Photo>I_D_DO_0822</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0864" refId="R_IT_613" manual="false">
+<Photos>
+    <Photo>I_D_DO_0823</Photo>
+    <Photo>I_D_DO_0824</Photo>
+    <Photo>I_D_DO_0825</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                         </Items>
                     </Group>
                     <Group id="I_R_GR_0078" refId="R_GR_057" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Environmental Management.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -17770,39 +17812,60 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Environmental Management.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0865" refId="R_IT_614" manual="false">
+<Photos>
+    <Photo>I_D_DO_0790</Photo>
+    <Photo>I_D_DO_0793</Photo>
+    <Photo>I_D_DO_0792</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0866" refId="R_IT_615" manual="false">
+<Photos>
+    <Photo>I_D_DO_0794</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0867" refId="R_IT_616" manual="false">
+<Photos>
+    <Photo>I_D_DO_0795</Photo>
+    <Photo>I_D_DO_0796</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0868" refId="R_IT_617" manual="false">
+<Photos>
+    <Photo>I_D_DO_0797</Photo>
+    <Photo>I_D_DO_0798</Photo>
+    <Photo>I_D_DO_0799</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0869" refId="R_IT_618" manual="false">
@@ -17834,24 +17897,32 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0873" refId="R_IT_622" manual="false">
+<Photos>
+    <Photo>I_D_DO_0800</Photo>
+    <Photo>I_D_DO_0801</Photo>
+    <Photo>I_D_DO_0802</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0874" refId="R_IT_623" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0875" refId="R_IT_624" manual="false">
+<Photos>
+    <Photo>I_D_DO_0803</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -19695,12 +19766,6 @@ FRAMO hydraulic main supply and return lines.</Description>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0274" location="img\20240603_095332 Foam line, foam monitor base, around starboard manifold_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-07-26+03:00">
-                <Tags>
-                    <TagId>I_D_TA_0046</TagId>
-                    <TagId>I_D_TA_0036</TagId>
-                </Tags>
-            </Document>
             <Document id="I_D_DO_0275" location="img\20240603_134241 semi-portable fire extinguisher in ER, ABC dry powder, ER lavatory, sink, Ultrasonic bath cleaning_800.jpg" use="PHOTO" contentType="image/jpeg" name="Portable and semi portable fire extinguishers and applicators (Foam, CO2, Dry Powder, Water)" attachmentDate="2024-07-26+03:00">
                 <Tags>
                     <TagId>I_D_TA_0046</TagId>
@@ -19750,12 +19815,6 @@ FRAMO hydraulic main supply and return lines.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0285" location="img\20240603_133633 ER alarm signal, syrene_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire Alarm Systems including Signals, loudspeakers and bells." attachmentDate="2024-07-26+03:00">
-                <Tags>
-                    <TagId>I_D_TA_0046</TagId>
-                    <TagId>I_D_TA_0036</TagId>
-                </Tags>
-            </Document>
-            <Document id="I_D_DO_0286" location="img\20240603_134710 ER emergency signal light, siren, bell, purifier room ventilation ducts_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-07-26+03:00">
                 <Tags>
                     <TagId>I_D_TA_0046</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -19825,12 +19884,6 @@ FRAMO hydraulic main supply and return lines.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0298" location="img\20240603_110153 foreward tank cleaning line, fire line_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire system pipelines on deck including supports, clamps and valves" attachmentDate="2024-07-26+03:00">
-                <Tags>
-                    <TagId>I_D_TA_0046</TagId>
-                    <TagId>I_D_TA_0036</TagId>
-                </Tags>
-            </Document>
-            <Document id="I_D_DO_0299" location="img\20240603_111334 main deck port, catwalk support at manifold, fire line connection sleeve_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-07-26+03:00">
                 <Tags>
                     <TagId>I_D_TA_0046</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -22703,6 +22756,211 @@ HRU expiry - March 2026</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0790" location="img\20240617_093805 OWS new 15-ppm device_800.jpg" use="PHOTO" contentType="image/jpeg" name="Oily Water Separator including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Description>New 15-ppm device was installed in dry dock.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0791" location="img\20240603_132517 OWS, water mists system, evac system equipment_800.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_132517 OWS, water mists system, evac system equipment_800.jpg" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0792" location="img\20240603_133328 OWS starter and control panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Oily Water Separator including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0793" location="img\20240603_133337 OWS 15-ppm device before replacement_800.jpg" use="PHOTO" contentType="image/jpeg" name="Oily Water Separator including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0794" location="img\20240603_133345 OWS, bilge pump, 30way valve_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bilge Pump" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0795" location="img\20240603_140825 engine room bilges suction strainer, bilge level alarm float ER forward_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bilges’ Alarm systems including auto start of bilge pump." attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0796" location="img\20240603_135918 tank top under stern tube forward seal, bilge alarms_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bilges’ Alarm systems including auto start of bilge pump." attachmentDate="2024-08-02+03:00">
+                <Description>Stern tube forward seal, bilge alarms.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0797" location="img\20240603_132547 evac system pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage unit including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0798" location="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage unit including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0799" location="img\20240603_133349 evac system control panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage unit including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0800" location="img\IMG_0607 bilge collecting tank_800.JPG" use="PHOTO" contentType="image/jpeg" name="Bilge Holding Tank" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0801" location="img\IMG_0608 bilge collecting tank_800.JPG" use="PHOTO" contentType="image/jpeg" name="Bilge Holding Tank" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0802" location="img\20240604_141028 bilge collecting tank no.769_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bilge Holding Tank" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0803" location="img\20240603_133658 thermal oil tank bulkhead, ER tween deck general view, ER chemical store_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="E/R Oil Spill clean up supplies and chemicals" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0048</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0804" location="img\pro-bztf7cdj_800.jpeg" use="PHOTO" contentType="image/jpeg" name="Bulk CO2 Flooding for Engine Room" attachmentDate="2024-08-02+03:00">
+                <Description>Next hydrostatic test date marked 2034.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0806" location="img\pro-ows4ZBfJ_800.jpeg" use="PHOTO" contentType="image/jpeg" name="Bulk CO2 Flooding for Engine Room" attachmentDate="2024-08-02+03:00">
+                <Description>Flexible hoses renewed. </Description>
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0807" location="img\20240603_094534 CO2 hoses every 10 years, hydrauxtatic test question mark_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bulk CO2 Flooding for Engine Room" attachmentDate="2024-08-02+03:00">
+                <Description>ER bulk CO₂ flood system cylinders 10-year hydrostatically tested by approved company. Certificate issued.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0808" location="img\20240617_082656 CO2 bottles taken for hydr test, hoses replace_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bulk CO2 Flooding for Engine Room" attachmentDate="2024-08-02+03:00">
+                <Description>ER bulk CO₂ flood system cylinders dismantled for testing.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0809" location="img\20240604_142020 co2 alarm whistle, signal_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bulk CO2 system alarms, switches, pipelines, hoses, nozzles, valves, spanners" attachmentDate="2024-08-02+03:00">
+                <Description>ER bulk CO₂ flood system alarm whistle.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0810" location="img\20240603_134230 portable foam applicator in ER_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Portable and semi portable fire extinguishers and applicators (Foam, CO2, Dry Powder, Water)" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0811" location="img\20240603_134246 semi-portable fire extinguisher in ER, ABC dry powder_800.jpg" use="PHOTO" contentType="image/jpeg" name="Portable and semi portable fire extinguishers and applicators (Foam, CO2, Dry Powder, Water)" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0814" location="img\20240603_131841 fire hose in er, ME ducts_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire Hoses, nozzles &amp; spanners and hose boxes including supports" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0815" location="img\20240603_134234 fire hose in ER_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Fire Hoses, nozzles &amp; spanners and hose boxes including supports" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0816" location="img\20240603_134256 fire hydrant in ER_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire system pipelines in E/R including supports, clamps and valves" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0817" location="img\20240603_140343 fire and foam pump el motors_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Fire system pipelines in E/R including supports, clamps and valves" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0818" location="img\20240603_132022 steering gear room emergency escape hatch_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Fire escapes and hatches" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0819" location="img\20240603_132128 engine room steering gear room emergency escape, pv valve test jig, device_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0820" location="img\20240603_134539 engine room escape ladder, route, fire door_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire escapes and hatches" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0821" location="img\20240603_134548 engine room emcy escape route ladder_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire escapes and hatches" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0822" location="img\20240603_090859 hatches, rubber retaining channel, rubber seals_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fire escapes and hatches" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0823" location="img\20240603_132128 engine room steering gear room emergency escape, pv valve test jig, device_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Notices, IMO signs, Fire Escape Exit Signs" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0824" location="img\20240603_134533 engine room escape fire door, IMO sign_800.jpg" use="PHOTO" contentType="image/jpeg" name="Notices, IMO signs, Fire Escape Exit Signs" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0825" location="img\20240604_140517 ECR aircon_800.jpg" use="PHOTO" contentType="image/jpeg" name="Notices, IMO signs, Fire Escape Exit Signs" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0046</TagId>
+                    <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
         </Documents>
