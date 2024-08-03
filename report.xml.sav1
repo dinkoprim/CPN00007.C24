@@ -6302,11 +6302,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0008" refId="R_GR_004" name="DB / wing tank 2 PS" elementId="I_S_TA_30130397" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -6319,11 +6319,17 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the DB / wing tank 2 PS.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
-<Comment>Ratings were deleted by Stephan.&#xD;
+<Comment>&#xD;
 </Comment>
 <Sons>
     <Son refId="R_BL_008"/>
@@ -6337,15 +6343,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the DB / wing tank 2 PS.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -6357,10 +6371,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0504</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6369,10 +6383,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0505</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6381,10 +6395,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0506</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6393,10 +6407,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0507</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6405,10 +6419,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0508</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6417,10 +6431,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0509</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6447,10 +6461,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0510</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -6459,10 +6473,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0511</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001" value=""/>
-    <Rating refRatingId="R_RA_002" value=""/>
-    <Rating refRatingId="R_RA_003" value=""/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
