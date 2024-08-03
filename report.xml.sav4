@@ -14877,6 +14877,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0564" refId="R_IT_341" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0901</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="TRUE"/>
@@ -14885,6 +14888,11 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0565" refId="R_IT_342" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0902</Photo>
+            <Photo>I_D_DO_0903</Photo>
+            <Photo>I_D_DO_0904</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14893,6 +14901,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0566" refId="R_IT_343" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0905</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14901,6 +14912,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0567" refId="R_IT_344" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0909</Photo>
+            <Photo>I_D_DO_0910</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -23533,6 +23548,54 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
             </Document>
             <Document id="I_D_DO_0900" location="img\20240617_094331 main engine fuel injection pumps, FOIP_800.jpg" use="PHOTO" contentType="image/jpeg" name="Jacketed HP fuel pipes and leak off arrangement" attachmentDate="2024-08-03+02:00">
                 <Description>HP fuel pipes were lapped and o-rings renewed.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0901" location="img\20240619_083504 Main engine attached pump after overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="Attached pumps and coolers" attachmentDate="2024-08-03+02:00">
+                <Description>The attache ME pumps after overhauling in the workshop of the service company.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0902" location="img\20240603_140608 ME air cooler cooling pipes_800.jpg" use="PHOTO" contentType="image/jpeg" name="LP Fuel, Water, Lube oil pipes and valves." attachmentDate="2024-08-03+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0903" location="img\FLIR1986 ME FW attached cooling pump when operating_800.jpg" use="PHOTO" contentType="image/jpeg" name="LP Fuel, Water, Lube oil pipes and valves." attachmentDate="2024-08-03+02:00">
+                <Description>Temperatures of the ME Cooling and LO pipes during testing of the engine in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0904" location="img\FLIR1987 ME FW attached cooling pump when operating_800.jpg" use="PHOTO" contentType="image/jpeg" name="LP Fuel, Water, Lube oil pipes and valves." attachmentDate="2024-08-03+02:00">
+                <Description>Temperatures of the ME Cooling and LO pipes during testing of the engine in operation (the scene of the previous thermal image).</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0905" location="img\20240603_135238 ME top, ME exhaust gas duct, insulation, ER general, Purifier room ventilation_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Exhaust Bellows Pieces" attachmentDate="2024-08-03+02:00">
+                <Description>ME exhaust gas duct.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0909" location="img\20240617_091940 ehxaust gas leak repaired in ER duct_800.jpg" use="PHOTO" contentType="image/jpeg" name="Insulation of Exhaust Gas Manifolds and pipes" attachmentDate="2024-08-03+02:00">
+                <Description>Local repair of the ME exhaust gas duct.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0910" location="img\20240619_145646 new insulation on the exhasut duct support for the flap actuator_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Insulation of Exhaust Gas Manifolds and pipes" attachmentDate="2024-08-03+02:00">
+                <Description>Repair of the exhaust duct thermal insulation.</Description>
                 <Tags>
                     <TagId>I_D_TA_0056</TagId>
                     <TagId>I_D_TA_0054</TagId>
