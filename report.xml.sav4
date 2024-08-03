@@ -14536,6 +14536,7 @@ The rating good condition has been assigned to the Main Propulsion Installations
     <Son selected="true" refId="R_BL_012">
         <Comment>Main Engine crankshaft and camshaft new hydraulic dampers were installed. &#xD;
 New ME main bearings, new big-end and thrust bearings were installed.&#xD;
+ME cylinder liner of unit 1 was replaced with the spare one, due to discoved deep scratches on its surface (this one was the only renewed cyl liner).&#xD;
 </Comment>
     </Son>
     <Son selected="true" refId="R_BL_013">
@@ -14588,6 +14589,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0538" refId="R_IT_315" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0857</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14606,6 +14610,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0540" refId="R_IT_317" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0858</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14615,6 +14622,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0541" refId="R_IT_318" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0859</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14623,6 +14633,12 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0542" refId="R_IT_319" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0860</Photo>
+            <Photo>I_D_DO_0862</Photo>
+            <Photo>I_D_DO_0861</Photo>
+            <Photo>I_D_DO_0865</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_014" value="1"/>
@@ -14632,6 +14648,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0543" refId="R_IT_320" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0866</Photo>
+            <Photo>I_D_DO_0867</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_014" value="1"/>
@@ -14641,6 +14661,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0544" refId="R_IT_321" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0870</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14649,6 +14672,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0545" refId="R_IT_322" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0871</Photo>
+            <Photo>I_D_DO_0873</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14657,6 +14684,12 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0546" refId="R_IT_323" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0874</Photo>
+            <Photo>I_D_DO_0875</Photo>
+            <Photo>I_D_DO_0876</Photo>
+            <Photo>I_D_DO_0878</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14665,6 +14698,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0547" refId="R_IT_324" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0879</Photo>
+            <Photo>I_D_DO_0881</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14673,6 +14710,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0548" refId="R_IT_325" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0884</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14689,6 +14729,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0550" refId="R_IT_327" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0886</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="TRUE"/>
@@ -14697,6 +14740,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0551" refId="R_IT_328" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0887</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="TRUE"/>
@@ -14705,6 +14751,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0552" refId="R_IT_329" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0889</Photo>
+            <Photo>I_D_DO_0890</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14713,6 +14763,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0553" refId="R_IT_330" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0891</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14721,6 +14774,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0554" refId="R_IT_331" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0892</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14729,6 +14785,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0555" refId="R_IT_332" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0893</Photo>
+            <Photo>I_D_DO_0894</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14745,6 +14805,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0557" refId="R_IT_334" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0868</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14753,6 +14816,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0558" refId="R_IT_335" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0896</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14761,6 +14827,10 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0559" refId="R_IT_336" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0897</Photo>
+            <Photo>I_D_DO_0898</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="FALSE"/>
@@ -14777,6 +14847,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0561" refId="R_IT_338" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0899</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="TRUE"/>
@@ -14785,6 +14858,9 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0562" refId="R_IT_339" manual="false">
+        <Photos>
+            <Photo>I_D_DO_0900</Photo>
+        </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="1"/>
             <Rating refRatingId="R_RA_020" value="TRUE"/>
@@ -23226,6 +23302,237 @@ HRU expiry - March 2026</Description>
             </Document>
             <Document id="I_D_DO_0856" location="img\20240603_133627 ME top view , general, cable run_800.jpg" use="PHOTO" contentType="image/jpeg" name="General condition" attachmentDate="2024-08-03+02:00">
                 <Description>Main Engine genal view before overhauling.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0857" location="img\20240603_140724 Main engine seen from aft, ME TC, gear box solenoids and pressure trnasmitters_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine TurboBlowers" attachmentDate="2024-08-03+02:00">
+                <Description>Main Engine TC was reported last overhaul Feb.2022 and was not due for maintenance during the Renewal Survey period.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0858" location="img\20240618_134556 ME turning gear_800.jpg" use="PHOTO" contentType="image/jpeg" name="Turning Gear including Motor, Gears and engagement device" attachmentDate="2024-08-03+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0859" location="img\20240619_152431 Main engine tested at 650 rpm, local panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Local Manoeuvring Control and Emergency Gear" attachmentDate="2024-08-03+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0860" location="img\20240619_155856 main engine control console, oil mist detector alarm activated_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Alarm and Trips)" attachmentDate="2024-08-03+02:00">
+                <Description>Main Engine safety control board - oil mist alarm activated.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0861" location="img\20240619_154949 ME shut down trigged, LO trip tested_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Alarm and Trips)" attachmentDate="2024-08-03+02:00">
+                <Description>ME alarm monitor - ME LO trip tiggered.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0862" location="img\20240619_154739 testing of LO low pressure trip during operation of the main engine_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Alarm and Trips)" attachmentDate="2024-08-03+02:00">
+                <Description>During testing/activation of the ME LO trip.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0865" location="img\20240603_140433 main engine alarm and safeties sensor box_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Alarm and Trips)" attachmentDate="2024-08-03+02:00">
+                <Description>ME safety sensors/transmitters.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0866" location="img\20240619_154734 main engine rear side, safety solenoids box_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Valves)" attachmentDate="2024-08-03+02:00">
+                <Description>Testing of various Main Engine alarms, which trigger the ME stop  actuator.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0867" location="img\20240603_135235 ME top, ME cylinder covers, indicator valves - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Valves)" attachmentDate="2024-08-03+02:00">
+                <Description>ME each cylinder safety valves on the cylinder heads.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0868" location="img\20240603_140435 Main Engine cylinder block, explosion relief valves, foundation bolts - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Crankcase Explosion Relief valves" attachmentDate="2024-08-03+02:00">
+                <Description>ME crankcase safety relief valves.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0870" location="img\20240619_152326 Main engine tested at 650 rpm, local panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Local Instruments and Gauges (Pressure and Temperature)" attachmentDate="2024-08-03+02:00">
+                <Description>Local gauges of Main Engine during testing at 650 rpm. ME exhaust gas temperatures local display.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0871" location="img\20240609_092325 ME crankshaft, replacement of bearings, piston suspended_800.jpg" use="PHOTO" contentType="image/jpeg" name="Crankshaft including Deflections" attachmentDate="2024-08-03+02:00">
+                <Description>Inside the Main Engine crancase during the overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0873" location="img\ME crankshaft pin measurement_800.jpg" use="PHOTO" contentType="image/jpeg" name="Crankshaft including Deflections" attachmentDate="2024-08-03+02:00">
+                <Description>Crankpins 1 to 8 were measured for cam-effect/ridgewear. No remarks were issued.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0874" location="img\20240619_133629 main engine thrust and main bearings, old ones_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Bearings, Crossheads, Bottom End Bearings and Thrust Bearing" attachmentDate="2024-08-03+02:00">
+                <Description>The removed ME main and thrust bearings.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0875" location="img\20240618_134319 main engine old bearings' condition_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Bearings, Crossheads, Bottom End Bearings and Thrust Bearing" attachmentDate="2024-08-03+02:00">
+                <Description>The removed ME old crankpin bearings.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0876" location="img\20240609_092357 ME crankshaft, replacement of bearings, piston suspended_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Bearings, Crossheads, Bottom End Bearings and Thrust Bearing" attachmentDate="2024-08-03+02:00">
+                <Description>During replacement of the main bearings and lowering of the main bearing shell.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0878" location="img\20240609_092147 ME crankshaft, replacement of bearings_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Bearings, Crossheads, Bottom End Bearings and Thrust Bearing" attachmentDate="2024-08-03+02:00">
+                <Description>During replacement of the ME main bearings.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0879" location="img\20240603_140611 ME air cooler, FW cooling pipes_800.jpg" use="PHOTO" contentType="image/jpeg" name="Jackets and blocks" attachmentDate="2024-08-03+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0881" location="img\20240619_152246 main engine crankcase and camshaft doors, rear view_800.jpg" use="PHOTO" contentType="image/jpeg" name="Jackets and blocks" attachmentDate="2024-08-03+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0884" location="img\ME piston unit 1, which was only overhauled_800.png" use="PHOTO" contentType="image/png" name="Pistons, Piston rods and piston crowns" attachmentDate="2024-08-03+02:00">
+                <Description>Main Engine piston from unit 1, which was only overhauled.&#xD;
+Picture was taken from the provided service report.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0886" location="img\20240618_101925 ME cylinder heads inspection_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Cylinder Covers" attachmentDate="2024-08-03+02:00">
+                <Description>ME cylinder cover inspection during testing after the overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0887" location="img\ME exh valves from the cylinder heads_800.jpg" use="PHOTO" contentType="image/jpeg" name="Exhaust valves and seats" attachmentDate="2024-08-03+02:00">
+                <Description>ME old replaced exhaust valves from the cylinder heads.&#xD;
+The picture was provided with the service report. from the overhaul company.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0889" location="img\IMG_1718096240507 main engine hydraulic damper_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Camshaft, Cams, Cam followers and rods" attachmentDate="2024-08-03+02:00">
+                <Description>ME camshaft hydraulic damper was renewed.&#xD;
+Camshaft cams were inspected.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0890" location="img\camshaft bearing clearances_800.jpg" use="PHOTO" contentType="image/jpeg" name="Camshaft, Cams, Cam followers and rods" attachmentDate="2024-08-03+02:00">
+                <Description>Camshaft bearing clearances from the service report.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0891" location="img\ME timing gear backlash measurement_800.jpg" use="PHOTO" contentType="image/jpeg" name="Timing Chains and Gears" attachmentDate="2024-08-03+02:00">
+                <Description>ME timing gear backlash measurement from the service report.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0892" location="img\20240603_140121 shaft generator reduction gear, gear box_800.jpg" use="PHOTO" contentType="image/jpeg" name="Reduction Gearing" attachmentDate="2024-08-03+02:00">
+                <Description>Reduction gear all LO pressures were witnessed within the limits when in operation and load. Latest LO anaysis showed Normal status.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0893" location="img\20240619_111624 main engine crankcase covers, stay and foundation bolts_800.jpg" use="PHOTO" contentType="image/jpeg" name="Crankcase and Casing Doors" attachmentDate="2024-08-03+02:00">
+                <Description>Crankcase doord portside.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0894" location="img\FLIR1983 ME crankcase doors, when running_800.jpg" use="PHOTO" contentType="image/jpeg" name="Crankcase and Casing Doors" attachmentDate="2024-08-03+02:00">
+                <Description>Crankcase doord starboard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0896" location="img\20240603_140435 Main Engine cylinder block, explosion relief valves, foundation bolts - Copy - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bedplate and Holding Down and Tie Bolts" attachmentDate="2024-08-03+02:00">
+                <Description>Bedplate holding down bolts.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0897" location="img\IMG_0641 ME main engine crankshaft hydraulic damper, new mounting_800.JPG" use="PHOTO" contentType="image/jpeg" name="Hydraulic Dampeners" attachmentDate="2024-08-03+02:00">
+                <Description>ME crankshaft hydraulic damper during replacement.&#xD;
+Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0898" location="img\IMG_1718092226465 main engine hydraulic damper_800.jpg" use="PHOTO" contentType="image/jpeg" name="Hydraulic Dampeners" attachmentDate="2024-08-03+02:00">
+                <Description>The new ME hydraulic damper.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0899" location="img\20240617_094333 main engine fuel injection pumps, FOIP_800.jpg" use="PHOTO" contentType="image/jpeg" name="HP Fuel pumps" attachmentDate="2024-08-03+02:00">
+                <Description>All ME HP FOIP were overhauled with replacement of the plunger and barrels.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0056</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0900" location="img\20240617_094331 main engine fuel injection pumps, FOIP_800.jpg" use="PHOTO" contentType="image/jpeg" name="Jacketed HP fuel pipes and leak off arrangement" attachmentDate="2024-08-03+02:00">
+                <Description>HP fuel pipes were lapped and o-rings renewed.</Description>
                 <Tags>
                     <TagId>I_D_TA_0056</TagId>
                     <TagId>I_D_TA_0054</TagId>
