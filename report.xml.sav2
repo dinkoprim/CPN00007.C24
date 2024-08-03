@@ -14275,8 +14275,8 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
             <Module id="I_R_MO_0004" refId="R_MO_003" manual="false">
                 <Ratings>
                     <Rating refRatingId="R_RA_098"/>
-                    <Rating refRatingId="R_RA_099"/>
-                    <Rating refRatingId="R_RA_100"/>
+                    <Rating refRatingId="R_RA_099" value="1"/>
+                    <Rating refRatingId="R_RA_100" value="1"/>
                 </Ratings>
                 <TotalRatings>
                     <TotalRating refRatingId="R_RA_054"/>
@@ -14288,7 +14288,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                 </ReportBlocks>
                 <Messages>
                     <Message refId="R_MS_018"/>
-                    <Message refId="R_MS_031"/>
+                    <Message refId="R_MS_031">
+                        <Message>On completion of the CAP survey, the Propulsion and Auxiliary Machinery, Fittings &amp; Systems has been found to be in good condition.</Message>
+                    </Message>
                 </Messages>
                 <Groups>
                     <Group id="I_R_GR_0055" refId="R_GR_034" manual="false">
@@ -17856,12 +17858,12 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                     </Group>
                     <Group id="I_R_GR_0079" refId="R_GR_058" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
-                            <Rating refRatingId="R_RA_109"/>
+                            <Rating refRatingId="R_RA_053" value="1"/>
+                            <Rating refRatingId="R_RA_109" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_044"/>
-                            <TotalRating refRatingId="R_RA_045"/>
+                            <TotalRating refRatingId="R_RA_044" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_045" value="1"/>
                             <TotalRating refRatingId="R_RA_046"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -17873,7 +17875,7 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                         <Items>
                             <Item id="I_R_IT_0876" refId="R_IT_625" name="Engine Room, Auxiliary Machinery Spaces and Engine Store Rooms" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0877" refId="R_IT_625" name="Main Propulsion Installations" manual="false">
@@ -17882,7 +17884,7 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0783</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0878" refId="R_IT_625" name="Shafting, Stern Tube and Propeller Systems" manual="false">
@@ -17891,12 +17893,12 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0785</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0879" refId="R_IT_625" name="Auxiliary Engines" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0880" refId="R_IT_625" name="Oil Pumps and Purifiers" manual="false">
@@ -17904,12 +17906,12 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0789</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0881" refId="R_IT_625" name="Fresh and Sea Water Pumps" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0882" refId="R_IT_625" name="Compressors" manual="false">
@@ -17917,17 +17919,17 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0786</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0883" refId="R_IT_625" name="Ventilation Fans" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0884" refId="R_IT_625" name="Piping and Valves" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0885" refId="R_IT_625" name="Boilers, Economisers and Thermal Oil Heaters" manual="false">
@@ -17935,42 +17937,42 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0788</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0886" refId="R_IT_625" name="Heat Exchangers (others)" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0887" refId="R_IT_625" name="Miscellaneous Equipment" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0888" refId="R_IT_625" name="Communication, Order Transmission and Remote/Emergency Stop Systems" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0889" refId="R_IT_625" name="Generators and Switchboards" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0890" refId="R_IT_625" name="Motors and Associated Starters" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0891" refId="R_IT_625" name="Electrical installations (others)" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0892" refId="R_IT_625" name="Automated installation" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0893" refId="R_IT_625" name="Fire/Smoke/Gas Detection and Fire Fighting Systems" manual="false">
@@ -17978,12 +17980,12 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
     <Photo>I_D_DO_0787</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0894" refId="R_IT_625" name="Environmental Management" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_033"/>
+    <Rating refRatingId="R_RA_033" value="1"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -17997,6 +17999,7 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                     <Summary refSummaryId="R_SU_024">
                         <Comment>Full details of the surveys/modifications/repairs that were carried out are described within the propulsion and auxiliaries Machinery Report of this CAP report. This document contains ratings awarded for equipment on completion of the CAP surveys together with photographic records.
 					</Comment>
+                        <Message>On completion of the CAP survey, the Propulsion and Auxiliary Machinery, Fittings &amp; Systems has been found to be in good condition.</Message>
                     </Summary>
                     <Summary refSummaryId="R_SU_009"/>
                     <Summary refSummaryId="R_SU_010"/>

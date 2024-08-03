@@ -17877,11 +17877,19 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0877" refId="R_IT_625" name="Main Propulsion Installations" manual="false">
+<Photos>
+    <Photo>I_D_DO_0782</Photo>
+    <Photo>I_D_DO_0783</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_033"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0878" refId="R_IT_625" name="Shafting, Stern Tube and Propeller Systems" manual="false">
+<Photos>
+    <Photo>I_D_DO_0784</Photo>
+    <Photo>I_D_DO_0785</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_033"/>
 </Ratings>
@@ -17892,6 +17900,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0880" refId="R_IT_625" name="Oil Pumps and Purifiers" manual="false">
+<Photos>
+    <Photo>I_D_DO_0789</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_033"/>
 </Ratings>
@@ -17902,6 +17913,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0882" refId="R_IT_625" name="Compressors" manual="false">
+<Photos>
+    <Photo>I_D_DO_0786</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_033"/>
 </Ratings>
@@ -17917,6 +17931,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0885" refId="R_IT_625" name="Boilers, Economisers and Thermal Oil Heaters" manual="false">
+<Photos>
+    <Photo>I_D_DO_0788</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_033"/>
 </Ratings>
@@ -17957,6 +17974,9 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0893" refId="R_IT_625" name="Fire/Smoke/Gas Detection and Fire Fighting Systems" manual="false">
+<Photos>
+    <Photo>I_D_DO_0787</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_033"/>
 </Ratings>
@@ -22632,6 +22652,54 @@ HRU expiry - March 2026</Description>
                 <Tags>
                     <TagId>I_D_TA_0006</TagId>
                     <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0782" location="img\cylinder liner_800.png" use="PHOTO" contentType="image/png" name="Main Propulsion Installations" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0783" location="img\turbo charger_800.png" use="PHOTO" contentType="image/png" name="Main Propulsion Installations" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0784" location="img\cpp system_800.png" use="PHOTO" contentType="image/png" name="Shafting, Stern Tube and Propeller Systems" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0785" location="img\cpp test_800.png" use="PHOTO" contentType="image/png" name="Shafting, Stern Tube and Propeller Systems" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0786" location="img\compressor_800.png" use="PHOTO" contentType="image/png" name="Compressors" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0787" location="img\firea alrm_800.png" use="PHOTO" contentType="image/png" name="Fire/Smoke/Gas Detection and Fire Fighting Systems" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0788" location="img\economiser_800.png" use="PHOTO" contentType="image/png" name="Boilers, Economisers and Thermal Oil Heaters" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0789" location="img\lube oil pump_800.png" use="PHOTO" contentType="image/png" name="Oil Pumps and Purifiers" attachmentDate="2024-08-02+03:00">
+                <Tags>
+                    <TagId>I_D_TA_0074</TagId>
+                    <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
         </Documents>
