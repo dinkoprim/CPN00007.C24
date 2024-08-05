@@ -15259,17 +15259,20 @@ Aux engine 1 was overhauled.</Comment>
                     </Group>
                     <Group id="I_R_GR_0063" refId="R_GR_042" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.5"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Oil Pumps and Purifiers.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -15282,8 +15285,12 @@ Aux engine 1 was overhauled.</Comment>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Oil Pumps and Purifiers.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -15294,12 +15301,12 @@ Aux engine 1 was overhauled.</Comment>
     <Photo>I_D_DO_0967</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0588" refId="R_IT_382" name="Fuel Oil Supply Pumps" manual="false">
@@ -15307,12 +15314,12 @@ Aux engine 1 was overhauled.</Comment>
     <Photo>I_D_DO_0968</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0589" refId="R_IT_383" name="Fuel Oil Circ Pumps" manual="false">
@@ -15320,12 +15327,12 @@ Aux engine 1 was overhauled.</Comment>
     <Photo>I_D_DO_0969</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0590" refId="R_IT_384" manual="false">
@@ -15335,12 +15342,12 @@ Aux engine 1 was overhauled.</Comment>
     <Photo>I_D_DO_0972</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0591" refId="R_IT_385" manual="false">
@@ -15358,12 +15365,12 @@ Aux engine 1 was overhauled.</Comment>
     <Photo>I_D_DO_0973</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0593" refId="R_IT_387" name="Diesel Oil Service Pump" manual="false">
@@ -15371,52 +15378,97 @@ Aux engine 1 was overhauled.</Comment>
     <Photo>I_D_DO_0974</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0594" refId="R_IT_388" name="Diesel Oil Purifier" manual="false">
+<Photos>
+    <Photo>I_D_DO_0976</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0595" refId="R_IT_389" name="Lube Oil Transfer Pump" manual="false">
+<Photos>
+    <Photo>I_D_DO_0978</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0596" refId="R_IT_390" name="ME Lube Oil STby Pump" manual="false">
+                            <Item id="I_R_IT_0596" refId="R_IT_390" name="ME Lube Oil Stby Pump" manual="false">
+<Photos>
+    <Photo>I_D_DO_0979</Photo>
+    <Photo>I_D_DO_0980</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0597" refId="R_IT_391" manual="false">
+<Photos>
+    <Photo>I_D_DO_0981</Photo>
+    <Photo>I_D_DO_0982</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0898" refId="R_IT_693" name="Thermal oil boilers' circ pumps" manual="true">
+<Photos>
+    <Photo>I_D_DO_0984</Photo>
+    <Photo>I_D_DO_0986</Photo>
+    <Photo>I_D_DO_0988</Photo>
+</Photos>
+<Ratings>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0899" refId="R_IT_693" name="Economizer Thermal Oil pumps" manual="true">
+<Photos>
+    <Photo>I_D_DO_0985</Photo>
+    <Photo>I_D_DO_0987</Photo>
+    <Photo>I_D_DO_0989</Photo>
+    <Photo>I_D_DO_0990</Photo>
+</Photos>
+<Ratings>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0598" refId="R_IT_392" manual="false">
@@ -15450,13 +15502,16 @@ Aux engine 1 was overhauled.</Comment>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0601" refId="R_IT_395" manual="false">
+<Photos>
+    <Photo>I_D_DO_0983</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -15493,7 +15548,7 @@ Aux engine 1 was overhauled.</Comment>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
-                            <Item id="I_R_IT_0602" refId="R_IT_396" manual="false">
+                            <Item id="I_R_IT_0602" refId="R_IT_396" name="High T. Stby Fresh Water System " manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -15503,7 +15558,7 @@ Aux engine 1 was overhauled.</Comment>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0603" refId="R_IT_397" manual="false">
+                            <Item id="I_R_IT_0603" refId="R_IT_397" name="Low T. Stby Fresh Water System" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -15513,7 +15568,7 @@ Aux engine 1 was overhauled.</Comment>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0604" refId="R_IT_398" manual="false">
+                            <Item id="I_R_IT_0604" refId="R_IT_398" name="Main Engine Jacket Preheating Water Pumps" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -15525,35 +15580,35 @@ Aux engine 1 was overhauled.</Comment>
                             </Item>
                             <Item id="I_R_IT_0605" refId="R_IT_399" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0606" refId="R_IT_400" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0607" refId="R_IT_401" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0608" refId="R_IT_402" manual="false">
+                            <Item id="I_R_IT_0608" refId="R_IT_402" name="Air Conditioning Circulating Sea Water Pump" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -15565,22 +15620,22 @@ Aux engine 1 was overhauled.</Comment>
                             </Item>
                             <Item id="I_R_IT_0609" refId="R_IT_403" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0610" refId="R_IT_404" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0611" refId="R_IT_405" manual="false">
@@ -15603,7 +15658,27 @@ Aux engine 1 was overhauled.</Comment>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0613" refId="R_IT_407" manual="false">
+                            <Item id="I_R_IT_0613" refId="R_IT_407" name="Main Fire Pump" manual="false">
+<Ratings>
+    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022"/>
+    <Rating refRatingId="R_RA_040"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0900" refId="R_IT_693" name="Foam pump" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022"/>
+    <Rating refRatingId="R_RA_040"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0901" refId="R_IT_693" name="Tank cleaning and Fire pump" manual="true">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -15625,32 +15700,32 @@ Aux engine 1 was overhauled.</Comment>
                             </Item>
                             <Item id="I_R_IT_0615" refId="R_IT_409" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0616" refId="R_IT_410" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0617" refId="R_IT_411" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0618" refId="R_IT_412" manual="false">
@@ -15673,7 +15748,7 @@ Aux engine 1 was overhauled.</Comment>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0620" refId="R_IT_414" manual="false">
+                            <Item id="I_R_IT_0620" refId="R_IT_414" name="Evaporator Sea Water Ejector Supply Pump" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -18630,8 +18705,12 @@ The rating good condition has been assigned to the Environmental Management.</Co
             </Tag>
             <Tag id="I_D_TA_0059" name="Vibration measurement"/>
             <Tag id="I_D_TA_0060" name="Auxiliary Engines"/>
-            <Tag id="I_D_TA_0061" name="Oil Pumps and Purifiers"/>
-            <Tag id="I_D_TA_0062" name="Fresh and Sea Water Pumps"/>
+            <Tag id="I_D_TA_0061" name="Oil Pumps and Purifiers">
+                <TagSons/>
+            </Tag>
+            <Tag id="I_D_TA_0062" name="Fresh and Sea Water Pumps">
+                <TagSons/>
+            </Tag>
             <Tag id="I_D_TA_0063" name="Compressors"/>
             <Tag id="I_D_TA_0064" name="Ventilation Fans"/>
             <Tag id="I_D_TA_0065" name="Piping and Valves"/>
@@ -24002,6 +24081,104 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0974" location="img\20240603_133756 probably Aux engines DO supply pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Diesel Oil Service Pump" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0976" location="img\20240603_134614 DO purifier_800.jpg" use="PHOTO" contentType="image/jpeg" name="Diesel Oil Purifier" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0977" location="img\20240603_140454 LO purifier feed pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_140454 LO purifier feed pump_800.jpg" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0978" location="img\20240603_140627 LO transfer and fill pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Lube Oil Transfer Pump" attachmentDate="2024-08-04+02:00">
+                <Description>LO transfer and feed pump.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0979" location="img\20240603_140233 lube oil pump line, FW cooling pipes_800.jpg" use="PHOTO" contentType="image/jpeg" name="ME Lube Oil Stby Pump" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0980" location="img\20240603_140222 lube oil LO pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="ME Lube Oil Stby Pump" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0981" location="img\20240603_134626 separator, LO purifier, el motor, control panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Lube Oil Purifiers" attachmentDate="2024-08-04+02:00">
+                <Description>LO purifier.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0982" location="img\20240603_140527 LO purifier feed pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Lube Oil Purifiers" attachmentDate="2024-08-04+02:00">
+                <Description>LO purifier feed pump.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0983" location="img\20240603_140509 sludge pump, piston pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Dirty Oil Transfer Pumps" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0984" location="img\FLIR1707 thermal oil pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Thermal oil boilers' circ pumps" attachmentDate="2024-08-04+02:00">
+                <Description>Boiler thermal oil circ  pumps - no.1 in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0985" location="img\FLIR1697 thermal oil pumps, economiser pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Economizer Thermal Oil pumps" attachmentDate="2024-08-04+02:00">
+                <Description>Economizer thermal oil pumps - no.2 in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0986" location="img\FLIR1706 thermal oil pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Thermal oil boilers' circ pumps" attachmentDate="2024-08-04+02:00">
+                <Description>Boiler thermal oil circ  pumps - no.1 in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0987" location="img\FLIR1696 thermal oil pumps, economiser pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Economizer Thermal Oil pumps" attachmentDate="2024-08-04+02:00">
+                <Description>Economizer thermal oil pumps - no.2 in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0988" location="img\20240619_111402 boilers thermal oil pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Thermal oil boilers' circ pumps" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0989" location="img\20240619_145438 thermal fluid pumps 1&amp;2, Economizer Thermal fluid pumps 1&amp;2_800.jpg" use="PHOTO" contentType="image/jpeg" name="Economizer Thermal Oil pumps" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0990" location="img\20240603_131603 thermal fluid circulating pumps, economiser pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Economizer Thermal Oil pumps" attachmentDate="2024-08-04+02:00">
+                <Description>Economizer thermal oil pump - no.1.</Description>
                 <Tags>
                     <TagId>I_D_TA_0061</TagId>
                     <TagId>I_D_TA_0054</TagId>
