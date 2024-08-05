@@ -15414,8 +15414,8 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                             </Item>
                             <Item id="I_R_IT_0596" refId="R_IT_390" name="ME Lube Oil Stby Pump" manual="false">
 <Photos>
-    <Photo>I_D_DO_0979</Photo>
     <Photo>I_D_DO_0980</Photo>
+    <Photo>I_D_DO_1000</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
@@ -15518,39 +15518,50 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                     </Group>
                     <Group id="I_R_GR_0064" refId="R_GR_043" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.7"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Fresh and Sea Water Pumps.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
 <Sons>
     <Son refId="R_BL_012"/>
-    <Son refId="R_BL_013"/>
+    <Son selected="true" refId="R_BL_013">
+        <Comment>The HT Cooling FW pump and el motor were overhauled during the docking by the Crew. Bearings were renewed. The pump was tested in operation and found in normal working condition.</Comment>
+    </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
 </Sons>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Fresh and Sea Water Pumps.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
-                            <Item id="I_R_IT_0602" refId="R_IT_396" name="HT. Stby Fresh Water System " manual="false">
+                            <Item id="I_R_IT_0602" refId="R_IT_396" name="HT. Stby Fresh Water System" manual="false">
 <Photos>
     <Photo>I_D_DO_0991</Photo>
+    <Photo>I_D_DO_0992</Photo>
+    <Photo>I_D_DO_0993</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="1"/>
@@ -15562,23 +15573,29 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0603" refId="R_IT_397" name="LT. Stby Fresh Water System" manual="false">
+<Photos>
+    <Photo>I_D_DO_1001</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0604" refId="R_IT_398" name="Main Engine Jacket Preheating Water Pumps" manual="false">
+<Photos>
+    <Photo>I_D_DO_1006</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0605" refId="R_IT_399" manual="false">
@@ -15612,13 +15629,17 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0608" refId="R_IT_402" name="Air Conditioning Circulating Sea Water Pump" manual="false">
+<Photos>
+    <Photo>I_D_DO_1007</Photo>
+    <Photo>I_D_DO_1008</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0609" refId="R_IT_403" manual="false">
@@ -15642,13 +15663,16 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0611" refId="R_IT_405" manual="false">
+<Photos>
+    <Photo>I_D_DO_1009</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0612" refId="R_IT_406" manual="false">
@@ -15662,43 +15686,58 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0613" refId="R_IT_407" name="Main Fire Pump" manual="false">
+<Photos>
+    <Photo>I_D_DO_1011</Photo>
+    <Photo>I_D_DO_1012</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0900" refId="R_IT_693" name="Foam and Fire Pump" manual="true">
+<Photos>
+    <Photo>I_D_DO_1013</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NT"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0901" refId="R_IT_693" name="Tank cleaning and Fire Pump" manual="true">
+<Photos>
+    <Photo>I_D_DO_1017</Photo>
+    <Photo>I_D_DO_1016</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NT"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0614" refId="R_IT_408" manual="false">
+<Photos>
+    <Photo>I_D_DO_1019</Photo>
+    <Photo>I_D_DO_1018</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0615" refId="R_IT_409" manual="false">
@@ -15732,33 +15771,36 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0618" refId="R_IT_412" manual="false">
+<Photos>
+    <Photo>I_D_DO_1020</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0619" refId="R_IT_413" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0620" refId="R_IT_414" name="Evaporator Sea Water Ejector Supply Pump" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -17385,18 +17427,24 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0797" refId="R_IT_546" manual="false">
+                            <Item id="I_R_IT_0797" refId="R_IT_546" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_0994</Photo>
+    <Photo>I_D_DO_0995</Photo>
+    <Photo>I_D_DO_0997</Photo>
+    <Photo>I_D_DO_0996</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_020" value="TRUE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0798" refId="R_IT_547" manual="false">
+                            <Item id="I_R_IT_0798" refId="R_IT_547" name="LT Cooling Fresh Water System Circ Pump Motor and Starter Panel" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -24108,12 +24156,6 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0979" location="img\20240603_140233 lube oil pump line, FW cooling pipes_800.jpg" use="PHOTO" contentType="image/jpeg" name="ME Lube Oil Stby Pump" attachmentDate="2024-08-04+02:00">
-                <Tags>
-                    <TagId>I_D_TA_0061</TagId>
-                    <TagId>I_D_TA_0054</TagId>
-                </Tags>
-            </Document>
             <Document id="I_D_DO_0980" location="img\20240603_140222 lube oil LO pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="ME Lube Oil Stby Pump" attachmentDate="2024-08-04+02:00">
                 <Tags>
                     <TagId>I_D_TA_0061</TagId>
@@ -24187,7 +24229,132 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0991" location="img\20240618_093246 HT pump running after overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Stby Fresh Water System " attachmentDate="2024-08-04+02:00">
+            <Document id="I_D_DO_0991" location="img\20240618_093246 HT pump running after overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Stby Fresh Water System" attachmentDate="2024-08-04+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0992" location="img\20240617_153935 HT cooling pump overhauled, new mechanical seal_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Stby Fresh Water System" attachmentDate="2024-08-05+02:00">
+                <Description>The pump was overhauled.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0993" location="img\20240617_154328 HT pump casing and shaft_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Stby Fresh Water System" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0994" location="img\20240617_115803 HT pump el motor overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0995" location="img\20240617_115513 HT pump el motor overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0996" location="img\FLIR1965 ME FW HT pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
+                <Description>The scene of the Thermal image of the HT pump electric motor and pump in operation after the overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_0997" location="img\FLIR1964 ME FW HT pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
+                <Description>Thermal image of the HT pump electric motor and pump in operation after the overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1000" location="img\20240618_134456 LO stby pump after overhaul_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="ME Lube Oil Stby Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1001" location="img\20240603_140110 LT FW cooling pump, temp regulating valve, emergency sea water cooler, heat exchanger - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="LT. Stby Fresh Water System" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1006" location="img\FLIR1971 ME jacket preheating pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Jacket Preheating Water Pumps" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1007" location="img\20240603_140101 AC aircondition sea water cooling pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Circulating Sea Water Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1008" location="img\20240603_140051 FWG SW cooling pump and AC SW cool pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Circulating Sea Water Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1009" location="img\20240603_133306 FWG distillate pump, ejector_800.jpg" use="PHOTO" contentType="image/jpeg" name="Condensate Pumps" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1011" location="img\20240619_140204 testing fire pump in ER_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1012" location="img\20240619_140210 testing fire pump in ER, el panel starter for fire, foam. bilge pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Description>Main Fire pump during testing.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1013" location="img\20240603_140342 foam and tank cleaning emergency pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Foam and Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1016" location="img\20240619_141834 Tank cleaning pump testing, pressure gauge when used as fire pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Tank cleaning and Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Description>Delivery pressure gauge of the Tank cleaning pump during testing.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1017" location="img\20240619_134543 tank cleaning pump tested to substitute fire foam pump - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Tank cleaning and Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1018" location="img\20240603_104542 bow thruster room fire pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1019" location="img\20240603_104520 bow thruster room fire pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Fire Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1020" location="img\20240603_133709 hydrophore pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Pump" attachmentDate="2024-08-05+02:00">
                 <Tags>
                     <TagId>I_D_TA_0062</TagId>
                     <TagId>I_D_TA_0054</TagId>
