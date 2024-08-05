@@ -15518,17 +15518,20 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                     </Group>
                     <Group id="I_R_GR_0064" refId="R_GR_043" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.7"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Fresh and Sea Water Pumps.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -15543,8 +15546,12 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Fresh and Sea Water Pumps.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -15722,14 +15729,15 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                             <Item id="I_R_IT_0614" refId="R_IT_408" manual="false">
 <Photos>
     <Photo>I_D_DO_1019</Photo>
+    <Photo>I_D_DO_1018</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0615" refId="R_IT_409" manual="false">
@@ -15763,55 +15771,70 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0618" refId="R_IT_412" manual="false">
+<Photos>
+    <Photo>I_D_DO_1020</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0619" refId="R_IT_413" manual="false">
+<Photos>
+    <Photo>I_D_DO_1022</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0620" refId="R_IT_414" name="Evaporator Sea Water Ejector Supply Pump" manual="false">
+<Photos>
+    <Photo>I_D_DO_1023</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                         </Items>
                     </Group>
                     <Group id="I_R_GR_0065" refId="R_GR_044" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.6"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Compressors.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>Service air compressor new vent fan was installed.</Comment>
 <Sons>
-    <Son refId="R_BL_012"/>
+    <Son selected="false" refId="R_BL_012">
+        <Comment></Comment>
+    </Son>
     <Son refId="R_BL_013"/>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
@@ -15819,96 +15842,126 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Compressors.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0621" refId="R_IT_415" manual="false">
+<Photos>
+    <Photo>I_D_DO_1024</Photo>
+    <Photo>I_D_DO_1025</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0622" refId="R_IT_416" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0623" refId="R_IT_417" manual="false">
+                            <Item id="I_R_IT_0623" refId="R_IT_417" name="Service Air Compressor" manual="false">
+<Photos>
+    <Photo>I_D_DO_1034</Photo>
+    <Photo>I_D_DO_1033</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0624" refId="R_IT_418" manual="false">
+                            <Item id="I_R_IT_0624" refId="R_IT_418" name="Air Dryer" manual="false">
+<Photos>
+    <Photo>I_D_DO_1026</Photo>
+    <Photo>I_D_DO_1027</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0625" refId="R_IT_419" manual="false">
+<Photos>
+    <Photo>I_D_DO_1032</Photo>
+    <Photo>I_D_DO_1029</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0626" refId="R_IT_420" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                         </Items>
                     </Group>
                     <Group id="I_R_GR_0066" refId="R_GR_045" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.2"/>
+                            <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Ventilation Fans.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>Accommodation aircon condernser was renewed by an external service company.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
-    <Son refId="R_BL_013"/>
+    <Son selected="true" refId="R_BL_013">
+        <Comment>ER vent fans were overhauled and ballanced in the workshop of the Shipyard.</Comment>
+    </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
 </Sons>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Ventilation Fans.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -15916,72 +15969,91 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                         <Items>
                             <Item id="I_R_IT_0627" refId="R_IT_421" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0628" refId="R_IT_422" manual="false">
+<Photos>
+    <Photo>I_D_DO_1036</Photo>
+    <Photo>I_D_DO_1037</Photo>
+    <Photo>I_D_DO_1040</Photo>
+    <Photo>I_D_DO_1042</Photo>
+    <Photo>I_D_DO_1043</Photo>
+    <Photo>I_D_DO_1041</Photo>
+    <Photo>I_D_DO_1044</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_020" value="TRUE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0629" refId="R_IT_423" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0630" refId="R_IT_424" manual="false">
+<Photos>
+    <Photo>I_D_DO_1045</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0631" refId="R_IT_425" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0632" refId="R_IT_426" manual="false">
+<Photos>
+    <Photo>I_D_DO_1046</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0633" refId="R_IT_427" manual="false">
+<Photos>
+    <Photo>I_D_DO_1048</Photo>
+    <Photo>I_D_DO_1049</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -16019,18 +16091,22 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0634" refId="R_IT_428" manual="false">
+<Photos>
+    <Photo>I_D_DO_1053</Photo>
+    <Photo>I_D_DO_1052</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0635" refId="R_IT_429" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -16038,23 +16114,27 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0637" refId="R_IT_431" manual="false">
+                            <Item id="I_R_IT_0637" refId="R_IT_431" name="Thermal Oil Piping and Valves (Excluding Boiler and EGE Mountings)" manual="false">
+<Photos>
+    <Photo>I_D_DO_1050</Photo>
+    <Photo>I_D_DO_1051</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0638" refId="R_IT_432" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -16062,7 +16142,7 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -16070,47 +16150,51 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0641" refId="R_IT_435" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0642" refId="R_IT_436" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0643" refId="R_IT_437" manual="false">
+<Photos>
+    <Photo>I_D_DO_1054</Photo>
+    <Photo>I_D_DO_1055</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0644" refId="R_IT_438" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0645" refId="R_IT_439" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -16118,7 +16202,7 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -16126,7 +16210,7 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_003"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -17433,7 +17517,7 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0798" refId="R_IT_547" name="LT Cooling Fresh Water System  Circ Pump Motor and Starter Panel" manual="false">
+                            <Item id="I_R_IT_0798" refId="R_IT_547" name="LT Cooling Fresh Water System Circ Pump Motor and Starter Panel" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -24331,7 +24415,7 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_1018" location="img\20240603_104542 bow thruster room fire pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_104542 bow thruster room fire pump_800.jpg" attachmentDate="2024-08-05+02:00">
+            <Document id="I_D_DO_1018" location="img\20240603_104542 bow thruster room fire pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Fire Pump" attachmentDate="2024-08-05+02:00">
                 <Tags>
                     <TagId>I_D_TA_0062</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -24340,6 +24424,184 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
             <Document id="I_D_DO_1019" location="img\20240603_104520 bow thruster room fire pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Fire Pump" attachmentDate="2024-08-05+02:00">
                 <Tags>
                     <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1020" location="img\20240603_133709 hydrophore pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1022" location="img\20240603_133726 domestic water heater and central water heating system heater - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Hot Water Circulating Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1023" location="img\20240603_140103 FWG SW cooling pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Evaporator Sea Water Ejector Supply Pump" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1024" location="img\20240603_134219 starting air compressor, when running - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Air Compressors" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1025" location="img\20240603_134221 starting air compressor_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Air Compressors" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1026" location="img\20240603_131512 engine room, service air compressor, air dryer_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Dryer" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1027" location="img\20240603_132353 air dryer reservoirs_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Dryer" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1029" location="img\20240604_140243 aircon compressor and condenser_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Compressors" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1032" location="img\20240604_140249 aircon compressor and condenser, condenser planned for renewal - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Compressors" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1033" location="img\20240617_092754 ER service compressor_800.jpg" use="PHOTO" contentType="image/jpeg" name="Service Air Compressor" attachmentDate="2024-08-05+02:00">
+                <Description>Service Air Compressor after completion of the repair.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1034" location="img\20240608_135856 service compressor vent fan renewed_800.jpg" use="PHOTO" contentType="image/jpeg" name="Service Air Compressor" attachmentDate="2024-08-05+02:00">
+                <Description>New vent fan was installed.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0063</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1036" location="img\IMG_1718109897439 ER vent fan_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fans taken out for overhaul and ballancing in the workshop of the Shipyard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1037" location="img\IMG_1718261579559 ER vent fan installed_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fans reinstalled after overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1040" location="img\IMG_1718189456275 ER vent fan installed_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fans reinstalled after overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1041" location="img\20240608_135541 corrosion maintenance inside the ER vent fan compartment ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fan compartments and grating frames were maintained and recoated by the Crew.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1042" location="img\20240608_135446 corrosion maintenance inside the ER vent fan ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fan compartments and grating frames were maintained and recoated by the Crew.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1043" location="img\20240605_133423 ER vent fans compartment maintenance_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fan compartments and grating frames were maintained and recoated by the Crew.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1044" location="img\20240609_081708 ER vent fan casing maintenance, fan ashore overhaul by the shipyard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Supply Fans" attachmentDate="2024-08-05+02:00">
+                <Description>ER vent fan compartments and grating frames were maintained and recoated by the Crew.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1045" location="img\20240603_131901 ER workshop vent duct and fan_800.jpg" use="PHOTO" contentType="image/jpeg" name="Workshops and Stores Rooms Supply and Exhaust fans" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1046" location="img\20240603_113626 emergency generator room ventilation fan, smoke detector_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Generator Room Supply &amp; Exhaust Fans" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1048" location="img\20240603_131610 airconditioning plant, AHU air handling unit_800.jpg" use="PHOTO" contentType="image/jpeg" name="Accommodation Air Conditioning Unit fans" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1049" location="img\20240604_140258 accommodation aircon control panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Accommodation Air Conditioning Unit fans" attachmentDate="2024-08-05+02:00">
+                <Description>Aircon fully operational after the service for renewal of the aircon condenser by an external company.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0064</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1050" location="img\20240603_131831 thermal fluid circ pumps, pipes and valves_800.jpg" use="PHOTO" contentType="image/jpeg" name="Thermal Oil Piping and Valves (Excluding Boiler and EGE Mountings)" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1051" location="img\20240603_140240 engine room thermal oil heating piping and valves_800.jpg" use="PHOTO" contentType="image/jpeg" name="Thermal Oil Piping and Valves (Excluding Boiler and EGE Mountings)" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1052" location="img\20240603_140327 ER HFO fuel oil tank line valves, fuel pipes_800.jpg" use="PHOTO" contentType="image/jpeg" name="Heavy Fuel Oil Piping and Valves" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1053" location="img\20240603_140335 CORROSION &amp; WATER CONTROL ICAF ICCP DISPLAY UNIT anodes cathodic protection, fuel pipes_800.jpg" use="PHOTO" contentType="image/jpeg" name="Heavy Fuel Oil Piping and Valves" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1054" location="img\20240603_140504 sludge pump piping, bilge piping_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Sludge and Dirty Oil Piping and Valves" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1055" location="img\20240603_140503 bilge and sludge valve arrangement, suction and discharge_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Sludge and Dirty Oil Piping and Valves" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
