@@ -16265,33 +16265,37 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
     <Rating refRatingId="R_RA_053"/>
 </Ratings>
 <TotalRatings>
-    <TotalRating refRatingId="R_RA_025"/>
-    <TotalRating refRatingId="R_RA_026"/>
+    <TotalRating refRatingId="R_RA_025" value="1.0"/>
+    <TotalRating refRatingId="R_RA_026" value="1"/>
 </TotalRatings>
 <Items>
     <Item id="I_R_IT_0648" refId="R_IT_487" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_034"/>
+            <Rating refRatingId="R_RA_034" value="1"/>
         </Ratings>
     </Item>
 </Items>
                             </Son>
                         </Sons>
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.4"/>
+                            <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Boilers, Economisers and Thermal Oil Heaters.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>Alarms and trips of Thermal oil boilers and Economizer were tested at the end of the shipyard stay.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son refId="R_BL_013"/>
@@ -16301,8 +16305,12 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Boilers, Economisers and Thermal Oil Heaters.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -16316,9 +16324,9 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
             <Photo>I_D_DO_1084</Photo>
         </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0651" refId="R_IT_459" manual="false">
@@ -16326,43 +16334,57 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
             <Photo>I_D_DO_1088</Photo>
         </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0652" refId="R_IT_460" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1090</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0653" refId="R_IT_461" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1091</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0654" refId="R_IT_462" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1099</Photo>
+            <Photo>I_D_DO_1096</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0655" refId="R_IT_463" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0656" refId="R_IT_464" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1097</Photo>
+            <Photo>I_D_DO_1098</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0657" refId="R_IT_465" manual="false">
@@ -16396,15 +16418,19 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0662" refId="R_IT_470" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1102</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0663" refId="R_IT_471" manual="false">
+        <Photos/>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0664" refId="R_IT_472" manual="false">
@@ -16429,10 +16455,13 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0667" refId="R_IT_475" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1106</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0668" refId="R_IT_476" manual="false">
@@ -16442,9 +16471,13 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0669" refId="R_IT_477" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1107</Photo>
+            <Photo>I_D_DO_1108</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0670" refId="R_IT_478" manual="false">
@@ -16461,8 +16494,8 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0672" refId="R_IT_480" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0673" refId="R_IT_481" manual="false">
@@ -16513,9 +16546,9 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
             <Photo>I_D_DO_1086</Photo>
         </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0681" refId="R_IT_459" manual="false">
@@ -16523,43 +16556,53 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
             <Photo>I_D_DO_1089</Photo>
         </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0682" refId="R_IT_460" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0683" refId="R_IT_461" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1092</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0684" refId="R_IT_462" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1100</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0685" refId="R_IT_463" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0686" refId="R_IT_464" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1111</Photo>
+            <Photo>I_D_DO_1109</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0687" refId="R_IT_465" manual="false">
@@ -16593,15 +16636,18 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0692" refId="R_IT_470" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1120</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0693" refId="R_IT_471" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0694" refId="R_IT_472" manual="false">
@@ -16626,10 +16672,13 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0697" refId="R_IT_475" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1112</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0698" refId="R_IT_476" manual="false">
@@ -16639,9 +16688,12 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0699" refId="R_IT_477" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1113</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0700" refId="R_IT_478" manual="false">
@@ -16658,8 +16710,8 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0702" refId="R_IT_480" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0703" refId="R_IT_481" manual="false">
@@ -16705,38 +16757,51 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
                             <Item id="I_R_IT_0709" refId="R_IT_457" name="Economizer" elementId="I_S_BO_BO03" manual="false">
 <Sons>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0710" refId="R_IT_458" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1114</Photo>
+            <Photo>I_D_DO_1124</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0711" refId="R_IT_459" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1129</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0712" refId="R_IT_460" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="1"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0713" refId="R_IT_461" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1093</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0714" refId="R_IT_462" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1132</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0715" refId="R_IT_463" manual="false">
@@ -16759,9 +16824,13 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0718" refId="R_IT_466" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1116</Photo>
+            <Photo>I_D_DO_1117</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0719" refId="R_IT_467" manual="false">
@@ -16784,14 +16853,19 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0722" refId="R_IT_470" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0723" refId="R_IT_471" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1122</Photo>
+            <Photo>I_D_DO_1127</Photo>
+            <Photo>I_D_DO_1125</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0724" refId="R_IT_472" manual="false">
@@ -16884,10 +16958,14 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0738" refId="R_IT_486" manual="false">
+        <Photos>
+            <Photo>I_D_DO_1101</Photo>
+            <Photo>I_D_DO_1118</Photo>
+        </Photos>
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="2"/>
+            <Rating refRatingId="R_RA_014" value="1"/>
+            <Rating refRatingId="R_RA_040" value="1.5"/>
         </Ratings>
     </Son>
 </Sons>
@@ -16896,20 +16974,24 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
                     </Group>
                     <Group id="I_R_GR_0070" refId="R_GR_049" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.7"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Heat Exchangers (others).</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>ME air cooler was dismantled for ultrasonic cleaning and pressure test in the shipyard.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son refId="R_BL_013"/>
@@ -16919,133 +17001,169 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Heat Exchangers (others).</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0739" refId="R_IT_488" manual="false">
+<Photos>
+    <Photo>I_D_DO_1133</Photo>
+    <Photo>I_D_DO_1134</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0740" refId="R_IT_489" manual="false">
+                            <Item id="I_R_IT_0740" refId="R_IT_489" name="Main Engine Jacket Water Cooler" manual="false">
+<Photos>
+    <Photo>I_D_DO_1136</Photo>
+    <Photo>I_D_DO_1138</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0741" refId="R_IT_490" manual="false">
+<Photos>
+    <Photo>I_D_DO_1137</Photo>
+    <Photo>I_D_DO_1139</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0742" refId="R_IT_491" manual="false">
+<Photos>
+    <Photo>I_D_DO_1141</Photo>
+    <Photo>I_D_DO_1140</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0743" refId="R_IT_492" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0744" refId="R_IT_493" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0745" refId="R_IT_494" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0746" refId="R_IT_495" manual="false">
+<Photos>
+    <Photo>I_D_DO_1143</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0747" refId="R_IT_496" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0748" refId="R_IT_497" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0749" refId="R_IT_498" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0750" refId="R_IT_499" manual="false">
+<Photos>
+    <Photo>I_D_DO_1146</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0751" refId="R_IT_500" manual="false">
+<Photos>
+    <Photo>I_D_DO_1149</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0752" refId="R_IT_501" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0753" refId="R_IT_502" manual="false">
+<Photos>
+    <Photo>I_D_DO_1151</Photo>
+    <Photo>I_D_DO_1152</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                         </Items>
                     </Group>
                     <Group id="I_R_GR_0071" refId="R_GR_050" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.6"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Miscellaneous Equipment.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -17058,102 +17176,135 @@ The rating good condition has been assigned to the Piping and Valves.</Comment>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Miscellaneous Equipment.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0754" refId="R_IT_503" manual="false">
+<Photos>
+    <Photo>I_D_DO_1153</Photo>
+    <Photo>I_D_DO_1154</Photo>
+    <Photo>I_D_DO_1155</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0755" refId="R_IT_504" manual="false">
+                            <Item id="I_R_IT_0755" refId="R_IT_504" name="Service Air Receiver" manual="false">
+<Photos>
+    <Photo>I_D_DO_1157</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0756" refId="R_IT_505" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0757" refId="R_IT_506" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0758" refId="R_IT_507" manual="false">
+<Photos>
+    <Photo>I_D_DO_1160</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0759" refId="R_IT_508" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0760" refId="R_IT_509" manual="false">
+<Photos>
+    <Photo>I_D_DO_1158</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0761" refId="R_IT_510" manual="false">
+<Photos>
+    <Photo>I_D_DO_1161</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0762" refId="R_IT_511" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0763" refId="R_IT_512" manual="false">
+<Photos>
+    <Photo>I_D_DO_1163</Photo>
+    <Photo>I_D_DO_1162</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0764" refId="R_IT_513" manual="false">
+<Photos>
+    <Photo>I_D_DO_1165</Photo>
+    <Photo>I_D_DO_1166</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0765" refId="R_IT_514" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0766" refId="R_IT_515" manual="false">
+<Photos>
+    <Photo>I_D_DO_1167</Photo>
+    <Photo>I_D_DO_1168</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -24805,6 +24956,371 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
             <Document id="I_D_DO_1089" location="img\20240603_131753 thermal oil boiler 2 control panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Alarms and Trips)" attachmentDate="2024-08-06+02:00">
                 <Tags>
                     <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1090" location="img\20240609_090802 safety valves_800.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Valves)" attachmentDate="2024-08-07+02:00">
+                <Description>Thermal Oil Boilers Safety Valves dismantled for overhaul in the workshop of the shipyard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1091" location="img\20240603_131817 thermal boiler 1 fluid flow indicator_800.jpg" use="PHOTO" contentType="image/jpeg" name="Local Instruments and Gauges (Pressure and Temperature)" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1092" location="img\20240603_131822 thermal boiler 2 fluid flow indicator_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Local Instruments and Gauges (Pressure and Temperature)" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1093" location="img\20240619_150016 thermal fluid flow indicator_800.jpg" use="PHOTO" contentType="image/jpeg" name="Local Instruments and Gauges (Pressure and Temperature)" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1096" location="img\20240603_114409 funnel, thermal oil expansion tank_800.jpg" use="PHOTO" contentType="image/jpeg" name="Mountings, Cocks, Valves &amp; Level Gauges" attachmentDate="2024-08-07+02:00">
+                <Description>Thermla oil expansion tank. Level gauge.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1097" location="img\IMG_0587 inside the boiler 1 combustion chamber, tubes, refractory_800.JPG" use="PHOTO" contentType="image/jpeg" name="Furnace and furnace tubes" attachmentDate="2024-08-07+02:00">
+                <Description>Furnace tubes.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1098" location="img\IMG_0582 inside the boiler 1 combustion space, chamber_800.JPG" use="PHOTO" contentType="image/jpeg" name="Furnace and furnace tubes" attachmentDate="2024-08-07+02:00">
+                <Description>Refractory inside the furnace.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1099" location="img\20240603_114051 engine room thermal boilers burner 1 , thermal oil pipes and lagging, insulation_800.jpg" use="PHOTO" contentType="image/jpeg" name="Mountings, Cocks, Valves &amp; Level Gauges" attachmentDate="2024-08-07+02:00">
+                <Description>Mounting and valves.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1100" location="img\20240603_114206 engine room main engine exhaust duct lagging _800.jpg" use="PHOTO" contentType="image/jpeg" name="Mountings, Cocks, Valves &amp; Level Gauges" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1101" location="img\20240603_114209 engine room main engine exhaust duct lagging, exhaust flap actuator_800.jpg" use="PHOTO" contentType="image/jpeg" name="Flaps" attachmentDate="2024-08-07+02:00">
+                <Description>Exhaust gas flap actuator.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1102" location="img\20240603_114032 engine room thermal lagging cladding, exhaust ducts_800.jpg" use="PHOTO" contentType="image/jpeg" name="Casings and Exhaust Gas Uptakes" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1106" location="img\20240603_131552 thermal oil boiler 1, control panel_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Combustion control system" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1107" location="img\20240609_131126 boiler burner and diffuser_800.jpg" use="PHOTO" contentType="image/jpeg" name="Burners" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1108" location="img\IMG_0581 boiler 1 burner removed_800.JPG" use="PHOTO" contentType="image/jpeg" name="Burners" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1109" location="img\IMG_0580 refractory material boiler 2_800.JPG" use="PHOTO" contentType="image/jpeg" name="Furnace and furnace tubes" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1111" location="img\boiler 2 (8) inside the combustion chamber, tubes_800.JPG" use="PHOTO" contentType="image/jpeg" name="Furnace and furnace tubes" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1112" location="img\20240603_131753 thermal oil boiler 2 control panel_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Combustion control system" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1113" location="img\20240609_131324 boiler burner and diffuser_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Burners" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1114" location="img\IMG_0588 economizer inspection cover_800.JPG" use="PHOTO" contentType="image/jpeg" name="General condition" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1116" location="img\20240609_131732 exhaust gas boiler tubes_800.jpg" use="PHOTO" contentType="image/jpeg" name="Tubes, Headers and Handhole Doors" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1117" location="img\20240609_131714 exhaust gas boiler tubes_800.jpg" use="PHOTO" contentType="image/jpeg" name="Tubes, Headers and Handhole Doors" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1118" location="img\20240609_131740  exhaust gas boiler tubes_800.jpg" use="PHOTO" contentType="image/jpeg" name="Flaps" attachmentDate="2024-06-09+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1120" location="img\20240604_140126 thermal oil boilers exhaust sgas temp sensors_800.jpg" use="PHOTO" contentType="image/jpeg" name="Casings and Exhaust Gas Uptakes" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1122" location="img\20240603_114306 engine room main engine exhaust duct crack, traces of exh gas leak_800.jpg" use="PHOTO" contentType="image/jpeg" name="Supports, Holding Down Bolts and Sliding Feet" attachmentDate="2024-08-07+02:00">
+                <Description>Duct support before repair by welding.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1124" location="img\20240617_092014 ME exhaust gas duct_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="General condition" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1125" location="img\20240617_092107 ME exhaust duct recent repair_800_2.jpg" use="PHOTO" contentType="image/jpeg" name="Supports, Holding Down Bolts and Sliding Feet" attachmentDate="2024-08-07+02:00">
+                <Description>Condition of another duct support.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1127" location="img\20240617_091922 ehxaust gas leak repaired in ER duct_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Supports, Holding Down Bolts and Sliding Feet" attachmentDate="2024-08-07+02:00">
+                <Description>Duct support after the repair by welding.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1129" location="img\20240603_131552 thermal oil boiler 1, control panel_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Safety Devices (Alarms and Trips)" attachmentDate="2024-08-07+02:00">
+                <Description>Economizer control panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1132" location="img\20240619_145753 thermal oil fluid valve dismantling for check_800.jpg" use="PHOTO" contentType="image/jpeg" name="Mountings, Cocks, Valves &amp; Level Gauges" attachmentDate="2024-08-07+02:00">
+                <Description>One thermal oil valve opened up for inspection.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0066</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1133" location="img\20240603_133253 FWG, chemical dosage pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Evaporators" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1134" location="img\20240603_133303 FWG general view_800.jpg" use="PHOTO" contentType="image/jpeg" name="Evaporators" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1136" location="img\20240603_140151 ME jacket cooler, emergency sea water cooler, heat exchanger_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Jacket Water Cooler" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1137" location="img\20240603_140213 lube oil cooler heat exchanger_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Lube Oil Coolers" attachmentDate="2024-08-07+02:00">
+                <Description>ME LO cooler.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1138" location="img\20240603_140146 ME HT FW cooling pump, emergency sea water cooler, heat exchanger_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Jacket Water Cooler" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1139" location="img\20240603_140216 lube oil line before cooler, LO cooler thermostat control valve_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Lube Oil Coolers" attachmentDate="2024-08-07+02:00">
+                <Description>LO temperature regulating valve.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1140" location="img\20240608_140428 ME air cooler removed for cleaning_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Air Coolers" attachmentDate="2024-08-07+02:00">
+                <Description>ME air cooler dismantled for ultrasonic cleaning and pressure test in the shipyard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1141" location="img\20240603_140637 main engine air cooler_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Air Coolers" attachmentDate="2024-08-07+02:00">
+                <Description>ME Air cooler.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1143" location="img\20240603_134149 Aux engine 1 front side view_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Diesel Generators’ Jacket Water Coolers" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1144" location="img\20240603_134921 fuel oil preparation equipment, FO supply and circ pumps, Fo change-over valves, mixing column, FO heater_800.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_134921 fuel oil preparation equipment, FO supply and circ pumps, Fo change-over valves, mixing column, FO heater_800.jpg" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1145" location="img\20240603_134920 fuel oil preparation equipment, FO supply and circ pumps, Fo back-wash filter, mixing column, FO heater_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_134920 fuel oil preparation equipment, FO supply and circ pumps, Fo back-wash filter, mixing column, FO heater_800_0.jpg" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1146" location="img\20240603_134916 FO preparation equipment, FO electric heaters_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Heaters" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1149" location="img\20240603_134704 purifiers electric heater_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Purifier Lube Oil Heaters" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1151" location="img\FLIR1761 domestic calorifier_800.jpg" use="PHOTO" contentType="image/jpeg" name="Hot Water Calorifier" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1152" location="img\FLIR1760 domestic calorifier_800.jpg" use="PHOTO" contentType="image/jpeg" name="Hot Water Calorifier" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0067</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1153" location="img\20240603_133136 ME starting air bottles, receivers_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Air Receiver" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1154" location="img\IMG_0600 inside inspection of service air bottle, receiver_800.JPG" use="PHOTO" contentType="image/jpeg" name="Main Air Receiver" attachmentDate="2024-08-07+02:00">
+                <Description>Internal condition of AIr receiver 1.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1155" location="img\20240609_091749 main air receiver_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Air Receiver" attachmentDate="2024-08-07+02:00">
+                <Description>Internal condition of AIr receiver 2&#xD;
+.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1157" location="img\IMG_0598 service air bottle, receiver opened_800_0.JPG" use="PHOTO" contentType="image/jpeg" name="Service Air Receiver" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1158" location="img\20240604_140517 ECR aircon_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="M/E Control Room Air Conditioning" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1160" location="img\20240603_131612 accommodation aircon compressor reported to renew the condenser_800.jpg" use="PHOTO" contentType="image/jpeg" name="AC Units including Piping and Valves" attachmentDate="2024-08-07+02:00">
+                <Description>AC unit during replacement of the aircon condenser.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1161" location="img\20240617_092549 chain block, ME injector tester_800.jpg" use="PHOTO" contentType="image/jpeg" name="M/E Fuel Injectors Test Unit" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1162" location="img\FLIR1758 hydrophore pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Bottle" attachmentDate="2024-08-07+02:00">
+                <Description>Hydrophore pumps' thermal image when pump no.1 is in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1163" location="img\FLIR1759 hydrophore pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Bottle" attachmentDate="2024-08-07+02:00">
+                <Description>Hydrophore pumps.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1165" location="img\20240603_131855 ER workshop tools_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="General Tools for Engine Part" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1166" location="img\20240608_140130 hydraulic tool for unscrewing nuts, ME crankcase nut_800.jpg" use="PHOTO" contentType="image/jpeg" name="General Tools for Engine Part" attachmentDate="2024-08-07+02:00">
+                <Description>ME hydraulic bolts' tool.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1167" location="img\20240603_132616 ER lavatory, sink, UV bath cleaning, semi-portable fire extinguisher_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Toilet and Crew’s washing facilities" attachmentDate="2024-08-07+02:00">
+                <Description>ER lavatory.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1168" location="img\20240604_140938 dressing room, lavatory_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Toilet and Crew’s washing facilities" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
