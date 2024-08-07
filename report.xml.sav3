@@ -17266,12 +17266,16 @@ The rating good condition has been assigned to the Heat Exchangers (others).</Co
     <Photo>I_D_DO_1162</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0764" refId="R_IT_513" manual="false">
+<Photos>
+    <Photo>I_D_DO_1165</Photo>
+    <Photo>I_D_DO_1166</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -25277,6 +25281,19 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
             </Document>
             <Document id="I_D_DO_1163" location="img\FLIR1759 hydrophore pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Bottle" attachmentDate="2024-08-07+02:00">
                 <Description>Hydrophore pumps.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1165" location="img\20240603_131855 ER workshop tools_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="General Tools for Engine Part" attachmentDate="2024-08-07+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0068</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1166" location="img\20240608_140130 hydraulic tool for unscrewing nuts, ME crankcase nut_800.jpg" use="PHOTO" contentType="image/jpeg" name="General Tools for Engine Part" attachmentDate="2024-08-07+02:00">
+                <Description>ME hydraulic bolts' tool.</Description>
                 <Tags>
                     <TagId>I_D_TA_0068</TagId>
                     <TagId>I_D_TA_0054</TagId>

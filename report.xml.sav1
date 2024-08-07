@@ -17150,17 +17150,20 @@ The rating good condition has been assigned to the Heat Exchangers (others).</Co
                     </Group>
                     <Group id="I_R_GR_0071" refId="R_GR_050" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.6"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Miscellaneous Equipment.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -17173,8 +17176,12 @@ The rating good condition has been assigned to the Heat Exchangers (others).</Co
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Miscellaneous Equipment.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -17295,9 +17302,9 @@ The rating good condition has been assigned to the Heat Exchangers (others).</Co
     <Photo>I_D_DO_1168</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -25265,6 +25272,7 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1160" location="img\20240603_131612 accommodation aircon compressor reported to renew the condenser_800.jpg" use="PHOTO" contentType="image/jpeg" name="AC Units including Piping and Valves" attachmentDate="2024-08-07+02:00">
+                <Description>AC unit during replacement of the aircon condenser.</Description>
                 <Tags>
                     <TagId>I_D_TA_0068</TagId>
                     <TagId>I_D_TA_0054</TagId>
