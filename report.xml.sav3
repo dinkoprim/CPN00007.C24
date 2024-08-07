@@ -16060,17 +16060,20 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
                     </Group>
                     <Group id="I_R_GR_0067" refId="R_GR_046" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.6"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Piping and Valves.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -16083,8 +16086,12 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Piping and Valves.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -16183,17 +16190,19 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0642" refId="R_IT_436" manual="false">
+<Photos>
+    <Photo>I_D_DO_1055</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_003" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0643" refId="R_IT_437" manual="false">
 <Photos>
     <Photo>I_D_DO_1054</Photo>
-    <Photo>I_D_DO_1055</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
@@ -16211,27 +16220,40 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0645" refId="R_IT_439" manual="false">
+<Photos>
+    <Photo>I_D_DO_1075</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_003" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0646" refId="R_IT_440" manual="false">
+<Photos>
+    <Photo>I_D_DO_1076</Photo>
+    <Photo>I_D_DO_1077</Photo>
+    <Photo>I_D_DO_1079</Photo>
+    <Photo>I_D_DO_1080</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_003" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0647" refId="R_IT_441" manual="false">
+<Photos>
+    <Photo>I_D_DO_1081</Photo>
+    <Photo>I_D_DO_1082</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_003" value="NA"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -16338,32 +16360,32 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0657" refId="R_IT_465" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0658" refId="R_IT_466" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0659" refId="R_IT_467" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0660" refId="R_IT_468" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0661" refId="R_IT_469" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0662" refId="R_IT_470" manual="false">
@@ -16380,23 +16402,23 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0664" refId="R_IT_472" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0665" refId="R_IT_473" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0666" refId="R_IT_474" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0667" refId="R_IT_475" manual="false">
@@ -16408,8 +16430,8 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0668" refId="R_IT_476" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0669" refId="R_IT_477" manual="false">
@@ -16420,14 +16442,14 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0670" refId="R_IT_478" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0671" refId="R_IT_479" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0672" refId="R_IT_480" manual="false">
@@ -16438,40 +16460,40 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0673" refId="R_IT_481" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0674" refId="R_IT_482" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0675" refId="R_IT_483" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0676" refId="R_IT_484" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0677" refId="R_IT_485" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0678" refId="R_IT_486" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
 </Sons>
@@ -16528,32 +16550,32 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0687" refId="R_IT_465" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0688" refId="R_IT_466" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0689" refId="R_IT_467" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0690" refId="R_IT_468" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0691" refId="R_IT_469" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0692" refId="R_IT_470" manual="false">
@@ -16570,23 +16592,23 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0694" refId="R_IT_472" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0695" refId="R_IT_473" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0696" refId="R_IT_474" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0697" refId="R_IT_475" manual="false">
@@ -16598,8 +16620,8 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0698" refId="R_IT_476" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0699" refId="R_IT_477" manual="false">
@@ -16610,14 +16632,14 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0700" refId="R_IT_478" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0701" refId="R_IT_479" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0702" refId="R_IT_480" manual="false">
@@ -16628,45 +16650,45 @@ The rating good condition has been assigned to the Ventilation Fans.</Comment>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0703" refId="R_IT_481" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0704" refId="R_IT_482" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0705" refId="R_IT_483" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0706" refId="R_IT_484" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0707" refId="R_IT_485" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0708" refId="R_IT_486" manual="false">
         <Ratings>
-            <Rating refRatingId="R_RA_013"/>
+            <Rating refRatingId="R_RA_013" value="NA"/>
             <Rating refRatingId="R_RA_014"/>
-            <Rating refRatingId="R_RA_040"/>
+            <Rating refRatingId="R_RA_040" value="NA"/>
         </Ratings>
     </Son>
 </Sons>
                             </Item>
-                            <Item id="I_R_IT_0709" refId="R_IT_457" name="Auxiliary boiler Auxiliary 03" elementId="I_S_BO_BO03" manual="false">
+                            <Item id="I_R_IT_0709" refId="R_IT_457" name="Economizer" elementId="I_S_BO_BO03" manual="false">
 <Sons>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0710" refId="R_IT_458" manual="false">
         <Ratings>
@@ -24619,7 +24641,7 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_1055" location="img\20240603_140503 bilge and sludge valve arrangement, suction and discharge_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Sludge and Dirty Oil Piping and Valves" attachmentDate="2024-08-05+02:00">
+            <Document id="I_D_DO_1055" location="img\20240603_140503 bilge and sludge valve arrangement, suction and discharge_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Bilge Water Piping and Valves including suction pipes and strainers." attachmentDate="2024-08-05+02:00">
                 <Tags>
                     <TagId>I_D_TA_0065</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -24687,6 +24709,50 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1073" location="img\20240603_140236 box coolers heat exchangers_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fresh Water Piping and Valves" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1075" location="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage and Dirty Water Piping and Valves" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1076" location="img\20240603_134559 purifier room ceiling, vent ducts, lighting_800.jpg" use="PHOTO" contentType="image/jpeg" name="Vents piping" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1077" location="img\IMG_1831 ECR vent head and pipe_800.JPG" use="PHOTO" contentType="image/jpeg" name="Vents piping" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1079" location="img\20240603_090346 aft mooring station, poop deck, steering gear room vent_800.jpg" use="PHOTO" contentType="image/jpeg" name="Vents piping" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1080" location="img\20240603_134710 ER emergency signal light, siren, bell, purifier room ventilation ducts_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Vents piping" attachmentDate="2024-08-05+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1081" location="img\20240603_092910 welding bottles reducer, acetylene_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fixed Oxygen and Acetylene feed pipelines for workshops" attachmentDate="2024-08-05+02:00">
+                <Description>Acetylene pipes and reducer.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0065</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1082" location="img\20240603_092916 welding gas bottle reducer, oxygen - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fixed Oxygen and Acetylene feed pipelines for workshops" attachmentDate="2024-08-05+02:00">
+                <Description>Oxygene pipes and reducer.</Description>
                 <Tags>
                     <TagId>I_D_TA_0065</TagId>
                     <TagId>I_D_TA_0054</TagId>
