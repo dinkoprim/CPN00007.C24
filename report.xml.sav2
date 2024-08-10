@@ -5526,8 +5526,8 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 <Sons>
                     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Module" id="I_R_MO_0002" refId="R_MO_007" manual="false">
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_104"/>
-                            <TotalRating refRatingId="R_RA_105"/>
+                            <TotalRating refRatingId="R_RA_104" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_105" value="1"/>
                             <TotalRating refRatingId="R_RA_106"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5540,12 +5540,12 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                         <Groups>
                             <Group id="I_R_GR_0001" refId="R_GR_078" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_103"/>
+    <Rating refRatingId="R_RA_103" value="1"/>
 </Ratings>
                             </Group>
                             <Group id="I_R_GR_0002" refId="R_GR_079" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_103"/>
+    <Rating refRatingId="R_RA_103" value="1"/>
 </Ratings>
                             </Group>
                         </Groups>
@@ -5553,8 +5553,8 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 </Sons>
                 <Ratings>
                     <Rating refRatingId="R_RA_092"/>
-                    <Rating refRatingId="R_RA_093"/>
-                    <Rating refRatingId="R_RA_094"/>
+                    <Rating refRatingId="R_RA_093" value="1"/>
+                    <Rating refRatingId="R_RA_094" value="1"/>
                 </Ratings>
                 <TotalRatings>
                     <TotalRating refRatingId="R_RA_010"/>
@@ -5566,7 +5566,9 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 </ReportBlocks>
                 <Messages>
                     <Message refId="R_MS_014"/>
-                    <Message refId="R_MS_026"/>
+                    <Message refId="R_MS_026">
+                        <Message>On completion of the CAP survey, the vessel’s structure has been found to be in good condition.</Message>
+                    </Message>
                     <Message refId="R_MS_027"/>
                     <Message refId="R_MS_028">
                         <Message>No area of substantial corrosion has been found on board the vessel.</Message>
@@ -5723,11 +5725,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0004" refId="R_GR_002" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5740,7 +5742,13 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Side Shell.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
@@ -5756,15 +5764,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the Side Shell.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -5773,55 +5789,55 @@ No area with coating condition less than good has been found.&#xD;
                         <Items>
                             <Item id="I_R_IT_0007" refId="R_IT_013" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0008" refId="R_IT_014" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0009" refId="R_IT_015" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0010" refId="R_IT_016" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0011" refId="R_IT_017" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0012" refId="R_IT_018" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
@@ -5829,11 +5845,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0005" refId="R_GR_003" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5846,7 +5862,13 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Bottom.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
@@ -5862,15 +5884,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the Bottom.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -5879,55 +5909,55 @@ No area with coating condition less than good has been found.&#xD;
                         <Items>
                             <Item id="I_R_IT_0013" refId="R_IT_019" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0014" refId="R_IT_020" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0015" refId="R_IT_021" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0016" refId="R_IT_022" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0017" refId="R_IT_023" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0018" refId="R_IT_024" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
@@ -11081,7 +11111,8 @@ No area with coating condition less than good has been found.&#xD;
                     <Summary refSummaryId="R_SU_020">
                         <Comment>Details of surveys carried out, defects found, repairs carried out and ratings applied to the various vessel sections, areas under consideration (AUCs) and items can be found in the Cap Hull Structure Report.
 					</Comment>
-                        <Message>No area of substantial corrosion has been found on board the vessel.&#xD;
+                        <Message>On completion of the CAP survey, the vessel’s structure has been found to be in good condition.&#xD;
+No area of substantial corrosion has been found on board the vessel.&#xD;
 No area with coating condition less than good has been found on board the vessel.</Message>
                     </Summary>
                     <Summary refSummaryId="R_SU_007"/>
@@ -15414,8 +15445,20 @@ The rating good condition has been assigned to the Oil Pumps and Purifiers.</Com
                             </Item>
                             <Item id="I_R_IT_0596" refId="R_IT_390" name="ME Lube Oil Stby Pump" manual="false">
 <Photos>
-    <Photo>I_D_DO_0980</Photo>
     <Photo>I_D_DO_1000</Photo>
+</Photos>
+<Ratings>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0909" refId="R_IT_693" name="Reduction Gear LO stand-by pump" manual="true">
+<Photos>
+    <Photo>I_D_DO_1240</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
@@ -17451,6 +17494,8 @@ The rating good condition has been assigned to the Generators and Switchboards.<
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>The Air Circuit Breakers (ACB) of the Shaft generator and generators 1, 2, 3 were tested and serviced by an authorized company.&#xD;
+The Main Switchboard was checked with Thermal Imaging and no abnormally hot spots were found.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son selected="true" refId="R_BL_013">
@@ -17564,6 +17609,13 @@ The rating good condition has been assigned to the Generators and Switchboards.<
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0778" refId="R_IT_527" manual="false">
+<Photos>
+    <Photo>I_D_DO_1202</Photo>
+    <Photo>I_D_DO_1203</Photo>
+    <Photo>I_D_DO_1204</Photo>
+    <Photo>I_D_DO_1205</Photo>
+    <Photo>I_D_DO_1206</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_014" value="1"/>
@@ -17575,6 +17627,10 @@ The rating good condition has been assigned to the Generators and Switchboards.<
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0779" refId="R_IT_528" manual="false">
+<Photos>
+    <Photo>I_D_DO_1208</Photo>
+    <Photo>I_D_DO_1209</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_014" value="1"/>
@@ -17586,6 +17642,10 @@ The rating good condition has been assigned to the Generators and Switchboards.<
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0780" refId="R_IT_529" manual="false">
+<Photos>
+    <Photo>I_D_DO_1212</Photo>
+    <Photo>I_D_DO_1213</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
     <Rating refRatingId="R_RA_014" value="1"/>
@@ -17597,6 +17657,9 @@ The rating good condition has been assigned to the Generators and Switchboards.<
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0781" refId="R_IT_530" manual="false">
+<Photos>
+    <Photo>I_D_DO_1211</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
     <Rating refRatingId="R_RA_014" value="2"/>
@@ -17642,113 +17705,158 @@ The rating good condition has been assigned to the Generators and Switchboards.<
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0782" refId="R_IT_531" manual="false">
+<Photos>
+    <Photo>I_D_DO_1218</Photo>
+    <Photo>I_D_DO_1219</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0783" refId="R_IT_532" manual="false">
+                            <Item id="I_R_IT_0783" refId="R_IT_532" name="Fuel Oil Supply Pumps’ Motors and Starter Panels" manual="false">
+<Photos>
+    <Photo>I_D_DO_1220</Photo>
+    <Photo>I_D_DO_1224</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0784" refId="R_IT_533" manual="false">
+                            <Item id="I_R_IT_0784" refId="R_IT_533" name="Fuel Oil Circ. Pumps' Motors and Starter Panels" manual="false">
+<Photos>
+    <Photo>I_D_DO_1222</Photo>
+    <Photo>I_D_DO_1223</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0785" refId="R_IT_534" manual="false">
+<Photos>
+    <Photo>I_D_DO_1225</Photo>
+    <Photo>I_D_DO_1226</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0786" refId="R_IT_535" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0787" refId="R_IT_536" manual="false">
+<Photos>
+    <Photo>I_D_DO_1227</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0788" refId="R_IT_537" manual="false">
+                            <Item id="I_R_IT_0788" refId="R_IT_537" name="Diesel Oil Service Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1228</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0789" refId="R_IT_538" manual="false">
+                            <Item id="I_R_IT_0789" refId="R_IT_538" name="Diesel Oil Purifier Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1230</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0790" refId="R_IT_539" manual="false">
+<Photos>
+    <Photo>I_D_DO_1231</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0791" refId="R_IT_540" manual="false">
+                            <Item id="I_R_IT_0791" refId="R_IT_540" name="Main Lube Oil Stby Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1234</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0908" refId="R_IT_693" name="Reduction Gear LO Stand-by pump" manual="true">
+<Photos>
+    <Photo>I_D_DO_1239</Photo>
+</Photos>
+<Ratings>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0792" refId="R_IT_541" manual="false">
@@ -17757,42 +17865,42 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0793" refId="R_IT_542" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0794" refId="R_IT_543" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0795" refId="R_IT_544" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0796" refId="R_IT_545" manual="false">
@@ -17801,8 +17909,8 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -17818,8 +17926,8 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="TRUE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -17829,152 +17937,174 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0799" refId="R_IT_548" manual="false">
+                            <Item id="I_R_IT_0799" refId="R_IT_548" name="Main Engine Preheating Jacket Water Pump Motor and Starter Panel" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0800" refId="R_IT_549" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0801" refId="R_IT_550" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0802" refId="R_IT_551" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0803" refId="R_IT_552" manual="false">
+                            <Item id="I_R_IT_0803" refId="R_IT_552" name="Air Conditioning Cooling Sea Water Pump Motor and Starter Panel" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0804" refId="R_IT_553" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0805" refId="R_IT_554" manual="false">
+                            <Item id="I_R_IT_0805" refId="R_IT_554" name="Boiler Thermal Oil Feed Pumps’ Motors and Starter Panels" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0806" refId="R_IT_555" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0807" refId="R_IT_556" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0808" refId="R_IT_557" manual="false">
+                            <Item id="I_R_IT_0808" refId="R_IT_557" name="Fire Pump Motor and Starter Panel" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NT"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0906" refId="R_IT_693" name="Foam and Fire Pump Motor and Starter Panel" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022" value="NT"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040"/>
+</Ratings>
+                            </Item>
+                            <Item id="I_R_IT_0907" refId="R_IT_693" name="Tank cleaning and Fire Pump Motor and Starter Panel" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_022" value="NT"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0809" refId="R_IT_558" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0810" refId="R_IT_559" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0811" refId="R_IT_560" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0812" refId="R_IT_561" manual="false">
@@ -17983,8 +18113,8 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -17994,19 +18124,19 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0814" refId="R_IT_563" manual="false">
+                            <Item id="I_R_IT_0814" refId="R_IT_563" name="Evaporator Sea Water Supply Pump Motor and Starter Panel" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -18016,31 +18146,31 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0816" refId="R_IT_565" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0817" refId="R_IT_566" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0818" refId="R_IT_567" manual="false">
@@ -18049,8 +18179,8 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -18060,64 +18190,64 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0820" refId="R_IT_569" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0821" refId="R_IT_570" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0822" refId="R_IT_571" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0823" refId="R_IT_572" manual="false">
+                            <Item id="I_R_IT_0823" refId="R_IT_572" name="Engine Room Vent Fans’ Motors and Starter Panels" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0824" refId="R_IT_573" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0825" refId="R_IT_574" manual="false">
@@ -18126,20 +18256,20 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0826" refId="R_IT_575" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0827" refId="R_IT_576" manual="false">
@@ -18148,8 +18278,8 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
@@ -18159,20 +18289,20 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0829" refId="R_IT_578" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
     <Rating refRatingId="R_RA_022"/>
     <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0830" refId="R_IT_579" manual="false">
@@ -18181,31 +18311,38 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Rating refRatingId="R_RA_014"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
     <Rating refRatingId="R_RA_040"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0831" refId="R_IT_580" manual="false">
+                            <Item id="I_R_IT_0831" refId="R_IT_580" name="Sewage EVAC System Motors" manual="false">
+<Photos>
+    <Photo>I_D_DO_1215</Photo>
+    <Photo>I_D_DO_1217</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0832" refId="R_IT_581" manual="false">
+<Photos>
+    <Photo>I_D_DO_1214</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022"/>
-    <Rating refRatingId="R_RA_024"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_022" value="NA"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -19151,7 +19288,9 @@ The rating good condition has been assigned to the Environmental Management.</Co
             <Tag id="I_D_TA_0070" name="Generators and Switchboards">
                 <TagSons/>
             </Tag>
-            <Tag id="I_D_TA_0071" name="Motors and Associated Starters"/>
+            <Tag id="I_D_TA_0071" name="Motors and Associated Starters">
+                <TagSons/>
+            </Tag>
             <Tag id="I_D_TA_0072" name="Electrical installations (others)"/>
             <Tag id="I_D_TA_0073" name="Automated installation"/>
             <Tag id="I_D_TA_0074" name="Machinery and Auxiliary Machinery PMS"/>
@@ -24537,7 +24676,7 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0980" location="img\20240603_140222 lube oil LO pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="ME Lube Oil Stby Pump" attachmentDate="2024-08-04+02:00">
+            <Document id="I_D_DO_0980" location="img\20240603_140222 lube oil LO pump_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-08-04+02:00">
                 <Tags>
                     <TagId>I_D_TA_0061</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -25575,6 +25714,202 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
             <Document id="I_D_DO_1201" location="img\FLIR1870 EDG, space heater_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Diesel Generator" attachmentDate="2024-08-08+02:00">
                 <Tags>
                     <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1202" location="img\20240603_114937 engine room ECR main switchboard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Switchboard" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1203" location="img\20240619_112037 main switchboard side panel, with running equipment_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Switchboard" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1204" location="img\FLIR1648 inside main switchboard, fuses, a few energized_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Switchboard" attachmentDate="2024-08-10+02:00">
+                <Description>Thermal image of fuses inside the Main Switchboard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1205" location="img\FLIR1649 inside main switchboard, fuses, a few energized_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Switchboard" attachmentDate="2024-08-10+02:00">
+                <Description>The scene for the Thermal image of fuses inside the Main Switchboard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1206" location="img\20240603_115458 stickers after the service on the ACBs af generators and bow thruster_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Switchboard" attachmentDate="2024-08-10+02:00">
+                <Description>The Air Circuit Breakers od the Shaft generator and generators 1, 2, 3 were tested and serviced by an authorized company.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1208" location="img\20240603_113605 Emcy switchboard emcy light missing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Switchboard" attachmentDate="2024-08-10+02:00">
+                <Description>Emergency Switchboard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1209" location="img\20240618_150445 emecy switchboard fuses_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Switchboard" attachmentDate="2024-08-10+02:00">
+                <Description>Insulation monitoring of the emergency switchboard consumers.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1211" location="img\20240603_134752  fuel oil FO preparation equipment starter panel, power board_800.jpg" use="PHOTO" contentType="image/jpeg" name="Auxiliary Distribution Panels" attachmentDate="2024-07-25+02:00">
+                <Description>El cabinet inside the purifier room for purifier heaters.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1212" location="img\FLIR1636 inside main switchboard, fuses, a few energized_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Distribution Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Distribution fuses inside the Main Switchboard - thermal image.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1213" location="img\FLIR1637 inside main switchboard, fuses, a few energized_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Distribution Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Distribution fuses inside the Main Switchboard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1214" location="img\20240603_132014 workshop store and spares, drilling machine - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Workshop’s Equipment Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1215" location="img\20240603_132547 evac system pump - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage EVAC System Motors" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1217" location="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage EVAC System Motors" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1218" location="img\20240603_141111 HFO booster pump transfer pump starter and contol panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Transfer Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1219" location="img\20240603_140331 HFO fuel oil transfer pump and fuel pipes, box coolers - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Transfer Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1220" location="img\FLIR1846 FO supply pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Supply Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Thermal image when FO supply pump el motor 1 is in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1221" location="img\FLIR1847 FO supply pumps_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1222" location="img\20240603_134920 fuel oil preparation equipment, FO supply and circ pumps, Fo back-wash filter, mixing column, FO heater_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Circ. Pumps' Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1223" location="img\FLIR1854 FO circ pumps, FO preparation equipment_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Circ. Pumps' Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1224" location="img\20240603_134903 FO preparation equipment, Fuel oil supply pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Supply Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1225" location="img\20240603_134620 separator, LO purifier control panel_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Separators Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1226" location="img\20240603_134641 separator, purifier electric motor and electric heater_800.jpg" use="PHOTO" contentType="image/jpeg" name="Fuel Oil Separators Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1227" location="img\20240603_140244 engine room, mgo transfer fuel pump, fuel tracing line junction box - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Diesel Oil Transfer Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1228" location="img\20240603_133800 probably Aux engines DO supply pump - Copy (2)_800.jpg" use="PHOTO" contentType="image/jpeg" name="Diesel Oil Service Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1230" location="img\20240603_134618 separator, LO purifier control panel, DO purifier - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Diesel Oil Purifier Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1231" location="img\20240603_133449 FRAMO hydraulic oil transfer and filling pump - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Lube Oil Transfer Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>FRAMO LO fill pump.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1232" location="img\20240603_135839 tank top aft , foundation of gear box, reduction gear stand-by LO pump_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1234" location="img\20240603_140222 lube oil LO pump_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Lube Oil Stby Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1236" location="img\20240603_135939 bilge, under the plates around the gear box_800.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_135939 bilge, under the plates around the gear box_800.jpg" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1239" location="img\20240603_135839 tank top aft , foundation of gear box, reduction gear stand-by LO pump - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Reduction Gear LO Stand-by pump" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1240" location="img\20240603_135839 tank top aft , foundation of gear box, reduction gear stand-by LO pump - Copy (2)_800.jpg" use="PHOTO" contentType="image/jpeg" name="Reduction Gear LO stand-by pump" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0061</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
