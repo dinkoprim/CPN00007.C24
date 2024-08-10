@@ -17536,7 +17536,7 @@ The rating good condition has been assigned to the Generators and Switchboards.<
     <Photo>I_D_DO_1195</Photo>
     <Photo>I_D_DO_1196</Photo>
     <Photo>I_D_DO_1197</Photo>
-    <Photo>I_D_DO_1198</Photo>
+    <Photo>I_D_DO_1199</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
@@ -17549,6 +17549,10 @@ The rating good condition has been assigned to the Generators and Switchboards.<
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0777" refId="R_IT_526" manual="false">
+<Photos>
+    <Photo>I_D_DO_1200</Photo>
+    <Photo>I_D_DO_1201</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_014" value="1"/>
@@ -25555,7 +25559,20 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_1198" location="img\20240603_115853 main swithcboard, shaft generator panel, FRAMO hydr pump 1 panel, bow thruster connection_800.jpg" use="PHOTO" contentType="image/jpeg" name="Shaft Generator" attachmentDate="2024-08-08+02:00">
+            <Document id="I_D_DO_1199" location="img\20240619_152726 shaft generator connected, testing under load with the bow thruster_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Shaft Generator" attachmentDate="2024-08-08+02:00">
+                <Description>Shaft generator was tested under load from the bow thruster.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1200" location="img\FLIR1871 EDG, space heater_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Diesel Generator" attachmentDate="2024-08-08+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0070</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1201" location="img\FLIR1870 EDG, space heater_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Diesel Generator" attachmentDate="2024-08-08+02:00">
                 <Tags>
                     <TagId>I_D_TA_0070</TagId>
                     <TagId>I_D_TA_0054</TagId>

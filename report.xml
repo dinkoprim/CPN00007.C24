@@ -5526,8 +5526,8 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 <Sons>
                     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Module" id="I_R_MO_0002" refId="R_MO_007" manual="false">
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_104"/>
-                            <TotalRating refRatingId="R_RA_105"/>
+                            <TotalRating refRatingId="R_RA_104" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_105" value="1"/>
                             <TotalRating refRatingId="R_RA_106"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5540,12 +5540,12 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                         <Groups>
                             <Group id="I_R_GR_0001" refId="R_GR_078" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_103"/>
+    <Rating refRatingId="R_RA_103" value="1"/>
 </Ratings>
                             </Group>
                             <Group id="I_R_GR_0002" refId="R_GR_079" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_103"/>
+    <Rating refRatingId="R_RA_103" value="1"/>
 </Ratings>
                             </Group>
                         </Groups>
@@ -5553,8 +5553,8 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 </Sons>
                 <Ratings>
                     <Rating refRatingId="R_RA_092"/>
-                    <Rating refRatingId="R_RA_093"/>
-                    <Rating refRatingId="R_RA_094"/>
+                    <Rating refRatingId="R_RA_093" value="1"/>
+                    <Rating refRatingId="R_RA_094" value="1"/>
                 </Ratings>
                 <TotalRatings>
                     <TotalRating refRatingId="R_RA_010"/>
@@ -5566,7 +5566,9 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 </ReportBlocks>
                 <Messages>
                     <Message refId="R_MS_014"/>
-                    <Message refId="R_MS_026"/>
+                    <Message refId="R_MS_026">
+                        <Message>On completion of the CAP survey, the vessel’s structure has been found to be in good condition.</Message>
+                    </Message>
                     <Message refId="R_MS_027"/>
                     <Message refId="R_MS_028">
                         <Message>No area of substantial corrosion has been found on board the vessel.</Message>
@@ -5723,11 +5725,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0004" refId="R_GR_002" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5740,7 +5742,13 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Side Shell.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
@@ -5756,15 +5764,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the Side Shell.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -5773,55 +5789,55 @@ No area with coating condition less than good has been found.&#xD;
                         <Items>
                             <Item id="I_R_IT_0007" refId="R_IT_013" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0008" refId="R_IT_014" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0009" refId="R_IT_015" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0010" refId="R_IT_016" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0011" refId="R_IT_017" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0012" refId="R_IT_018" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
@@ -5829,11 +5845,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0005" refId="R_GR_003" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5846,7 +5862,13 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Bottom.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
@@ -5862,15 +5884,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the Bottom.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -5879,55 +5909,55 @@ No area with coating condition less than good has been found.&#xD;
                         <Items>
                             <Item id="I_R_IT_0013" refId="R_IT_019" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0014" refId="R_IT_020" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0015" refId="R_IT_021" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0016" refId="R_IT_022" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0017" refId="R_IT_023" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0018" refId="R_IT_024" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005"/>
 </Ratings>
                             </Item>
@@ -11081,7 +11111,8 @@ No area with coating condition less than good has been found.&#xD;
                     <Summary refSummaryId="R_SU_020">
                         <Comment>Details of surveys carried out, defects found, repairs carried out and ratings applied to the various vessel sections, areas under consideration (AUCs) and items can be found in the Cap Hull Structure Report.
 					</Comment>
-                        <Message>No area of substantial corrosion has been found on board the vessel.&#xD;
+                        <Message>On completion of the CAP survey, the vessel’s structure has been found to be in good condition.&#xD;
+No area of substantial corrosion has been found on board the vessel.&#xD;
 No area with coating condition less than good has been found on board the vessel.</Message>
                     </Summary>
                     <Summary refSummaryId="R_SU_007"/>
