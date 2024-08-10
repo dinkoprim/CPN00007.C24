@@ -17674,31 +17674,40 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
                     </Group>
                     <Group id="I_R_GR_0074" refId="R_GR_053" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.5"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Motors and Associated Starters.</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
 <Sons>
     <Son refId="R_BL_012"/>
-    <Son refId="R_BL_013"/>
+    <Son selected="true" refId="R_BL_013">
+        <Comment>ER vent fans el motors ps and sb were overhauled by the Shipyard.</Comment>
+    </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
 </Sons>
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Motors and Associated Starters.</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
@@ -17865,13 +17874,13 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
     <Photo>I_D_DO_1242</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0793" refId="R_IT_542" manual="false">
@@ -17908,53 +17917,65 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0796" refId="R_IT_545" manual="false">
+<Photos>
+    <Photo>I_D_DO_1244</Photo>
+    <Photo>I_D_DO_1243</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0797" refId="R_IT_546" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" manual="false">
 <Photos>
-    <Photo>I_D_DO_0994</Photo>
-    <Photo>I_D_DO_0995</Photo>
     <Photo>I_D_DO_0997</Photo>
     <Photo>I_D_DO_0996</Photo>
+    <Photo>I_D_DO_1247</Photo>
+    <Photo>I_D_DO_1248</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="TRUE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0798" refId="R_IT_547" name="LT Cooling Fresh Water System Circ Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1249</Photo>
+    <Photo>I_D_DO_1250</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0799" refId="R_IT_548" name="Main Engine Preheating Jacket Water Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1251</Photo>
+    <Photo>I_D_DO_1252</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0800" refId="R_IT_549" manual="false">
@@ -17991,14 +18012,17 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0803" refId="R_IT_552" name="Air Conditioning Cooling Sea Water Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1253</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0804" refId="R_IT_553" manual="false">
@@ -18013,14 +18037,20 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0805" refId="R_IT_554" name="Boiler Thermal Oil Feed Pumps’ Motors and Starter Panels" manual="false">
+<Photos>
+    <Photo>I_D_DO_1254</Photo>
+    <Photo>I_D_DO_1255</Photo>
+    <Photo>I_D_DO_1256</Photo>
+    <Photo>I_D_DO_1257</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0806" refId="R_IT_555" manual="false">
@@ -18046,36 +18076,45 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0808" refId="R_IT_557" name="Fire Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1258</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NT"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0906" refId="R_IT_693" name="Foam and Fire Pump Motor and Starter Panel" manual="true">
+<Photos>
+    <Photo>I_D_DO_1259</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NT"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0907" refId="R_IT_693" name="Tank cleaning and Fire Pump Motor and Starter Panel" manual="true">
+<Photos>
+    <Photo>I_D_DO_1260</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NT"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="2"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0809" refId="R_IT_558" manual="false">
@@ -18112,47 +18151,60 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0812" refId="R_IT_561" manual="false">
+<Photos>
+    <Photo>I_D_DO_1262</Photo>
+    <Photo>I_D_DO_1261</Photo>
+    <Photo>I_D_DO_1263</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0813" refId="R_IT_562" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
+    <Rating refRatingId="R_RA_022"/>
+    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0814" refId="R_IT_563" name="Evaporator Sea Water Supply Pump Motor and Starter Panel" manual="false">
+<Photos>
+    <Photo>I_D_DO_1264</Photo>
+    <Photo>I_D_DO_1265</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0815" refId="R_IT_564" manual="false">
+<Photos>
+    <Photo>I_D_DO_1266</Photo>
+    <Photo>I_D_DO_1267</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0816" refId="R_IT_565" manual="false">
@@ -18178,25 +18230,32 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0818" refId="R_IT_567" manual="false">
+<Photos>
+    <Photo>I_D_DO_1268</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0819" refId="R_IT_568" manual="false">
+<Photos>
+    <Photo>I_D_DO_1269</Photo>
+    <Photo>I_D_DO_1270</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0820" refId="R_IT_569" manual="false">
@@ -18233,14 +18292,17 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0823" refId="R_IT_572" name="Engine Room Vent Fans’ Motors and Starter Panels" manual="false">
+<Photos>
+    <Photo>I_D_DO_1271</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_020" value="TRUE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0824" refId="R_IT_573" manual="false">
@@ -18255,14 +18317,17 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0825" refId="R_IT_574" manual="false">
+<Photos>
+    <Photo>I_D_DO_1272</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0826" refId="R_IT_575" manual="false">
@@ -18277,25 +18342,32 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0827" refId="R_IT_576" manual="false">
+<Photos>
+    <Photo>I_D_DO_1274</Photo>
+    <Photo>I_D_DO_1275</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0828" refId="R_IT_577" manual="false">
+<Photos>
+    <Photo>I_D_DO_1276</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0829" refId="R_IT_578" manual="false">
@@ -18311,13 +18383,13 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
                             </Item>
                             <Item id="I_R_IT_0830" refId="R_IT_579" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
-    <Rating refRatingId="R_RA_021" value="FALSE"/>
-    <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_020"/>
+    <Rating refRatingId="R_RA_021"/>
+    <Rating refRatingId="R_RA_022"/>
+    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0831" refId="R_IT_580" name="Sewage EVAC System Motors" manual="false">
@@ -24772,18 +24844,6 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0994" location="img\20240617_115803 HT pump el motor overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
-                <Tags>
-                    <TagId>I_D_TA_0071</TagId>
-                    <TagId>I_D_TA_0054</TagId>
-                </Tags>
-            </Document>
-            <Document id="I_D_DO_0995" location="img\20240617_115513 HT pump el motor overhaul_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
-                <Tags>
-                    <TagId>I_D_TA_0071</TagId>
-                    <TagId>I_D_TA_0054</TagId>
-                </Tags>
-            </Document>
             <Document id="I_D_DO_0996" location="img\FLIR1965 ME FW HT pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-05+02:00">
                 <Description>The scene of the Thermal image of the HT pump electric motor and pump in operation after the overhaul.</Description>
                 <Tags>
@@ -25925,6 +25985,206 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
             </Document>
             <Document id="I_D_DO_1242" location="img\20240603_134620 separator, LO purifier control panel_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Lube Oil Purifiers Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
                 <Description>LO purifier control panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1243" location="img\20240603_140459 sludge pump control panel and ER EEBD 7, ER tel. relay box_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Dirty Oil Transfer Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Sludge pump local starter.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1244" location="img\20240603_140508 sludge pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Dirty Oil Transfer Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1247" location="img\20240617_115513 HT pump el motor overhaul_800_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Description>HT pump el motor overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1248" location="img\20240617_115803 HT pump el motor overhaul_800_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="HT. Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Description>HT pump el motor overhaul.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1249" location="img\FLIR1967 LT pump_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="LT Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Description>LT cooling pump el motor.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1250" location="img\FLIR1966 LT pump el motor_800.jpg" use="PHOTO" contentType="image/jpeg" name="LT Cooling Fresh Water System Circ Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Description>LT cooling pump el motor - thermal image when in operation.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1251" location="img\FLIR1971 ME jacket preheating pump_800_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Preheating Jacket Water Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1252" location="img\20240603_140219 ME circ. pump preheating starter panel, AE cooling water controller panel, ME charge air cooler controller, HT cool water controller_800_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Preheating Jacket Water Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Description>Pre-heating pump starter and cooling water temperature controller.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1253" location="img\20240603_140101 AC aircondition sea water cooling pump - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Cooling Sea Water Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1254" location="img\FLIR1696 thermal oil pumps, economiser pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Boiler Thermal Oil Feed Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Economiser Thermal oil pumps - thermal image.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1255" location="img\FLIR1697 thermal oil pumps, economiser pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Boiler Thermal Oil Feed Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Economiser Thermal oil pumps.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1256" location="img\FLIR1706 thermal oil pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Boiler Thermal Oil Feed Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Boiler Thermal oil pumps - thermal image.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1257" location="img\FLIR1707 thermal oil pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Boiler Thermal Oil Feed Pumps’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Boiler Thermal oil pumps.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1258" location="img\20240619_140204 testing fire pump in ER_800_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Fire Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1259" location="img\20240603_140343 fire and foam pump el motors - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Foam and Fire Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1260" location="img\20240603_140422 tank cleaning &amp; emergency pump, foam pump motors - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Tank cleaning and Fire Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1261" location="img\FLIR1758 hydrophore pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1262" location="img\FLIR1759 hydrophore pumps_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1263" location="img\20240603_133731 UV light water desinfection unit, pumps local starter buttons, circ pumps central heating, domestic hot hater pump, hydrophore pumps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Wash and Sanitary Fresh Water Hydrophore Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Description>Hydrophore pumps local starters.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1264" location="img\20240603_133354 FWG starter panel and salinity indicator_800.jpg" use="PHOTO" contentType="image/jpeg" name="Evaporator Sea Water Supply Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1265" location="img\20240603_140105 FWG SW cooling pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Evaporator Sea Water Supply Pump Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1266" location="img\20240603_134221 starting air compressor_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Main Air Compressors’ Motors and Starters Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1267" location="img\20240604_140855 main switchboard, air compressors_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Air Compressors’ Motors and Starters Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Main air compressors starter panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1268" location="img\20240617_092754 ER service compressor_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="General Service Air Compressor Motor and Starter Panel" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1269" location="img\20240604_140258 accommodation aircon control panel_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Compressors’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1270" location="img\20240604_140249 aircon compressor and condenser, condenser planned for renewal - Copy (2)_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Compressors’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1271" location="img\IMG_1718109895155 ER vent fan_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room Vent Fans’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1272" location="img\20240603_131901 ER workshop vent duct and fan - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Workshops and Stores Rooms Supply and Exhaust Fans’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1274" location="img\20240603_113626 emergency generator room ventilation fan, smoke detector_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Generator Room Supply &amp; Exhaust Fans’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1275" location="img\20240603_113730 emergency generator room fan starter panel, EDG cooler fan starter_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Generator Room Supply &amp; Exhaust Fans’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>Emergency Generator room vent fan starter panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1276" location="img\20240604_140258 accommodation aircon control panel_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Accommodation Air Conditioning Unit Fans’ Motors and Starter Panels" attachmentDate="2024-08-10+02:00">
+                <Description>AHU fan starter panel.</Description>
                 <Tags>
                     <TagId>I_D_TA_0071</TagId>
                     <TagId>I_D_TA_0054</TagId>
