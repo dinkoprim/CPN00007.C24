@@ -5537,6 +5537,9 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                         <Messages>
                             <Message refId="R_MS_036"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1351</Curve>
+                        </Curves>
                         <Groups>
                             <Group id="I_R_GR_0001" refId="R_GR_078" manual="false">
 <Ratings>
@@ -5552,13 +5555,13 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                     </Son>
                 </Sons>
                 <Ratings>
-                    <Rating refRatingId="R_RA_092"/>
+                    <Rating refRatingId="R_RA_092" value="1"/>
                     <Rating refRatingId="R_RA_093" value="1"/>
                     <Rating refRatingId="R_RA_094" value="1"/>
                 </Ratings>
                 <TotalRatings>
-                    <TotalRating refRatingId="R_RA_010"/>
-                    <TotalRating refRatingId="R_RA_011"/>
+                    <TotalRating refRatingId="R_RA_010" value="1.0"/>
+                    <TotalRating refRatingId="R_RA_011" value="1"/>
                     <TotalRating refRatingId="R_RA_012"/>
                 </TotalRatings>
                 <ReportBlocks>
@@ -5575,7 +5578,7 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                     </Message>
                     <Message refId="R_MS_034"/>
                     <Message refId="R_MS_029">
-                        <Message>No area with coating condition less than good has been found on board the vessel.</Message>
+                        <Message>No area with coating condition less than fair has been found on board the vessel.</Message>
                     </Message>
                 </Messages>
                 <Groups>
@@ -5642,6 +5645,10 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1347</Curve>
+                            <Curve>I_D_DO_1349</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0001" refId="R_IT_003" manual="false">
 <Photos>
@@ -5697,7 +5704,7 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0005" refId="R_IT_007" manual="false">
 <Photos>
-    <Photo>I_D_DO_0768</Photo>
+    <Photo>I_D_DO_0767</Photo>
     <Photo>I_D_DO_0774</Photo>
 </Photos>
 <Ratings>
@@ -5710,7 +5717,7 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0006" refId="R_IT_008" manual="false">
 <Photos>
-    <Photo>I_D_DO_0767</Photo>
+    <Photo>I_D_DO_0768</Photo>
     <Photo>I_D_DO_0773</Photo>
 </Photos>
 <Ratings>
@@ -5786,11 +5793,15 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1348</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0007" refId="R_IT_013" manual="false">
 <Photos>
-    <Photo>I_D_DO_1318</Photo>
     <Photo>I_D_DO_1324</Photo>
+    <Photo>I_D_DO_1343</Photo>
+    <Photo>I_D_DO_1318</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -5802,8 +5813,8 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0008" refId="R_IT_014" manual="false">
 <Photos>
-    <Photo>I_D_DO_1317</Photo>
     <Photo>I_D_DO_1323</Photo>
+    <Photo>I_D_DO_1317</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
@@ -5815,6 +5826,7 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0009" refId="R_IT_015" manual="false">
 <Photos>
+    <Photo>I_D_DO_1326</Photo>
     <Photo>I_D_DO_1320</Photo>
 </Photos>
 <Ratings>
@@ -5827,6 +5839,7 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0010" refId="R_IT_016" manual="false">
 <Photos>
+    <Photo>I_D_DO_1325</Photo>
     <Photo>I_D_DO_1319</Photo>
 </Photos>
 <Ratings>
@@ -5839,6 +5852,7 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0011" refId="R_IT_017" manual="false">
 <Photos>
+    <Photo>I_D_DO_1328</Photo>
     <Photo>I_D_DO_1322</Photo>
 </Photos>
 <Ratings>
@@ -5851,6 +5865,7 @@ No area with coating condition less than good has been found.&#xD;
                             </Item>
                             <Item id="I_R_IT_0012" refId="R_IT_018" manual="false">
 <Photos>
+    <Photo>I_D_DO_1327</Photo>
     <Photo>I_D_DO_1321</Photo>
 </Photos>
 <Ratings>
@@ -5892,6 +5907,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>The access hole on the ship bottom in way of Ballast tanks 1C, 2PS, 6PS and 6SB were reinstalled and vacuum tested in the presence of the Class Surveyor for the Renewal.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -5926,59 +5942,86 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1350</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0013" refId="R_IT_019" manual="false">
+<Photos>
+    <Photo>I_D_DO_1335</Photo>
+    <Photo>I_D_DO_1331</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0014" refId="R_IT_020" manual="false">
+<Photos>
+    <Photo>I_D_DO_1338</Photo>
+    <Photo>I_D_DO_1332</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0015" refId="R_IT_021" manual="false">
+<Photos>
+    <Photo>I_D_DO_1344</Photo>
+    <Photo>I_D_DO_1333</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0016" refId="R_IT_022" manual="false">
+<Photos>
+    <Photo>I_D_DO_1345</Photo>
+    <Photo>I_D_DO_1334</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0017" refId="R_IT_023" manual="false">
+<Photos>
+    <Photo>I_D_DO_1341</Photo>
+    <Photo>I_D_DO_1330</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="1"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0018" refId="R_IT_024" manual="false">
+<Photos>
+    <Photo>I_D_DO_1340</Photo>
+    <Photo>I_D_DO_1329</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="1"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -6046,6 +6089,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1354</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0019" refId="R_IT_038" manual="false">
 <Photos>
@@ -6186,6 +6232,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the Crew on the bottom of the tank and internal structure, including after rebuilding of spot corrosion by the Shipyard.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -8541,6 +8588,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the Crew on the side shell and internal structure of the tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -8733,6 +8781,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -8912,6 +8961,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -9093,6 +9143,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -9273,6 +9324,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -9452,6 +9504,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -9631,6 +9684,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom and lower part of the bulkheads of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -9783,11 +9837,11 @@ No area with coating condition less than good has been found.&#xD;
                     </Group>
                     <Group id="I_R_GR_0027" refId="R_GR_005" name="CARGO TANK NO. 4 SB" elementId="I_S_TA_30130407" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_009"/>
+                            <Rating refRatingId="R_RA_009" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_006"/>
-                            <TotalRating refRatingId="R_RA_007"/>
+                            <TotalRating refRatingId="R_RA_006" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_007" value="1"/>
                             <TotalRating refRatingId="R_RA_008"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -9800,10 +9854,17 @@ No area with coating condition less than good has been found.&#xD;
             <Son refId="R_BL_005"/>
         </Sons>
     </Son>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the CARGO TANK NO. 4 SB.&#xD;
+No area of substantial corrosion has been found.&#xD;
+No area with coating condition less than good has been found.&#xD;
+</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -9816,15 +9877,23 @@ No area with coating condition less than good has been found.&#xD;
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_002"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_002">
+<Message>The rating good condition has been assigned to the CARGO TANK NO. 4 SB.</Message>
+                            </Message>
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006"/>
+                            <Message refId="R_MS_006">
+<Message>No area of substantial corrosion has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_040"/>
                             <Message refId="R_MS_041"/>
-                            <Message refId="R_MS_007"/>
+                            <Message refId="R_MS_007">
+<Message>No area with coating condition less than good has been found.</Message>
+                            </Message>
                             <Message refId="R_MS_008"/>
                             <Message refId="R_MS_042"/>
                             <Message refId="R_MS_043"/>
@@ -9836,10 +9905,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0667</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9859,10 +9928,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0710</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9871,10 +9940,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0669</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9883,10 +9952,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0670</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9913,10 +9982,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0671</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9925,10 +9994,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0672</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9937,10 +10006,10 @@ No area with coating condition less than good has been found.&#xD;
     <Photo>I_D_DO_0673</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_001"/>
-    <Rating refRatingId="R_RA_002"/>
-    <Rating refRatingId="R_RA_003"/>
-    <Rating refRatingId="R_RA_004"/>
+    <Rating refRatingId="R_RA_001" value="1"/>
+    <Rating refRatingId="R_RA_002" value="1"/>
+    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
@@ -9975,6 +10044,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -10154,6 +10224,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instructions on the inner bottom of the Cargo Tank and Main Deck damages due to BWTS container installation.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -10512,6 +10583,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of the Cargo Tank.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -10995,6 +11067,7 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>FW tanks were cleaned.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -11133,7 +11206,7 @@ No area with coating condition less than good has been found.&#xD;
 					</Comment>
                         <Message>On completion of the CAP survey, the vessel’s structure has been found to be in good condition.&#xD;
 No area of substantial corrosion has been found on board the vessel.&#xD;
-No area with coating condition less than good has been found on board the vessel.</Message>
+No area with coating condition less than fair has been found on board the vessel.</Message>
                     </Summary>
                     <Summary refSummaryId="R_SU_007"/>
                     <Summary refSummaryId="R_SU_008"/>
@@ -22202,7 +22275,7 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0497" location="img\IMG_3238  Ballast tank WBT 1C rebuilded with welding, coating repair_800.JPG" use="PHOTO" contentType="image/jpeg" name="Bottom" attachmentDate="2024-07-31+03:00">
-                <Description>Corrosion spot on tank bottom rebuilded by welding.</Description>
+                <Description>Corrosion spot on tank bottom rebuilt by welding.</Description>
                 <Tags>
                     <TagId>I_D_TA_0007</TagId>
                     <TagId>I_D_TA_0001</TagId>
@@ -22587,6 +22660,7 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0562" location="img\IMG_3218 access hole from inside_800.JPG" use="PHOTO" contentType="image/jpeg" name="Bottom" attachmentDate="2024-07-31+03:00">
+                <Description>Access hole plate recoated fully after installation.</Description>
                 <Tags>
                     <TagId>I_D_TA_0007</TagId>
                     <TagId>I_D_TA_0001</TagId>
@@ -23749,14 +23823,14 @@ HRU expiry - March 2026</Description>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0767" location="img\20240603_094900 main deck aft portside_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft SB" attachmentDate="2024-08-02+02:00">
+            <Document id="I_D_DO_0767" location="img\20240603_094900 main deck aft portside_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft PS" attachmentDate="2024-08-02+02:00">
                 <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0768" location="img\20240603_094855 main deck aft starboard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft PS" attachmentDate="2024-08-02+02:00">
+            <Document id="I_D_DO_0768" location="img\20240603_094855 main deck aft starboard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main deck Aft SB" attachmentDate="2024-08-02+02:00">
                 <Description>Before the begining of the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0003</TagId>
@@ -26500,24 +26574,28 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1319" location="img\20240618_090405 ship hull vertical side midship ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area SB" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
                 <Tags>
                     <TagId>I_D_TA_0004</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1320" location="img\20240618_090330 hull vertical side fwd, midship sb_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area PS" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
                 <Tags>
                     <TagId>I_D_TA_0004</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1321" location="img\20240618_132835 ship hull aft starboard, stern, rudder, propeller_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft SB" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
                 <Tags>
                     <TagId>I_D_TA_0004</TagId>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1322" location="img\20240618_132809 ship hull aft portside, stern, rudder, propeller_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft PS" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
                 <Tags>
                     <TagId>I_D_TA_0004</TagId>
                     <TagId>I_D_TA_0001</TagId>
@@ -26537,6 +26615,143 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
+            <Document id="I_D_DO_1325" location="img\20240609_084143 hull vertical side aft starboard view before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area SB" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1326" location="img\20240609_083834 hull vertical side before washing portside_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area PS" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1327" location="img\20240609_084639 hull stern view portside, before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft SB" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1328" location="img\20240609_084612 hull stern view portside, before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft PS" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1329" location="img\20240618_090546 hull bottom aft sb_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Aft SB" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom aft after treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1330" location="img\20240618_090534 hull bottom aft ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Aft PS" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom aft after treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1331" location="img\20240618_090150 hull bottom fwd ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Forward PS" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom forward after treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1332" location="img\20240618_090141 hull bottom fwd sb_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Forward SB" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom forward after treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1333" location="img\20240618_090354 bottom midship ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Midship area PS" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom after treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1334" location="img\20240618_090342 bottom midship ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Midship area SB" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom after treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1335" location="img\20240618_090230 hull bottom fwd ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Forward PS" attachmentDate="2024-08-14+02:00">
+                <Description>Reinstalled access hole in Ballast tank 2ps.&#xD;
+Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1338" location="img\20240618_100147 vacuum test of access hole WBT 1C_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Forward SB" attachmentDate="2024-08-14+02:00">
+                <Description>Reinstalled access hole in Ballast tank 1C.&#xD;
+Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1340" location="img\20240617_090730 ballas tank access hole aft_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Aft SB" attachmentDate="2024-08-14+02:00">
+                <Description>Reinstalled access hole in Ballast tank 6sb.&#xD;
+Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1341" location="img\20240618_090129 bottom access hole rewelded_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Aft PS" attachmentDate="2024-08-14+02:00">
+                <Description>Reinstalled access hole in Ballast tank 6ps.&#xD;
+Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1343" location="img\IMG_1718370720837 vaccum test of the ER side access hole_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Forward PS" attachmentDate="2024-08-14+02:00">
+                <Description>Reinstalled access hole in Engine Room for the BWTS.&#xD;
+Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1344" location="img\20240609_084911 bottom before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Midship area PS" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom before treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1345" location="img\20240609_084822 hull bottom under bilge keel before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bottom Midship area SB" attachmentDate="2024-08-14+02:00">
+                <Description>Ship Bottom before treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0005</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1346" location="img\20240603_111601 main deck port aft, walkway, handrails, bulwark wide_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-08-14+02:00">
+                <Description>Before the begining of the docking.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0003</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1347" location="img\Main-deck.png" use="OTHER" contentType="image/png" name="Main-deck.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1348" location="img\Side-shell.png" use="OTHER" contentType="image/png" name="Side-shell.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1349" location="img\Other-exposed-decks.png" use="OTHER" contentType="image/png" name="Other-exposed-decks.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1350" location="img\Bottom.png" use="OTHER" contentType="image/png" name="Bottom.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1351" location="img\Global-Scurve.png" use="OTHER" contentType="image/png" name="Global-Scurve.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1354" location="img\FW-APT---C.png" use="OTHER" contentType="image/png" name="FW-APT---C.png" attachmentDate="2024-06-17+02:00"/>
         </Documents>
     </DocLibrary>
 </ReportCAP>
