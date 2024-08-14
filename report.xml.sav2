@@ -6,7 +6,13 @@
         <HistoryReview>
             <ReviewItems>
                 <ReviewItem refReviewId="P_RI_001" reviewed="true"/>
-                <ReviewItem refReviewId="P_RI_002" reviewed="true"/>
+                <ReviewItem refReviewId="P_RI_002" reviewed="true">
+                    <Documents>
+                        <Document>I_D_DO_1393</Document>
+                        <Document>I_D_DO_1394</Document>
+                        <Document>I_D_DO_1395</Document>
+                    </Documents>
+                </ReviewItem>
                 <ReviewItem refReviewId="P_RI_003"/>
                 <ReviewItem refReviewId="P_RI_004"/>
                 <ReviewItem refReviewId="P_RI_005" reviewed="true"/>
@@ -11412,7 +11418,7 @@ The rating good condition has been assigned to the Anchoring and Mooring Install
     <Son refId="R_BL_012"/>
     <Son selected="true" refId="R_BL_013">
         <Comment>Both port and starboard windlass winch clutch pad were repaired.&#xD;
-Chain locker two inserts were made at frame numbers No. 136 - 138 with dimensions 1800 x 1200 mm. Magnetic particles NDT was carried out with successful result.&#xD;
+Chain locker two inserts were made at frame numbers No. 136 - 138 with dimensions 1800 x 1200 mm. Deep Peneration NDT was carried out with successful result.&#xD;
 A certificate was issued by the shipyard.</Comment>
     </Son>
     <Son refId="R_BL_008"/>
@@ -11550,9 +11556,9 @@ A certificate was issued by the shipyard.</Comment>
                             </Item>
                             <Item id="I_R_IT_0307" refId="R_IT_072" manual="false">
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="2"/>
-    <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_015" value="1.5"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
+    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_015" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0308" refId="R_IT_073" manual="false">
@@ -11584,9 +11590,9 @@ A certificate was issued by the shipyard.</Comment>
     <Photo>I_D_DO_0060</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
     <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_015" value="1.0"/>
+    <Rating refRatingId="R_RA_015" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0312" refId="R_IT_077" manual="false">
@@ -11620,11 +11626,12 @@ A certificate was issued by the shipyard.</Comment>
     <Photo>I_D_DO_0070</Photo>
     <Photo>I_D_DO_0093</Photo>
     <Photo>I_D_DO_0098</Photo>
+    <Photo>I_D_DO_1396</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_015" value="1.5"/>
+    <Rating refRatingId="R_RA_015" value="1.0"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -11688,7 +11695,7 @@ The rating good condition has been assigned to the Steering &amp; Rudders.</Comm
     <Rating refRatingId="R_RA_015" value="1.0"/>
 </Ratings>
                             </Item>
-                            <Item id="I_R_IT_0317" refId="R_IT_082" manual="false">
+                            <Item id="I_R_IT_0317" refId="R_IT_082" name="Steering Gear Machine, Seals" manual="false">
 <Photos>
     <Photo>I_D_DO_0075</Photo>
 </Photos>
@@ -11872,13 +11879,13 @@ The rating good condition has been assigned to the Hull Machinery.</Comment>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
 <Comment>The bow thruster was tested during undocking and was found to be operating satisfactorily.&#xD;
-Hose crane wire was renewed by the crew. Hose crane was Load proof tasted at 125% SWL. A certificate was issued. </Comment>
+Hose crane wire was renewed by the crew. Hose crane was Load proof tested at 125% SWL. A certificate was issued. </Comment>
 <Sons>
     <Son selected="true" refId="R_BL_012">
-        <Comment>New Ballast Water Treatment System was installed, Maker - Alfa Laval. The system was commissioned and approved by the Class.</Comment>
+        <Comment>New Ballast Water Treatment System was installed, Maker - Alfa Laval. The system was commissioned and approved by the BV Class.</Comment>
     </Son>
     <Son selected="true" refId="R_BL_013">
-        <Comment>Hose crane hydraulic luffing cylinder overhauled. Removed for shipyard repairs. Reinstalled post-repair. Functionality confirmed.</Comment>
+        <Comment>Hose crane hydraulic luffing cylinder overhauled. Removed for shipyard repairs. Reinstalled post-repair. Functionality and no leaks were confirmed.</Comment>
     </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
@@ -12049,7 +12056,7 @@ Hose crane wire was renewed by the crew. Hose crane was Load proof tasted at 125
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
     <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_020" value="FALSE"/>
+    <Rating refRatingId="R_RA_020" value="TRUE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
     <Rating refRatingId="R_RA_015" value="1.5"/>
@@ -12086,7 +12093,8 @@ The rating good condition has been assigned to the Hull Electrical Equipment and
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
-<Comment>Bow thruster bilge alarms were tested.</Comment>
+<Comment>Bow thruster bilge alarms were tested.&#xD;
+Full megger test was carried out by an external company of all equipment onboard.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son refId="R_BL_013"/>
@@ -12281,7 +12289,7 @@ The rating good condition has been assigned to the Hull Fittings.</Comment>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
-<Comment>Gangway load test was carried out and accepted by the BV class surveyor for the renewal. Certificate was issued.</Comment>
+<Comment>Gangway load test was carried out and accepted by the BV class surveyor for the Renewal. Certificate was issued.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son refId="R_BL_013"/>
@@ -12431,7 +12439,7 @@ The rating good condition has been assigned to the Hull Fittings.</Comment>
                             <Rating refRatingId="R_RA_035" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_016" value="1.6"/>
+                            <TotalRating refRatingId="R_RA_016" value="1.5"/>
                             <TotalRating refRatingId="R_RA_017" value="2"/>
                             <TotalRating refRatingId="R_RA_018"/>
                         </TotalRatings>
@@ -12445,7 +12453,7 @@ The rating good condition has been assigned to the Closing Appliances.</Comment>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
-<Comment>Engine room air supply Ventilator overhauled. Removed for repairs. Engine room vent fan compartment coating was maintained by the crew. Reinstalled after refurbishment. Functionality confirmed.</Comment>
+<Comment>Engine room air supply Vent Fans were overhauled. Dismantled and transported to the Shipyard workshop for repairs. Engine room vent fan compartment coating was maintained by the crew. Reinstalled after refurbishment. Functionality confirmed.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son selected="false" refId="R_BL_013">
@@ -12470,14 +12478,15 @@ The rating good condition has been assigned to the Closing Appliances.</Comment>
                             <Item id="I_R_IT_0371" refId="R_IT_136" manual="false">
 <Photos>
     <Photo>I_D_DO_0173</Photo>
-    <Photo>I_D_DO_0172</Photo>
     <Photo>I_D_DO_0171</Photo>
     <Photo>I_D_DO_0174</Photo>
+    <Photo>I_D_DO_1397</Photo>
+    <Photo>I_D_DO_1398</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_015" value="1.5"/>
+    <Rating refRatingId="R_RA_015" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0372" refId="R_IT_138" manual="false">
@@ -20120,6 +20129,7 @@ The rating good condition has been assigned to the Environmental Management.</Co
                 </Tags>
             </Document>
             <Document id="I_D_DO_0087" location="img\20240619_104221 engine room steering gear rudder angle indicator_800.jpg" use="PHOTO" contentType="image/jpeg" name="Rudder Angle Indicator" attachmentDate="2024-07-24+03:00">
+                <Description>On the rudder stock.</Description>
                 <Tags>
                     <TagId>I_D_TA_0038</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -20542,24 +20552,27 @@ The rating good condition has been assigned to the Environmental Management.</Co
                 </Tags>
             </Document>
             <Document id="I_D_DO_0171" location="img\20240617_083024 cargo tank dome 4S coating of the hatch, not good done_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cargo Tank hatch covers, manhole covers and tank cleaning hatches" attachmentDate="2024-07-25+03:00">
+                <Description>Cargo tank dome hatches before the crew maintenance during the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0042</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0172" location="img\20240617_083018 cargo tank dome 4S coating of the hatch_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cargo Tank hatch covers, manhole covers and tank cleaning hatches" attachmentDate="2024-07-25+03:00">
+            <Document id="I_D_DO_0172" location="img\20240617_083018 cargo tank dome 4S coating of the hatch_800.jpg" use="PHOTO" contentType="image/jpeg" attachmentDate="2024-07-25+03:00">
                 <Tags>
                     <TagId>I_D_TA_0042</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0173" location="img\20240603_105920 CT 2 P manhole hatch cover_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cargo Tank hatch covers, manhole covers and tank cleaning hatches" attachmentDate="2024-07-25+03:00">
+                <Description>Cargo tank dome hatches before the crew maintenance during the docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0042</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0174" location="img\IMG_1837 butterworth hatch CT 5P_800.JPG" use="PHOTO" contentType="image/jpeg" name="Cargo Tank hatch covers, manhole covers and tank cleaning hatches" attachmentDate="2024-07-25+03:00">
+                <Description>Before maintenance of butterworth hatches.</Description>
                 <Tags>
                     <TagId>I_D_TA_0042</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -20739,7 +20752,7 @@ The rating good condition has been assigned to the Environmental Management.</Co
                 </Tags>
             </Document>
             <Document id="I_D_DO_0208" location="img\20240619_153020 bow thruster amper gauge on the Bridge, when tested_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bow thrusters and systems" attachmentDate="2024-07-26+03:00">
-                <Description>Bow thruster was tested, electrical power was provided by shaft generator.</Description>
+                <Description>Bow thruster was tested when alongside after the docking, electrical power was provided by the shaft generator.</Description>
                 <Tags>
                     <TagId>I_D_TA_0039</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -26941,6 +26954,29 @@ Vacuum test was carried out in the presence of the Class Surveyor for the Renewa
             <Document id="I_D_DO_1390" location="img\FO-DO-LO-HFO-Settling-Tank-SB---S.png" use="OTHER" contentType="image/png" name="FO-DO-LO-HFO-Settling-Tank-SB---S.png" attachmentDate="2024-06-17+02:00"/>
             <Document id="I_D_DO_1391" location="img\FW-FW-Tank---P.png" use="OTHER" contentType="image/png" name="FW-FW-Tank---P.png" attachmentDate="2024-06-17+02:00"/>
             <Document id="I_D_DO_1392" location="img\FW-FW-Tank---S.png" use="OTHER" contentType="image/png" name="FW-FW-Tank---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1393" location="docs\GTB0-DWN-20140612221057 HER Hull Evaluation Report 2014 Wisby.pdf" use="OTHER" contentType="application/pdf" name="GTB0-DWN-20140612221057 HER Hull Evaluation Report 2014 Wisby.pdf" attachmentDate="2024-07-29+02:00"/>
+            <Document id="I_D_DO_1394" location="docs\SZC0-KPT-20190807143305 HER Hull Evaluation Report 2019 Wisby Verity.pdf" use="OTHER" contentType="application/pdf" name="SZC0-KPT-20190807143305 HER Hull Evaluation Report 2019 Wisby Verity.pdf" attachmentDate="2024-07-29+02:00"/>
+            <Document id="I_D_DO_1395" location="docs\04025C_2024_1719255113691 HER Hull Evaluation Report ESP 2024.pdf" use="OTHER" contentType="application/pdf" name="04025C_2024_1719255113691 HER Hull Evaluation Report ESP 2024.pdf" attachmentDate="2024-07-29+02:00"/>
+            <Document id="I_D_DO_1396" location="img\Other-Chain-Locker---C_800.png" use="PHOTO" contentType="image/png" name="Chain Locker" attachmentDate="2024-08-14+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0037</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1397" location="img\20240617_083103 cargo tank butterworth hatch 3S coating_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cargo Tank hatch covers, manhole covers and tank cleaning hatches" attachmentDate="2024-08-14+02:00">
+                <Description>After maintenance of butterworth hatches.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0042</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1398" location="img\20240617_083659 cargo tank dome maintenance repair_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cargo Tank hatch covers, manhole covers and tank cleaning hatches" attachmentDate="2024-08-14+02:00">
+                <Description>Cargo tank dome hatches after the crew maintenance during the docking.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0042</TagId>
+                    <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
         </Documents>
     </DocLibrary>
 </ReportCAP>
