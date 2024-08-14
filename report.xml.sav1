@@ -17694,7 +17694,8 @@ The rating good condition has been assigned to the Motors and Associated Starter
 <Sons>
     <Son refId="R_BL_012"/>
     <Son selected="true" refId="R_BL_013">
-        <Comment>ER vent fans el motors ps and sb were overhauled by the Shipyard.</Comment>
+        <Comment>ER vent fans el motors ps and sb were overhauled by the Shipyard.&#xD;
+HT FW cooling pump el motor was overhauled by the Crew.</Comment>
     </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
@@ -18425,17 +18426,20 @@ The rating good condition has been assigned to the Motors and Associated Starter
                     </Group>
                     <Group id="I_R_GR_0075" refId="R_GR_054" manual="false">
                         <Ratings>
-                            <Rating refRatingId="R_RA_053"/>
+                            <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041"/>
-                            <TotalRating refRatingId="R_RA_042"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.5"/>
+                            <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
                         <ReportBlocks>
                             <ReportBlock refId="R_BL_018">
 <Sons>
-    <Son refId="R_BL_006"/>
+    <Son refId="R_BL_006">
+        <Comment>On Completion of the CAP survey :&#xD;
+The rating good condition has been assigned to the Electrical installations (others).</Comment>
+    </Son>
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
@@ -18448,99 +18452,142 @@ The rating good condition has been assigned to the Motors and Associated Starter
                             </ReportBlock>
                         </ReportBlocks>
                         <Messages>
-                            <Message refId="R_MS_001"/>
-                            <Message refId="R_MS_010"/>
+                            <Message refId="R_MS_001">
+<Message>On Completion of the CAP survey :</Message>
+                            </Message>
+                            <Message refId="R_MS_010">
+<Message>The rating good condition has been assigned to the Electrical installations (others).</Message>
+                            </Message>
                             <Message refId="R_MS_017"/>
                             <Message refId="R_MS_038"/>
                             <Message refId="R_MS_039"/>
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0833" refId="R_IT_582" manual="false">
+<Photos>
+    <Photo>I_D_DO_1277</Photo>
+    <Photo>I_D_DO_1278</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0834" refId="R_IT_583" manual="false">
+<Photos>
+    <Photo>I_D_DO_1279</Photo>
+    <Photo>I_D_DO_1280</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_024" value="2"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0835" refId="R_IT_584" manual="false">
+<Photos/>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
+    <Rating refRatingId="R_RA_013" value="NA"/>
     <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_024"/>
+    <Rating refRatingId="R_RA_040" value="NA"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0836" refId="R_IT_585" manual="false">
+<Photos>
+    <Photo>I_D_DO_1282</Photo>
+    <Photo>I_D_DO_1281</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_024" value="2"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0837" refId="R_IT_586" manual="false">
+<Photos>
+    <Photo>I_D_DO_1283</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0838" refId="R_IT_587" manual="false">
+<Photos>
+    <Photo>I_D_DO_1287</Photo>
+    <Photo>I_D_DO_1288</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_024" value="2"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_024" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0839" refId="R_IT_588" manual="false">
+<Photos>
+    <Photo>I_D_DO_1289</Photo>
+    <Photo>I_D_DO_1293</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0840" refId="R_IT_589" manual="false">
+<Photos>
+    <Photo>I_D_DO_1294</Photo>
+    <Photo>I_D_DO_1295</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0841" refId="R_IT_590" manual="false">
+<Photos>
+    <Photo>I_D_DO_1290</Photo>
+    <Photo>I_D_DO_1291</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0842" refId="R_IT_591" manual="false">
+<Photos>
+    <Photo>I_D_DO_1296</Photo>
+    <Photo>I_D_DO_1297</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0843" refId="R_IT_592" manual="false">
+<Photos>
+    <Photo>I_D_DO_1298</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
     <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_040" value="1.7"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -18578,55 +18625,82 @@ The rating good condition has been assigned to the Motors and Associated Starter
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0844" refId="R_IT_593" manual="false">
+<Photos>
+    <Photo>I_D_DO_1299</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0845" refId="R_IT_594" manual="false">
+<Photos>
+    <Photo>I_D_DO_1300</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0846" refId="R_IT_595" manual="false">
+<Photos>
+    <Photo>I_D_DO_1301</Photo>
+    <Photo>I_D_DO_1302</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0847" refId="R_IT_596" manual="false">
+<Photos>
+    <Photo>I_D_DO_1304</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0848" refId="R_IT_597" manual="false">
+<Photos>
+    <Photo>I_D_DO_1306</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0849" refId="R_IT_598" manual="false">
+<Photos>
+    <Photo>I_D_DO_1309</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0850" refId="R_IT_599" manual="false">
+<Photos>
+    <Photo>I_D_DO_1310</Photo>
+    <Photo>I_D_DO_1311</Photo>
+</Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013"/>
-    <Rating refRatingId="R_RA_014"/>
-    <Rating refRatingId="R_RA_040"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0851" refId="R_IT_600" manual="false">
+<Photos>
+    <Photo>I_D_DO_1312</Photo>
+    <Photo>I_D_DO_1316</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013"/>
     <Rating refRatingId="R_RA_014"/>
@@ -26187,6 +26261,200 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 <Description>AHU fan starter panel.</Description>
                 <Tags>
                     <TagId>I_D_TA_0071</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1277" location="img\20240603_114449 funnel space lighting_800.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room, Workshops, Stores Rooms Lighting including guards and supports" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1278" location="img\20240603_134604 purifier room ceiling, vent ducts, cable trays, fire sensors, lighting_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Engine Room, Workshops, Stores Rooms Lighting including guards and supports" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1279" location="img\20240603_114413 funnel space lighting, funnel dampers_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Lighting including guards and supports" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1280" location="img\20240617_082321 emcy generator new light_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Lighting including guards and supports" attachmentDate="2024-08-12+02:00">
+                <Description>Light above Emergency Switchborad.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1281" location="img\FLIR1664 inside main switchboard, transformer_800.jpg" use="PHOTO" contentType="image/jpeg" name="Lighting Transformers" attachmentDate="2024-08-12+02:00">
+                <Description>Thermal image of the tranformer.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1282" location="img\FLIR1665 inside main switchboard, transformer_800.jpg" use="PHOTO" contentType="image/jpeg" name="Lighting Transformers" attachmentDate="2024-08-12+02:00">
+                <Description>Transformer inside the Main Switchboard.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1283" location="img\20240603_094158 battery 2020 due for renewal_800.jpg" use="PHOTO" contentType="image/jpeg" name="Emergency Batteries and storage" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1287" location="img\20240617_082326 emcy generator batteries removed_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Battery Chargers" attachmentDate="2024-08-12+02:00">
+                <Description>Emergency Generator starting battery charger.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1288" location="img\20240603_134144 Aux engine 1 top view, turbocharger, exh duct insulation - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Battery Chargers" attachmentDate="2024-08-12+02:00">
+                <Description>Aux engine starting battery charger.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1289" location="img\20240603_133637 ER ventilation ducts, fire smoke detector, ER ceiling, cables, lighting_800.jpg" use="PHOTO" contentType="image/jpeg" name="Electrical Cabling including penetration pieces and seals." attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1290" location="img\20240603_140238 ER cable tray, tracing supports above_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cable Trays and Supports" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1291" location="img\20240603_140325 cable traces, junction box_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cable Trays and Supports" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1293" location="img\IMG_1835 cable pentration in the EDG room to CO2 room, must be sealed additionally_800.JPG" use="PHOTO" contentType="image/jpeg" name="Electrical Cabling including penetration pieces and seals." attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1294" location="img\20240603_140249 engine ER tracing fuel line star board junction box_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cabling Junction Boxes" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1295" location="img\20240603_131208 FRAMO junction box_800.jpg" use="PHOTO" contentType="image/jpeg" name="Cabling Junction Boxes" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1296" location="img\20240603_140459 sludge pump control panel and ER EEBD 7, ER tel. relay box_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Telephone System" attachmentDate="2024-08-12+02:00">
+                <Description>Tel relay box.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1297" location="img\20240603_140606 ER telephone with posted number index card, emcy communication nearby CPP local control_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Telephone System" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1298" location="img\20240617_092700 welding equipment_800.jpg" use="PHOTO" contentType="image/jpeg" name="Electric Arc Welding Machines, Cabling and Equipment" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0072</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1299" location="img\20240619_151510 main control console, telegraph, CPP control_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Control System" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1300" location="img\20240619_153305 main engine gauges during testing, 600 rpm_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Systems Monitoring, alarms and automatic shut-down systems" attachmentDate="2024-08-12+02:00">
+                <Description>During testing of Main Engine.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1301" location="img\20240619_155907 main engine control console, oil mist detector alarm activated, on alarm history monitor_800.jpg" use="PHOTO" contentType="image/jpeg" name="Machinery Alarm Systems (Including UMS Alarms)" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1302" location="img\20240619_155856 main engine control console, oil mist detector alarm activated_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Machinery Alarm Systems (Including UMS Alarms)" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1303" location="img\20240603_140714 gear box pressure transmitters for alarms, LO trip, LO low pressure, LO stand0by pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="20240603_140714 gear box pressure transmitters for alarms, LO trip, LO low pressure, LO stand0by pump_800.jpg" attachmentDate="2024-08-12+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1304" location="img\20240603_114942 engine room ECR main switchboard pumps and compressor starters, before docking - Copy_800.jpg" use="PHOTO" contentType="image/jpeg" name="Auto Start up of Stand By units." attachmentDate="2024-08-12+02:00">
+                <Description>Auto selector for Starting air compressor and ME HT pump.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1306" location="img\20240619_082938 synchronization panel, main switchboard, ECR_800.jpg" use="PHOTO" contentType="image/jpeg" name="Automatic Start up, Synchronisation and change over of Generators including alarms and automatic shut-down systems" attachmentDate="2024-08-12+02:00">
+                <Description>Main synchronization panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1309" location="img\20240618_150441 emergency generator panel, emcy swithcboard_800.jpg" use="PHOTO" contentType="image/jpeg" name="Auto start up of Emergency Generator and connecting to switchboard." attachmentDate="2024-08-12+02:00">
+                <Description>Emergency Genrator tested under load.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1310" location="img\20240603_131753 thermal oil boiler 2 control panel_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Boilers ACC System" attachmentDate="2024-08-12+02:00">
+                <Description>Thermal boiler 2 automation panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1311" location="img\20240603_131552 thermal oil boiler 1, control panel_800_2.jpg" use="PHOTO" contentType="image/jpeg" name="Boilers ACC System" attachmentDate="2024-08-12+02:00">
+                <Description>Thermal boiler 1 automation panel.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1312" location="img\20240604_140126 thermal oil boilers exhaust sgas temp sensors_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Boilers Safety System including Flame eyes, Purge Sequences, Alarms and trips" attachmentDate="2024-08-12+02:00">
+                <Description>Boilers' high exh gas temperature sensors.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1316" location="img\20230106_114826 boiler flame failure test_800_1.jpg" use="PHOTO" contentType="image/jpeg" name="Boilers Safety System including Flame eyes, Purge Sequences, Alarms and trips" attachmentDate="2024-08-12+02:00">
+                <Description>Flame failure of boilers was tested.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0073</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
