@@ -17,7 +17,7 @@
             <Owner>Wim Mulder</Owner>
             <Surveyor>Stefan Prodanov</Surveyor>
             <Comment></Comment>
-            <Place>At YARD FALKARV Shipyard in Falkenberg (SWEDEN) from 03 Jun 2024 To 17 Jun 2024&#xD;
+            <Place>At YARD FALKARV Shipyard in Falkenberg (SWEDEN) from 03 Jun 2024 To 19 Jun 2024&#xD;
 </Place>
             <PlannedModules>
                 <PlannedModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="HullPlannedModule" refModuleId="R_MO_001">
@@ -30,7 +30,7 @@
         <Access>DIRECT_ACCESS</Access>
     </Accesses>
 </PlanningItem>
-<PlanningItem id="I_P_IT_0002" refId="P_PI_002">
+<PlanningItem id="I_P_IT_0002" refId="P_PI_002" name="All bottom plates">
     <Accesses>
         <Access>DIRECT_ACCESS</Access>
     </Accesses>
@@ -5788,57 +5788,81 @@ No area with coating condition less than good has been found.&#xD;
                         </Messages>
                         <Items>
                             <Item id="I_R_IT_0007" refId="R_IT_013" manual="false">
+<Photos>
+    <Photo>I_D_DO_1318</Photo>
+    <Photo>I_D_DO_1324</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0008" refId="R_IT_014" manual="false">
+<Photos>
+    <Photo>I_D_DO_1317</Photo>
+    <Photo>I_D_DO_1323</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0009" refId="R_IT_015" manual="false">
+<Photos>
+    <Photo>I_D_DO_1320</Photo>
+    <Photo>I_D_DO_1326</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0010" refId="R_IT_016" manual="false">
+<Photos>
+    <Photo>I_D_DO_1319</Photo>
+    <Photo>I_D_DO_1325</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0011" refId="R_IT_017" manual="false">
+<Photos>
+    <Photo>I_D_DO_1322</Photo>
+    <Photo>I_D_DO_1328</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0012" refId="R_IT_018" manual="false">
+<Photos>
+    <Photo>I_D_DO_1321</Photo>
+    <Photo>I_D_DO_1327</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_003" value="1"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
-    <Rating refRatingId="R_RA_005"/>
+    <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
                             </Item>
                         </Items>
@@ -19213,54 +19237,54 @@ The rating good condition has been assigned to the Environmental Management.</Co
             <StatutoryStatus/>
         </ShipStatus>
         <CompartmentLibrary>
-            <Compartment name="Aftpeak" position="S_TA_PO_CT" use="S_TA_US_BT" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="202.1" minFrame="-3" maxFrame="5" annualInspection="false" obsolete="false" id="I_S_TA_30130399" exported="true"/>
-            <Compartment name="CARGO TANK NO. 1" position="S_TA_PO_CT" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="116" maxFrame="135" annualInspection="false" obsolete="false" id="I_S_TA_30130402" exported="true"/>
-            <Compartment name="CARGO TANK NO. 2 PS" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="90" maxFrame="116" annualInspection="false" obsolete="false" id="I_S_TA_30130404" exported="true"/>
-            <Compartment name="CARGO TANK NO. 2 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="90" maxFrame="116" annualInspection="false" obsolete="false" id="I_S_TA_30130403" exported="true"/>
-            <Compartment name="CARGO TANK NO. 3 PS" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="67" maxFrame="90" annualInspection="false" obsolete="false" id="I_S_TA_30130406" exported="true"/>
-            <Compartment name="CARGO TANK NO. 3 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="67" maxFrame="90" annualInspection="false" obsolete="false" id="I_S_TA_30130405" exported="true"/>
-            <Compartment name="CARGO TANK NO. 4 PS" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="55" maxFrame="67" annualInspection="false" obsolete="false" id="I_S_TA_30130408" exported="true"/>
-            <Compartment name="CARGO TANK NO. 4 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="55" maxFrame="67" annualInspection="false" obsolete="false" id="I_S_TA_30130407" exported="true"/>
-            <Compartment name="CARGO TANK NO. 5 PS / SLOPTANK" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="55" annualInspection="false" obsolete="false" id="I_S_TA_30130410" exported="true"/>
-            <Compartment name="CARGO TANK NO. 5 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="55" annualInspection="false" obsolete="false" id="I_S_TA_30130409" exported="true"/>
-            <Compartment name="Chain locker" position="S_TA_PO_CT" use="S_TA_US_CO" longPosition="S_TA_LP_FW" minFrame="136" maxFrame="138" id="I_S_TA_30229669" exported="true"/>
-            <Compartment name="Cofferdam ER DB fwd" position="S_TA_PO_CT" location="S_TA_LO_DB" use="S_TA_US_CO" longPosition="S_TA_LP_AF" minFrame="26" maxFrame="28" id="I_S_TA_30105901" exported="true"/>
-            <Compartment name="DB / wing tank 1" position="S_TA_PO_CT" location="S_TA_LO_US" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="409.62" minFrame="120" maxFrame="138" annualInspection="false" obsolete="false" id="I_S_TA_30130398" exported="true"/>
-            <Compartment name="DB / wing tank 2 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="203.21" minFrame="102" maxFrame="120" annualInspection="false" obsolete="false" id="I_S_TA_30130397" exported="true"/>
-            <Compartment name="DB / wing tank 2 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="212.72" minFrame="102" maxFrame="120" annualInspection="false" obsolete="false" id="I_S_TA_30130396" exported="true"/>
-            <Compartment name="DB / wing tank 3 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="139.84" minFrame="90" maxFrame="102" annualInspection="false" obsolete="false" id="I_S_TA_30130395" exported="true"/>
-            <Compartment name="DB / wing tank 3 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="146.18" minFrame="90" maxFrame="102" annualInspection="false" obsolete="false" id="I_S_TA_30130394" exported="true"/>
-            <Compartment name="DB / wing tank 4 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="76" maxFrame="90" annualInspection="false" obsolete="false" id="I_S_TA_30130393" exported="true"/>
-            <Compartment name="DB / wing tank 4 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="171.33" minFrame="76" maxFrame="90" annualInspection="false" obsolete="false" id="I_S_TA_30130392" exported="true"/>
-            <Compartment name="DB / wing tank 5 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="281.03" minFrame="67" maxFrame="76" annualInspection="false" obsolete="false" id="I_S_TA_30130391" exported="true"/>
-            <Compartment name="DB / wing tank 5 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="293.7" minFrame="67" maxFrame="76" annualInspection="false" obsolete="false" id="I_S_TA_30130390" exported="true"/>
-            <Compartment name="DB / wing tank 6 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="221.41" minFrame="49" maxFrame="67" annualInspection="false" obsolete="false" id="I_S_TA_30130389" exported="true"/>
-            <Compartment name="DB / wing tank 6 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="231.44" minFrame="49" maxFrame="67" annualInspection="false" obsolete="false" id="I_S_TA_30130388" exported="true"/>
-            <Compartment name="DB / wing tank 7 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="244.27" minFrame="29" maxFrame="49" annualInspection="false" obsolete="false" id="I_S_TA_30105899" exported="true"/>
-            <Compartment name="DB / wing tank 7 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="255.89" minFrame="29" maxFrame="49" annualInspection="false" obsolete="false" id="I_S_TA_30105898" exported="true"/>
-            <Compartment name="Drain Tank PS" position="S_TA_PO_PS" use="S_TA_US_ST" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="32" annualInspection="false" id="I_S_TA_30229668" exported="true"/>
-            <Compartment name="Drain Tank SB" position="S_TA_PO_SB" use="S_TA_US_ST" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="32" annualInspection="false" id="I_S_TA_30229667" exported="true"/>
-            <Compartment name="Dry space DB Engine" position="S_TA_PO_CT" use="S_TA_US_CO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="17" annualInspection="false" id="I_S_TA_30229664" exported="true"/>
-            <Compartment name="Emg generator room" position="S_TA_PO_PS" use="S_TA_US_MS" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="4" maxFrame="9" annualInspection="false" id="I_S_TA_30229672" exported="true"/>
-            <Compartment name="Engine room" position="S_TA_PO_CT" use="S_TA_US_MS" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="29" annualInspection="false" id="I_S_TA_30229670" exported="true"/>
-            <Compartment name="Evac Tk" position="S_TA_PO_SB" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="17" maxFrame="22" id="I_S_TA_30229684" exported="true"/>
-            <Compartment name="Forepeak" position="S_TA_PO_CT" location="S_TA_LO_DB" use="S_TA_US_BT" longPosition="S_TA_LP_FW" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="129.1" minFrame="138" maxFrame="151" annualInspection="false" obsolete="false" id="I_S_TA_30105897" exported="true"/>
-            <Compartment name="Fresh water Tk PS" position="S_TA_PO_PS" use="S_TA_US_FW" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="5" maxFrame="10" annualInspection="false" id="I_S_TA_30229663" exported="true"/>
-            <Compartment name="Fresh water Tk SB" position="S_TA_PO_SB" use="S_TA_US_FW" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="5" maxFrame="10" annualInspection="false" id="I_S_TA_30229676" exported="true"/>
-            <Compartment name="Gas Oil Day Tk" position="S_TA_PO_PS" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="17" maxFrame="21" annualInspection="false" id="I_S_TA_30229682" exported="true"/>
-            <Compartment name="Gas Oil Tk SB" position="S_TA_PO_PS" use="S_TA_US_FD" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="15" maxFrame="24" annualInspection="false" id="I_S_TA_30229679" exported="true"/>
-            <Compartment name="HFO Centre Tk" position="S_TA_PO_CT" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="27" maxFrame="29" id="I_S_TA_30229683" exported="true"/>
-            <Compartment name="HFO Day Tk." position="S_TA_PO_CT" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="25" maxFrame="27" id="I_S_TA_30229678" exported="true"/>
-            <Compartment name="HFO Sett. Tk" position="S_TA_PO_CT" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="25" maxFrame="27" id="I_S_TA_30229677" exported="true"/>
-            <Compartment name="HFO Wingtank PS" position="S_TA_PO_PS" use="S_TA_US_FD" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="24" maxFrame="29" annualInspection="false" id="I_S_TA_30105900" exported="true"/>
-            <Compartment name="HFO Wink Tk SB" position="S_TA_PO_SB" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="24" maxFrame="29" annualInspection="false" id="I_S_TA_30229681" exported="true"/>
-            <Compartment name="LO Tk Aux Engines" position="S_TA_PO_PS" use="S_TA_US_LO" longPosition="S_TA_LP_AF" minFrame="13" maxFrame="14" id="I_S_TA_30229674" exported="true"/>
-            <Compartment name="LO Tk Main Engine" position="S_TA_PO_PS" use="S_TA_US_LO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="17" annualInspection="false" id="I_S_TA_30229673" exported="true"/>
-            <Compartment name="LO Tk Reduction gear" position="S_TA_PO_PS" use="S_TA_US_LO" longPosition="S_TA_LP_AF" minFrame="14" maxFrame="15" id="I_S_TA_30229675" exported="true"/>
-            <Compartment name="Sludge Tk PS" position="S_TA_PO_PS" use="S_TA_US_OT" longPosition="S_TA_LP_AF" minFrame="15" maxFrame="24" id="I_S_TA_30229680" exported="true"/>
-            <Compartment name="Steering gear room" position="S_TA_PO_CT" use="S_TA_US_MS" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="-3" maxFrame="4" annualInspection="false" id="I_S_TA_30229671" exported="true"/>
-            <Compartment name="Void space Engine PS" position="S_TA_PO_PS" use="S_TA_US_CO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="14" annualInspection="false" id="I_S_TA_30229666" exported="true"/>
-            <Compartment name="Void space Engine SB" position="S_TA_PO_SB" use="S_TA_US_CO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="14" annualInspection="false" id="I_S_TA_30229665" exported="true"/>
+            <Compartment name="Aftpeak" position="S_TA_PO_CT" use="S_TA_US_BT" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="202.1" minFrame="-3" maxFrame="5" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130399" exported="true"/>
+            <Compartment name="CARGO TANK NO. 1" position="S_TA_PO_CT" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="116" maxFrame="135" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130402" exported="true"/>
+            <Compartment name="CARGO TANK NO. 2 PS" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="90" maxFrame="116" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130404" exported="true"/>
+            <Compartment name="CARGO TANK NO. 2 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="90" maxFrame="116" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130403" exported="true"/>
+            <Compartment name="CARGO TANK NO. 3 PS" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="67" maxFrame="90" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130406" exported="true"/>
+            <Compartment name="CARGO TANK NO. 3 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="67" maxFrame="90" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130405" exported="true"/>
+            <Compartment name="CARGO TANK NO. 4 PS" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="55" maxFrame="67" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130408" exported="true"/>
+            <Compartment name="CARGO TANK NO. 4 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="55" maxFrame="67" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130407" exported="true"/>
+            <Compartment name="CARGO TANK NO. 5 PS / SLOPTANK" position="S_TA_PO_PS" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="55" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130410" exported="true"/>
+            <Compartment name="CARGO TANK NO. 5 SB" position="S_TA_PO_SB" use="S_TA_US_CT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="55" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130409" exported="true"/>
+            <Compartment name="Chain locker" position="S_TA_PO_CT" use="S_TA_US_CO" longPosition="S_TA_LP_FW" minFrame="136" maxFrame="138" asGroup="false" id="I_S_TA_30229669" exported="true"/>
+            <Compartment name="Cofferdam ER DB fwd" position="S_TA_PO_CT" location="S_TA_LO_DB" use="S_TA_US_CO" longPosition="S_TA_LP_AF" minFrame="26" maxFrame="28" asGroup="false" id="I_S_TA_30105901" exported="true"/>
+            <Compartment name="DB / wing tank 1" position="S_TA_PO_CT" location="S_TA_LO_US" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="409.62" minFrame="120" maxFrame="138" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130398" exported="true"/>
+            <Compartment name="DB / wing tank 2 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="203.21" minFrame="102" maxFrame="120" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130397" exported="true"/>
+            <Compartment name="DB / wing tank 2 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="212.72" minFrame="102" maxFrame="120" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130396" exported="true"/>
+            <Compartment name="DB / wing tank 3 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="139.84" minFrame="90" maxFrame="102" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130395" exported="true"/>
+            <Compartment name="DB / wing tank 3 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="146.18" minFrame="90" maxFrame="102" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130394" exported="true"/>
+            <Compartment name="DB / wing tank 4 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="76" maxFrame="90" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130393" exported="true"/>
+            <Compartment name="DB / wing tank 4 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="171.33" minFrame="76" maxFrame="90" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130392" exported="true"/>
+            <Compartment name="DB / wing tank 5 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="281.03" minFrame="67" maxFrame="76" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130391" exported="true"/>
+            <Compartment name="DB / wing tank 5 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="293.7" minFrame="67" maxFrame="76" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130390" exported="true"/>
+            <Compartment name="DB / wing tank 6 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="221.41" minFrame="49" maxFrame="67" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130389" exported="true"/>
+            <Compartment name="DB / wing tank 6 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="231.44" minFrame="49" maxFrame="67" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30130388" exported="true"/>
+            <Compartment name="DB / wing tank 7 PS" position="S_TA_PO_PS" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="244.27" minFrame="29" maxFrame="49" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30105899" exported="true"/>
+            <Compartment name="DB / wing tank 7 SB" position="S_TA_PO_SB" location="S_TA_LO_LS" use="S_TA_US_BT" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="255.89" minFrame="29" maxFrame="49" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30105898" exported="true"/>
+            <Compartment name="Drain Tank PS" position="S_TA_PO_PS" use="S_TA_US_ST" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="32" annualInspection="false" asGroup="false" id="I_S_TA_30229668" exported="true"/>
+            <Compartment name="Drain Tank SB" position="S_TA_PO_SB" use="S_TA_US_ST" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="29" maxFrame="32" annualInspection="false" asGroup="false" id="I_S_TA_30229667" exported="true"/>
+            <Compartment name="Dry space DB Engine" position="S_TA_PO_CT" use="S_TA_US_CO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="17" annualInspection="false" asGroup="false" id="I_S_TA_30229664" exported="true"/>
+            <Compartment name="Emg generator room" position="S_TA_PO_PS" use="S_TA_US_MS" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="4" maxFrame="9" annualInspection="false" asGroup="false" id="I_S_TA_30229672" exported="true"/>
+            <Compartment name="Engine room" position="S_TA_PO_CT" use="S_TA_US_MS" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="29" annualInspection="false" asGroup="false" id="I_S_TA_30229670" exported="true"/>
+            <Compartment name="Evac Tk" position="S_TA_PO_SB" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="17" maxFrame="22" asGroup="false" id="I_S_TA_30229684" exported="true"/>
+            <Compartment name="Forepeak" position="S_TA_PO_CT" location="S_TA_LO_DB" use="S_TA_US_BT" longPosition="S_TA_LP_FW" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" volume="129.1" minFrame="138" maxFrame="151" annualInspection="false" obsolete="false" asGroup="false" id="I_S_TA_30105897" exported="true"/>
+            <Compartment name="Fresh water Tk PS" position="S_TA_PO_PS" use="S_TA_US_FW" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="5" maxFrame="10" annualInspection="false" asGroup="false" id="I_S_TA_30229663" exported="true"/>
+            <Compartment name="Fresh water Tk SB" position="S_TA_PO_SB" use="S_TA_US_FW" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="5" maxFrame="10" annualInspection="false" asGroup="false" id="I_S_TA_30229676" exported="true"/>
+            <Compartment name="Gas Oil Day Tk" position="S_TA_PO_PS" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="17" maxFrame="21" annualInspection="false" asGroup="false" id="I_S_TA_30229682" exported="true"/>
+            <Compartment name="Gas Oil Tk SB" position="S_TA_PO_PS" use="S_TA_US_FD" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="15" maxFrame="24" annualInspection="false" asGroup="false" id="I_S_TA_30229679" exported="true"/>
+            <Compartment name="HFO Centre Tk" position="S_TA_PO_CT" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="27" maxFrame="29" asGroup="false" id="I_S_TA_30229683" exported="true"/>
+            <Compartment name="HFO Day Tk." position="S_TA_PO_CT" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="25" maxFrame="27" asGroup="false" id="I_S_TA_30229678" exported="true"/>
+            <Compartment name="HFO Sett. Tk" position="S_TA_PO_CT" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="25" maxFrame="27" asGroup="false" id="I_S_TA_30229677" exported="true"/>
+            <Compartment name="HFO Wingtank PS" position="S_TA_PO_PS" use="S_TA_US_FD" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="24" maxFrame="29" annualInspection="false" asGroup="false" id="I_S_TA_30105900" exported="true"/>
+            <Compartment name="HFO Wink Tk SB" position="S_TA_PO_SB" use="S_TA_US_FD" longPosition="S_TA_LP_AF" minFrame="24" maxFrame="29" annualInspection="false" asGroup="false" id="I_S_TA_30229681" exported="true"/>
+            <Compartment name="LO Tk Aux Engines" position="S_TA_PO_PS" use="S_TA_US_LO" longPosition="S_TA_LP_AF" minFrame="13" maxFrame="14" asGroup="false" id="I_S_TA_30229674" exported="true"/>
+            <Compartment name="LO Tk Main Engine" position="S_TA_PO_PS" use="S_TA_US_LO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="17" annualInspection="false" asGroup="false" id="I_S_TA_30229673" exported="true"/>
+            <Compartment name="LO Tk Reduction gear" position="S_TA_PO_PS" use="S_TA_US_LO" longPosition="S_TA_LP_AF" minFrame="14" maxFrame="15" asGroup="false" id="I_S_TA_30229675" exported="true"/>
+            <Compartment name="Sludge Tk PS" position="S_TA_PO_PS" use="S_TA_US_OT" longPosition="S_TA_LP_AF" minFrame="15" maxFrame="24" asGroup="false" id="I_S_TA_30229680" exported="true"/>
+            <Compartment name="Steering gear room" position="S_TA_PO_CT" use="S_TA_US_MS" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="-3" maxFrame="4" annualInspection="false" asGroup="false" id="I_S_TA_30229671" exported="true"/>
+            <Compartment name="Void space Engine PS" position="S_TA_PO_PS" use="S_TA_US_CO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="14" annualInspection="false" asGroup="false" id="I_S_TA_30229666" exported="true"/>
+            <Compartment name="Void space Engine SB" position="S_TA_PO_SB" use="S_TA_US_CO" longPosition="S_TA_LP_AF" corrosionProtection="S_TA_CP_HC" coatingExtent="S_TA_CE_CO" coatingCondition="S_TA_CC_GO" minFrame="10" maxFrame="14" annualInspection="false" asGroup="false" id="I_S_TA_30229665" exported="true"/>
         </CompartmentLibrary>
         <BoilerLibrary>
             <Boiler use="S_BO_US_AU" classed="true" surveyCode="G_SU_20" heatingType="S_BO_TY_CHO" model="V4-0-TFO-012" licence="AKB" builder="AKB GmbH Apparate und Kesselbau" thermalFluid="true" pressure="10.0" surface="32.07" id="I_S_BO_BO01" exported="true"/>
@@ -26463,6 +26487,90 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 <Tags>
                     <TagId>I_D_TA_0073</TagId>
                     <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1317" location="img\20240618_132512 ship hull front starboard, bow_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Forward SB" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1318" location="img\20240618_132436 ship hull front portside, bow_800_0.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Forward PS" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1319" location="img\20240618_090405 ship hull vertical side midship ps_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area SB" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1320" location="img\20240618_090330 hull vertical side fwd, midship sb_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area PS" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1321" location="img\20240618_132835 ship hull aft starboard, stern, rudder, propeller_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft SB" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1322" location="img\20240618_132809 ship hull aft portside, stern, rudder, propeller_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft PS" attachmentDate="2024-08-14+02:00">
+                <Description>After hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1323" location="img\20240609_084036 hull bow front starboard view before washing portside fwd_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Forward SB" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1324" location="img\20240609_083949 hull bow side before washing portside fwd_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Forward PS" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1325" location="img\20240609_084143 hull vertical side aft starboard view before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area SB" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1326" location="img\20240609_083834 hull vertical side before washing portside_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Midship area PS" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1327" location="img\20240609_084639 hull stern view portside, before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft SB" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1328" location="img\20240609_084612 hull stern view portside, before washing_800.jpg" use="PHOTO" contentType="image/jpeg" name="Side shell Aft PS" attachmentDate="2024-08-14+02:00">
+                <Description>Before hull treatment and recoating.</Description>
+                <Tags>
+                    <TagId>I_D_TA_0004</TagId>
+                    <TagId>I_D_TA_0001</TagId>
                 </Tags>
             </Document>
         </Documents>
