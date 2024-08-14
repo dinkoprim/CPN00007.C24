@@ -5526,8 +5526,8 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 <Sons>
                     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Module" id="I_R_MO_0002" refId="R_MO_007" manual="false">
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_104" value="1.0"/>
-                            <TotalRating refRatingId="R_RA_105" value="1"/>
+                            <TotalRating refRatingId="R_RA_104"/>
+                            <TotalRating refRatingId="R_RA_105"/>
                             <TotalRating refRatingId="R_RA_106"/>
                         </TotalRatings>
                         <ReportBlocks>
@@ -5546,9 +5546,74 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
     <Rating refRatingId="R_RA_103" value="1"/>
 </Ratings>
                             </Group>
+                            <Group id="I_R_GR_0081" refId="R_GR_075" name="Side shell" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103" value="1"/>
+</Ratings>
+                            </Group>
                             <Group id="I_R_GR_0002" refId="R_GR_079" manual="false">
 <Ratings>
     <Rating refRatingId="R_RA_103" value="1"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0082" refId="R_GR_075" name="Transverse section 76" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103" value="1"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0080" refId="R_GR_075" name="Transverse section 55" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103" value="1"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0083" refId="R_GR_075" name="Transverse section 67.11" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103" value="1"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0084" refId="R_GR_075" name="Longitudinal bulkheads" manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103" value="1"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0085" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0086" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0087" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0088" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0089" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0090" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0091" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
+</Ratings>
+                            </Group>
+                            <Group id="I_R_GR_0092" refId="R_GR_075" name="..." manual="true">
+<Ratings>
+    <Rating refRatingId="R_RA_103"/>
 </Ratings>
                             </Group>
                         </Groups>
@@ -5556,7 +5621,7 @@ Boilers to be opened for inspection. Boiler and air bottle safety valves to be t
                 </Sons>
                 <Ratings>
                     <Rating refRatingId="R_RA_092" value="1"/>
-                    <Rating refRatingId="R_RA_093" value="1"/>
+                    <Rating refRatingId="R_RA_093"/>
                     <Rating refRatingId="R_RA_094" value="1"/>
                 </Ratings>
                 <TotalRatings>
@@ -6267,6 +6332,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1355</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0029" refId="R_IT_038" manual="false">
 <Photos>
@@ -6462,6 +6530,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1356</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0039" refId="R_IT_038" manual="false">
 <Photos>
@@ -6642,6 +6713,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1357</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0049" refId="R_IT_038" manual="false">
 <Photos>
@@ -6822,6 +6896,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1358</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0059" refId="R_IT_038" manual="false">
 <Photos>
@@ -7002,6 +7079,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1359</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0069" refId="R_IT_038" manual="false">
 <Photos>
@@ -7182,6 +7262,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1360</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0079" refId="R_IT_038" manual="false">
 <Photos>
@@ -7362,6 +7445,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1362</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0089" refId="R_IT_038" manual="false">
 <Photos>
@@ -7542,6 +7628,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1363</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0099" refId="R_IT_038" manual="false">
 <Photos>
@@ -7722,6 +7811,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1364</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0109" refId="R_IT_038" manual="false">
 <Photos>
@@ -7902,6 +7994,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1365</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0119" refId="R_IT_038" manual="false">
 <Photos>
@@ -8082,6 +8177,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1366</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0129" refId="R_IT_038" manual="false">
 <Photos>
@@ -8262,6 +8360,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1367</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0139" refId="R_IT_038" manual="false">
 <Photos>
@@ -8442,6 +8543,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1368</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0149" refId="R_IT_038" manual="false">
 <Photos>
@@ -8623,6 +8727,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1369</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0159" refId="R_IT_038" manual="false">
 <Photos>
@@ -8816,6 +8923,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1370</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0169" refId="R_IT_704" manual="false">
 <Photos>
@@ -8996,6 +9106,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1371</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0179" refId="R_IT_704" manual="false">
 <Photos>
@@ -9178,6 +9291,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1372</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0189" refId="R_IT_704" manual="false">
 <Photos>
@@ -9359,6 +9475,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1373</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0199" refId="R_IT_704" manual="false">
 <Photos>
@@ -9539,6 +9658,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1374</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0209" refId="R_IT_704" manual="false">
 <Photos>
@@ -9719,6 +9841,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1375</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0219" refId="R_IT_704" manual="false">
 <Photos>
@@ -9899,6 +10024,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1376</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0229" refId="R_IT_704" manual="false">
 <Photos>
@@ -10079,6 +10207,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1377</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0239" refId="R_IT_704" manual="false">
 <Photos>
@@ -10259,6 +10390,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1378</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0249" refId="R_IT_704" manual="false">
 <Photos>
@@ -10440,6 +10574,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1379</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0259" refId="R_IT_704" manual="false">
 <Photos>
@@ -10618,6 +10755,9 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1380</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0269" refId="R_IT_704" manual="false">
 <Photos>
@@ -10758,7 +10898,7 @@ No area with coating condition less than good has been found.&#xD;
     <Son refId="R_BL_006">
         <Comment>On Completion of the CAP survey :&#xD;
 The rating good condition has been assigned to the Void spaces, stools and cofferdams.&#xD;
-No area of substantial corrosion has been found.&#xD;
+The measured wastage assessment has been found to be not applicable in way of Cofferdam ER DB fwd.&#xD;
 No area with coating condition less than good has been found.&#xD;
 </Comment>
     </Son>
@@ -10786,11 +10926,11 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_003"/>
                             <Message refId="R_MS_004"/>
                             <Message refId="R_MS_005"/>
-                            <Message refId="R_MS_006">
-<Message>No area of substantial corrosion has been found.</Message>
-                            </Message>
+                            <Message refId="R_MS_006"/>
                             <Message refId="R_MS_040"/>
-                            <Message refId="R_MS_041"/>
+                            <Message refId="R_MS_041">
+<Message>The measured wastage assessment has been found to be not applicable in way of Cofferdam ER DB fwd.</Message>
+                            </Message>
                             <Message refId="R_MS_007">
 <Message>No area with coating condition less than good has been found.</Message>
                             </Message>
@@ -10799,6 +10939,7 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves/>
                         <Items>
                             <Item id="I_R_IT_0279" refId="R_IT_058" name="Chain locker" elementId="I_S_TA_30229669" manual="false">
 <Photos/>
@@ -10821,7 +10962,7 @@ No area with coating condition less than good has been found.&#xD;
 <Ratings>
     <Rating refRatingId="R_RA_001" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
-    <Rating refRatingId="R_RA_003" value="1"/>
+    <Rating refRatingId="R_RA_003" value="NA"/>
     <Rating refRatingId="R_RA_004" value="1.0"/>
     <Rating refRatingId="R_RA_005" value="NF"/>
 </Ratings>
@@ -10918,6 +11059,11 @@ No area with coating condition less than fair has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1384</Curve>
+                            <Curve>I_D_DO_1388</Curve>
+                            <Curve>I_D_DO_1390</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0284" refId="R_IT_059" name="Evac Tk" elementId="I_S_TA_30229684" manual="false">
 <Photos>
@@ -11102,6 +11248,10 @@ No area with coating condition less than good has been found.&#xD;
                             <Message refId="R_MS_043"/>
                             <Message refId="R_MS_013"/>
                         </Messages>
+                        <Curves>
+                            <Curve>I_D_DO_1391</Curve>
+                            <Curve>I_D_DO_1392</Curve>
+                        </Curves>
                         <Items>
                             <Item id="I_R_IT_0295" refId="R_IT_060" name="Fresh water Tk PS" elementId="I_S_TA_30229663" manual="false">
 <Photos>
@@ -19408,7 +19558,9 @@ The rating good condition has been assigned to the Environmental Management.</Co
                     <TagSonId>I_D_TA_0035</TagSonId>
                 </TagSons>
             </Tag>
-            <Tag id="I_D_TA_0002" name="Thickness measurements"/>
+            <Tag id="I_D_TA_0002" name="Thickness measurements">
+                <TagSons/>
+            </Tag>
             <Tag id="I_D_TA_0003" name="Main Deck"/>
             <Tag id="I_D_TA_0004" name="Side Shell"/>
             <Tag id="I_D_TA_0005" name="Bottom"/>
@@ -26752,6 +26904,36 @@ Vacuum test was carried out in the presence of the Class Surveyor for the Renewa
             <Document id="I_D_DO_1350" location="img\Bottom.png" use="OTHER" contentType="image/png" name="Bottom.png" attachmentDate="2024-06-17+02:00"/>
             <Document id="I_D_DO_1351" location="img\Global-Scurve.png" use="OTHER" contentType="image/png" name="Global-Scurve.png" attachmentDate="2024-06-17+02:00"/>
             <Document id="I_D_DO_1354" location="img\FW-APT---C.png" use="OTHER" contentType="image/png" name="FW-APT---C.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1355" location="img\Ballast-tank-WBT-1---C.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-1---C.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1356" location="img\Ballast-tank-WBT-2---P.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-2---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1357" location="img\Ballast-tank-WBT-2---S.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-2---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1358" location="img\Ballast-tank-WBT-3---P.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-3---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1359" location="img\Ballast-tank-WBT-3---S.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-3---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1360" location="img\Ballast-tank-WBT-4---P.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-4---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1362" location="img\Ballast-tank-WBT-4---S.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-4---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1363" location="img\Ballast-tank-WBT-5---P_0.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-5---P_0.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1364" location="img\Ballast-tank-WBT-5---S.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-5---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1365" location="img\Ballast-tank-WBT-6---P.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-6---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1366" location="img\Ballast-tank-WBT-6---S.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-6---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1367" location="img\Ballast-tank-WBT-7---P.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-7---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1368" location="img\Ballast-tank-WBT-7---S.png" use="OTHER" contentType="image/png" name="Ballast-tank-WBT-7---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1369" location="img\Ballast-tank-FPT---C.png" use="OTHER" contentType="image/png" name="Ballast-tank-FPT---C.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1370" location="img\Cargo-tank-COT-1---C.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-1---C.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1371" location="img\Cargo-tank-COT-2---P.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-2---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1372" location="img\Cargo-tank-COT-2---S.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-2---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1373" location="img\Cargo-tank-COT-3---P.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-3---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1374" location="img\Cargo-tank-COT-3---S.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-3---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1375" location="img\Cargo-tank-COT-4---P.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-4---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1376" location="img\Cargo-tank-COT-4---S.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-4---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1377" location="img\Cargo-tank-COT-5---P.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-5---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1378" location="img\Cargo-tank-COT-5---S.png" use="OTHER" contentType="image/png" name="Cargo-tank-COT-5---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1379" location="img\Cargo-tank-DRAIN-TANK---P.png" use="OTHER" contentType="image/png" name="Cargo-tank-DRAIN-TANK---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1380" location="img\Cargo-tank-DRAIN-TANK---S.png" use="OTHER" contentType="image/png" name="Cargo-tank-DRAIN-TANK---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1384" location="img\Other-EVAC-Tank-SB---S.png" use="OTHER" contentType="image/png" name="Other-EVAC-Tank-SB---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1388" location="img\FO-DO-LO-HFO-Centre-Tank-2---C.png" use="OTHER" contentType="image/png" name="FO-DO-LO-HFO-Centre-Tank-2---C.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1390" location="img\FO-DO-LO-HFO-Settling-Tank-SB---S.png" use="OTHER" contentType="image/png" name="FO-DO-LO-HFO-Settling-Tank-SB---S.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1391" location="img\FW-FW-Tank---P.png" use="OTHER" contentType="image/png" name="FW-FW-Tank---P.png" attachmentDate="2024-06-17+02:00"/>
+            <Document id="I_D_DO_1392" location="img\FW-FW-Tank---S.png" use="OTHER" contentType="image/png" name="FW-FW-Tank---S.png" attachmentDate="2024-06-17+02:00"/>
         </Documents>
     </DocLibrary>
 </ReportCAP>
