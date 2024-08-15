@@ -13480,7 +13480,6 @@ The rating good condition has been assigned to the Environmental Management.</Co
                             <Item id="I_R_IT_0440" refId="R_IT_206" manual="false">
 <Photos>
     <Photo>I_D_DO_0350</Photo>
-    <Photo>I_D_DO_0349</Photo>
     <Photo>I_D_DO_0352</Photo>
 </Photos>
 <Ratings>
@@ -14624,7 +14623,7 @@ Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 
                             <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041" value="1.3"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.2"/>
                             <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
@@ -14666,10 +14665,10 @@ The rating good condition has been assigned to the Engine Room, Auxiliary Machin
     <Photo>I_D_DO_0758</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_039" value="1"/>
-    <Rating refRatingId="R_RA_040" value="1.3"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0524" refId="R_IT_304" manual="false">
@@ -14718,10 +14717,10 @@ The rating good condition has been assigned to the Engine Room, Auxiliary Machin
     <Photo>I_D_DO_0843</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_039" value="1"/>
-    <Rating refRatingId="R_RA_040" value="1.3"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0528" refId="R_IT_308" manual="false">
@@ -14730,10 +14729,10 @@ The rating good condition has been assigned to the Engine Room, Auxiliary Machin
     <Photo>I_D_DO_0846</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="2"/>
+    <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_002" value="1"/>
     <Rating refRatingId="R_RA_039" value="1"/>
-    <Rating refRatingId="R_RA_040" value="1.3"/>
+    <Rating refRatingId="R_RA_040" value="1.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0529" refId="R_IT_309" manual="false">
@@ -14841,15 +14840,15 @@ ME cylinder liner of unit 1 was replaced with the spare one, due to discoved dee
         <Comment>Main Engine 15 000 Rhr overhaul was carried out at total RHr 85047 as per maker's recommendations.&#xD;
 It included Main, big-end bearings, crankshaft and camshaft hydraulic dampers renewal.&#xD;
 Crankshaft deflection was measured before and after docking with satisfactory results.&#xD;
-Cylinder head were overhauled in the workshop of the service company. New rocker arm bearings were fitted. &#xD;
+Cylinder heads were overhauled in the workshop of the service company. New rocker arm bearings were fitted. &#xD;
 Main Engine air cooler was ultrasonic cleaned and pressure tested.&#xD;
 HT, LT and LO attached pumps were overhauled in the workshop of the service company.&#xD;
 Fuel injection pumps, fuel injectors and fuel high pressure pipes were overhauled with new plunger and barrels and new injectors.&#xD;
 HP-fuel pipes were lapped and o-rings renewed.&#xD;
-Camshaft cams were visually inspected and clearances measured.&#xD;
+Camshaft cams were visually inspected and clearances measured. No remarks were issued.&#xD;
 Backlash was measured in the timing gears of Main Engine.&#xD;
 ME main starting valve was overhauled.&#xD;
-ME cylinder liner #1 was renewed, piston #1 was overhaled and reinstalled with new piston rings.&#xD;
+ME cylinder liner #1 was renewed, piston #1 was overhauled and reinstalled with new piston rings.&#xD;
 Main engine was tested in operation/under load of the Bow Thruster and all alarms were tested and witnessed.&#xD;
 </Comment>
     </Son>
@@ -15274,7 +15273,7 @@ Main engine was tested in operation/under load of the Bow Thruster and all alarm
                             <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041" value="1.6"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.5"/>
                             <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
@@ -15334,8 +15333,8 @@ After the overhaul the stern tube seals fore and aft were pressure tested for 24
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
-    <Rating refRatingId="R_RA_014" value="2"/>
-    <Rating refRatingId="R_RA_040" value="2.0"/>
+    <Rating refRatingId="R_RA_014" value="1"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0574" refId="R_IT_365" manual="false">
@@ -15459,7 +15458,9 @@ AE 2 crankshaft seals (front and rear) were renewed.&#xD;
 LO pump was renewed.&#xD;
 All filters, gaskets and fluids were replaced.&#xD;
 &#xD;
-Aux engine 1 was overhauled.</Comment>
+Aux engine 1 was overhauled. The scope of the overhaul was reported by the Technical Superintendent same as aux engine 2.&#xD;
+&#xD;
+Aux engine 1 and 3 shaft seals were renewed by the Shipyard hands.</Comment>
     </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
@@ -15897,7 +15898,7 @@ The rating good condition has been assigned to the Fresh and Sea Water Pumps.</C
                             </Item>
                             <Item id="I_R_IT_0604" refId="R_IT_398" name="Main Engine Jacket Preheating Water Pumps" manual="false">
 <Photos>
-    <Photo>I_D_DO_1006</Photo>
+    <Photo>I_D_DO_1402</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
@@ -15997,8 +15998,8 @@ The rating good condition has been assigned to the Fresh and Sea Water Pumps.</C
                             </Item>
                             <Item id="I_R_IT_0613" refId="R_IT_407" name="Main Fire Pump" manual="false">
 <Photos>
-    <Photo>I_D_DO_1011</Photo>
     <Photo>I_D_DO_1012</Photo>
+    <Photo>I_D_DO_1403</Photo>
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
@@ -17110,8 +17111,8 @@ The rating good condition has been assigned to the Boilers, Economisers and Ther
         </Photos>
         <Ratings>
             <Rating refRatingId="R_RA_013" value="2"/>
-            <Rating refRatingId="R_RA_014" value="1"/>
-            <Rating refRatingId="R_RA_040" value="1.5"/>
+            <Rating refRatingId="R_RA_014" value="2"/>
+            <Rating refRatingId="R_RA_040" value="2.0"/>
         </Ratings>
     </Son>
     <Son xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Item" id="I_R_IT_0715" refId="R_IT_463" manual="false">
@@ -17624,7 +17625,7 @@ The rating good condition has been assigned to the Miscellaneous Equipment.</Com
                             <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041" value="1.3"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.4"/>
                             <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
@@ -17694,8 +17695,8 @@ The rating good condition has been assigned to the Communication, Order Transmis
 </Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="2"/>
-    <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_040" value="1.5"/>
+    <Rating refRatingId="R_RA_014" value="2"/>
+    <Rating refRatingId="R_RA_040" value="2.0"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0771" refId="R_IT_520" manual="false">
@@ -17944,7 +17945,7 @@ The Main Switchboard was checked with Thermal Imaging and no abnormally hot spot
                             <Rating refRatingId="R_RA_053" value="2"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041" value="1.5"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.6"/>
                             <TotalRating refRatingId="R_RA_042" value="2"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
@@ -18227,8 +18228,8 @@ HT FW cooling pump el motor was overhauled by the Crew.</Comment>
     <Rating refRatingId="R_RA_020" value="FALSE"/>
     <Rating refRatingId="R_RA_021" value="FALSE"/>
     <Rating refRatingId="R_RA_022" value="NA"/>
-    <Rating refRatingId="R_RA_024" value="1"/>
-    <Rating refRatingId="R_RA_040" value="1.7"/>
+    <Rating refRatingId="R_RA_024" value="3"/>
+    <Rating refRatingId="R_RA_040" value="2.3"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0799" refId="R_IT_548" name="Main Engine Preheating Jacket Water Pump Motor and Starter Panel" manual="false">
@@ -18988,7 +18989,7 @@ The rating good condition has been assigned to the Automated installation.</Comm
                             <Rating refRatingId="R_RA_053" value="1"/>
                         </Ratings>
                         <TotalRatings>
-                            <TotalRating refRatingId="R_RA_041" value="1.0"/>
+                            <TotalRating refRatingId="R_RA_041" value="1.1"/>
                             <TotalRating refRatingId="R_RA_042" value="1"/>
                             <TotalRating refRatingId="R_RA_043"/>
                         </TotalRatings>
@@ -19002,6 +19003,7 @@ The rating good condition has been assigned to the Fire/Smoke/Gas Detection and 
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>Fire extinguishing and safety systems and equipment were five yearly serviced and inspected by a recognised company. Certificates and reports were provided for review.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son refId="R_BL_013"/>
@@ -19040,9 +19042,9 @@ The rating good condition has been assigned to the Fire/Smoke/Gas Detection and 
     <Photo>I_D_DO_0809</Photo>
 </Photos>
 <Ratings>
-    <Rating refRatingId="R_RA_013" value="1"/>
+    <Rating refRatingId="R_RA_013" value="2"/>
     <Rating refRatingId="R_RA_014" value="1"/>
-    <Rating refRatingId="R_RA_040" value="1.0"/>
+    <Rating refRatingId="R_RA_040" value="1.5"/>
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0854" refId="R_IT_603" manual="false">
@@ -19173,6 +19175,7 @@ The rating good condition has been assigned to the Environmental Management.</Co
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_019">
+<Comment>OWS 15-ppm device was replaced with a calibrated one during the dry-docking.</Comment>
 <Sons>
     <Son refId="R_BL_012"/>
     <Son refId="R_BL_013"/>
@@ -19279,6 +19282,9 @@ The rating good condition has been assigned to the Environmental Management.</Co
 </Ratings>
                             </Item>
                             <Item id="I_R_IT_0874" refId="R_IT_623" manual="false">
+<Photos>
+    <Photo>I_D_DO_0349</Photo>
+</Photos>
 <Ratings>
     <Rating refRatingId="R_RA_013" value="1"/>
     <Rating refRatingId="R_RA_014" value="1"/>
@@ -21579,7 +21585,7 @@ HRU expiry - March 2026</Description>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_0349" location="img\20240603_134248 semi-portable fire extinguisher in ER, ABC dry powder, portable winden spill pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Oil/Chemical Spill containment and pumping equipment" attachmentDate="2024-07-28+03:00">
+            <Document id="I_D_DO_0349" location="img\20240603_134248 semi-portable fire extinguisher in ER, ABC dry powder, portable winden spill pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="E/R Oil Spill containment and pumping equipment" attachmentDate="2024-07-28+03:00">
                 <Tags>
                     <TagId>I_D_TA_0048</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -22351,7 +22357,7 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0479" location="img\Screenshot 2024-07-31 113627_800.png" use="PHOTO" contentType="image/png" name="Cargo Systems Machinery" attachmentDate="2024-07-31+03:00">
-                <Description>Cargo pumps inspections records.</Description>
+                <Description>Cargo pump inspection records.</Description>
                 <Tags>
                     <TagId>I_D_TA_0053</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -22370,20 +22376,21 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0482" location="img\Screenshot 2024-07-31 113925_800.png" use="PHOTO" contentType="image/png" name="Cargo Systems Machinery" attachmentDate="2024-07-31+03:00">
-                <Description>Cargo system hand operted valves inspections records.</Description>
+                <Description>Cargo system hand operated valves inspections records.</Description>
                 <Tags>
                     <TagId>I_D_TA_0053</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0483" location="img\Screenshot 2024-07-31 114613_800.png" use="PHOTO" contentType="image/png" name="Cargo Systems Piping and Valves" attachmentDate="2024-07-31+03:00">
+                <Description>Annual pressure test of Cargo piping system - last carried out 30.May.2024.</Description>
                 <Tags>
                     <TagId>I_D_TA_0053</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0484" location="img\Screenshot 2024-07-31 114948_800.png" use="PHOTO" contentType="image/png" name="Fire/Smoke/Gas Detection and Fire Fighting Systems" attachmentDate="2024-07-31+03:00">
-                <Description>Fire Fighting Systems inspections records.</Description>
+                <Description>Fire Fighting System inspection records.</Description>
                 <Tags>
                     <TagId>I_D_TA_0053</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -24105,24 +24112,28 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0782" location="img\cylinder liner_800.png" use="PHOTO" contentType="image/png" name="Main Propulsion Installations" attachmentDate="2024-08-02+03:00">
+                <Description>ME cylinder liner 2 last overhaul - June 2019.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0783" location="img\turbo charger_800.png" use="PHOTO" contentType="image/png" name="Main Propulsion Installations" attachmentDate="2024-08-02+03:00">
+                <Description>ME turbocharger last overhaul - Feb.2022.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0784" location="img\cpp system_800.png" use="PHOTO" contentType="image/png" name="Shafting, Stern Tube and Propeller Systems" attachmentDate="2024-08-02+03:00">
+                <Description>CPP blades last overhauled Feb.2022.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0785" location="img\cpp test_800.png" use="PHOTO" contentType="image/png" name="Shafting, Stern Tube and Propeller Systems" attachmentDate="2024-08-02+03:00">
+                <Description>Last test of CPP local control - May.2024.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -24147,6 +24158,7 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0789" location="img\lube oil pump_800.png" use="PHOTO" contentType="image/png" name="Oil Pumps and Purifiers" attachmentDate="2024-08-02+03:00">
+                <Description>Yearly external inspection of ME LO stand-by pump - Nov.2023.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -24190,19 +24202,22 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0796" location="img\20240603_135918 tank top under stern tube forward seal, bilge alarms_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bilges’ Alarm systems including auto start of bilge pump." attachmentDate="2024-08-02+03:00">
-                <Description>Stern tube forward seal, bilge alarms.</Description>
+                <Description>Stern tube forward seal, bilge alarms.&#xD;
+Picture was taken before the cleaning of ER at the end of the docking period.</Description>
                 <Tags>
                     <TagId>I_D_TA_0048</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0797" location="img\20240603_132547 evac system pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage unit including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Description>EVAC system pump.</Description>
                 <Tags>
                     <TagId>I_D_TA_0048</TagId>
                     <TagId>I_D_TA_0036</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0798" location="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800.jpg" use="PHOTO" contentType="image/jpeg" name="Sewage unit including instrumentation automation and alarms" attachmentDate="2024-08-02+03:00">
+                <Description>EVAC system control panel.</Description>
                 <Tags>
                     <TagId>I_D_TA_0048</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -24253,7 +24268,7 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0807" location="img\20240603_094534 CO2 hoses every 10 years, hydrauxtatic test question mark_800.jpg" use="PHOTO" contentType="image/jpeg" name="Bulk CO2 Flooding for Engine Room" attachmentDate="2024-08-02+03:00">
-                <Description>ER bulk CO₂ flood system cylinders 10-year hydrostatically tested by approved company. Certificate issued.</Description>
+                <Description>ER bulk CO₂ flood system cylinders were hydrostatically tested by approved company. </Description>
                 <Tags>
                     <TagId>I_D_TA_0046</TagId>
                     <TagId>I_D_TA_0036</TagId>
@@ -24515,7 +24530,7 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0856" location="img\20240603_133627 ME top view , general, cable run_800.jpg" use="PHOTO" contentType="image/jpeg" name="General condition" attachmentDate="2024-08-03+02:00">
-                <Description>Main Engine genal view before overhauling.</Description>
+                <Description>Main Engine general view before overhauling.</Description>
                 <Tags>
                     <TagId>I_D_TA_0056</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -25234,12 +25249,6 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
-            <Document id="I_D_DO_1006" location="img\FLIR1971 ME jacket preheating pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Jacket Preheating Water Pumps" attachmentDate="2024-08-05+02:00">
-                <Tags>
-                    <TagId>I_D_TA_0062</TagId>
-                    <TagId>I_D_TA_0054</TagId>
-                </Tags>
-            </Document>
             <Document id="I_D_DO_1007" location="img\20240603_140101 AC aircondition sea water cooling pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Air Conditioning Circulating Sea Water Pump" attachmentDate="2024-08-05+02:00">
                 <Tags>
                     <TagId>I_D_TA_0062</TagId>
@@ -25253,12 +25262,6 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1009" location="img\20240603_133306 FWG distillate pump, ejector_800.jpg" use="PHOTO" contentType="image/jpeg" name="Condensate Pumps" attachmentDate="2024-08-05+02:00">
-                <Tags>
-                    <TagId>I_D_TA_0062</TagId>
-                    <TagId>I_D_TA_0054</TagId>
-                </Tags>
-            </Document>
-            <Document id="I_D_DO_1011" location="img\20240619_140204 testing fire pump in ER_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Fire Pump" attachmentDate="2024-08-05+02:00">
                 <Tags>
                     <TagId>I_D_TA_0062</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -26172,7 +26175,7 @@ Both crankshaft and camshaft hydraulic dampers were renewed.</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_1206" location="img\20240603_115458 stickers after the service on the ACBs af generators and bow thruster_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Switchboard" attachmentDate="2024-08-10+02:00">
-                <Description>The Air Circuit Breakers od the Shaft generator and generators 1, 2, 3 were tested and serviced by an authorized company.</Description>
+                <Description>The Air Circuit Breakers of the Shaft generator and generators 1, 2, 3 were tested and serviced by an authorized company.</Description>
                 <Tags>
                     <TagId>I_D_TA_0070</TagId>
                     <TagId>I_D_TA_0054</TagId>
@@ -27013,6 +27016,18 @@ Vacuum test was carried out in the presence of the Class Surveyor for the Renewa
                 <Tags>
                     <TagId>I_D_TA_0045</TagId>
                     <TagId>I_D_TA_0036</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1402" location="img\FLIR1971 ME jacket preheating pump_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Engine Jacket Preheating Water Pumps" attachmentDate="2024-08-15+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
+                </Tags>
+            </Document>
+            <Document id="I_D_DO_1403" location="img\20240619_140204 testing fire pump in ER_800.jpg" use="PHOTO" contentType="image/jpeg" name="Main Fire Pump" attachmentDate="2024-08-15+02:00">
+                <Tags>
+                    <TagId>I_D_TA_0062</TagId>
+                    <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
         </Documents>
