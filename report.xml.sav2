@@ -5830,6 +5830,8 @@ No area with coating condition less than good has been found.&#xD;
 </Sons>
                             </ReportBlock>
                             <ReportBlock refId="R_BL_007">
+<Comment>Reinstalled access hole of the Ship forward Side shell portside in Engine Room for the BWTS components.&#xD;
+Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.</Comment>
 <Sons>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_009">
@@ -11364,7 +11366,15 @@ No area with coating condition less than good has been found.&#xD;
 No area of substantial corrosion has been found on board the vessel.&#xD;
 No area with coating condition less than fair has been found on board the vessel.</Message>
                     </Summary>
-                    <Summary refSummaryId="R_SU_007"/>
+                    <Summary refSummaryId="R_SU_007">
+                        <Comment>Reinstalled access hole of the Ship forward Side shell portside in Engine Room for the BWTS components. Vacuum test was carried out in the presence of the Class Surveyor for the Renewal.&#xD;
+The access holes on the ship bottom in way of Ballast tanks 1C, 2PS, 6PS and 6SB were reinstalled and vacuum tested in the presence of the Class Surveyor for the Renewal.&#xD;
+Spot coating repairs were carried out by the Crew on the bottom of the WBTk 1C tank and internal structure, including after rebuilding of spot corrosion by the Shipyard.&#xD;
+Spot coating repairs were carried out by the Crew on the side shell and internal structure of the Forepeak tank.&#xD;
+Spot coating repairs were carried out by the crew as per paint maker instruction on the inner bottom of all Cargo Tanks: CT 1C, 2P, 2S, 3P, 3S, 4P, 4S, 5P, 5S, Drain Tk P, Drain Tk S. Cargo tank dome hatches and CT Butterworth hatches were corrosion maintained and partly seals renewed.&#xD;
+Fresh Water tanks were internally cleaned by the Crew.&#xD;
+</Comment>
+                    </Summary>
                     <Summary refSummaryId="R_SU_008"/>
                     <Summary refSummaryId="R_SU_018">
                         <Comment>Following review of the vessel’s structural history, structural  and fatigue analysis results and the outcome of CAP close up surveys, a list of items that should be monitored by the vessel’s crew and class has been assembled. This list can be found within the Monitoring plan of this CAP report
@@ -11419,7 +11429,7 @@ The rating good condition has been assigned to the Anchoring and Mooring Install
     <Son selected="true" refId="R_BL_013">
         <Comment>Both port and starboard windlass winch clutch pad were repaired.&#xD;
 Chain locker two inserts were made at frame numbers No. 136 - 138 with dimensions 1800 x 1200 mm. Deep Peneration NDT was carried out with successful result.&#xD;
-A certificate was issued by the shipyard.</Comment>
+</Comment>
     </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
@@ -14589,9 +14599,19 @@ All cargo and ballast hydraulic remote valves were successfully tested in the pr
                         <Message>On completion of the CAP survey, the Hull and Cargo Machinery, Systems and Fittings has been found to be in good condition.</Message>
                     </Summary>
                     <Summary refSummaryId="R_SU_009">
-                        <Comment>Both port and starboard windlass winch clutch pad dogs were repaired.&#xD;
-Anchor chain stoppers were serviced and tested by ships crew.&#xD;
-Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 x 1200 mm. Welds quality was tested by NDT magnetic particle inspection.</Comment>
+                        <Comment>Both port and starboard windlass winch clutch pad were repaired.&#xD;
+Chain locker two inserts were made at frame numbers No. 136 - 138 with dimensions 1800 x 1200 mm. Deep Peneration NDT was carried out with successful result.&#xD;
+Rudder clearances and tail shaft wear down were measured and found within the limits.&#xD;
+Hose crane, FFB davit, rescue boat davit and liferaft launching davits wire were renewed and load tested successfully after that by a recognized company.&#xD;
+Hose crane hydraulic luffing cylinder overhauled. Removed for shipyard repairs in the workshop. Reinstalled post-repair. Functionality and no leaks were confirmed.&#xD;
+New Ballast Water Treatment System was installed, Maker - Alfa Laval. The system was commissioned and approved by the BV Class.&#xD;
+Full megger test was carried out by an external company of all equipment onboard.&#xD;
+Engine room air supply Vent Fans were overhauled. Dismantled and transported to the Shipyard workshop for repairs. Engine room vent fan compartment coating was maintained by the crew. Reinstalled after refurbishment. Functionality of the ER vent fans was confirmed.&#xD;
+Fire extinguishing and safety systems and equipment were five yearly serviced and inspected by a recognized company. Certificates and reports were issued and provided for review.&#xD;
+Lifesaving equipment was 5-yearly inspected and serviced by a recognized company.&#xD;
+Pre-Docking inspection of the FRAMO system was carried out by the maker. FRAMO pumps discharge rates were confirmed to be as designed specs. &#xD;
+Cargo tanks monitoring and ballast water tanks monitoring system was inspected by the maker. The report was provided. Some faulty sensors were identified and a requisition was created by the vessel for subsequent replacement, however the system was found overall operational.&#xD;
+PV valves were overhauled and calibrated by the Shipyard.</Comment>
                     </Summary>
                     <Summary refSummaryId="R_SU_010"/>
                     <Summary refSummaryId="R_SU_011"/>
@@ -24147,12 +24167,14 @@ HRU expiry - March 2026</Description>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0787" location="img\firea alrm_800.png" use="PHOTO" contentType="image/png" name="Fire/Smoke/Gas Detection and Fire Fighting Systems" attachmentDate="2024-08-02+03:00">
+                <Description>Smoke detectors monthly test in the PMS, before docking.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
                 </Tags>
             </Document>
             <Document id="I_D_DO_0788" location="img\economiser_800.png" use="PHOTO" contentType="image/png" name="Boilers, Economisers and Thermal Oil Heaters" attachmentDate="2024-08-02+03:00">
+                <Description>Economiser flow switch test - three-monthly May.2024.</Description>
                 <Tags>
                     <TagId>I_D_TA_0074</TagId>
                     <TagId>I_D_TA_0054</TagId>
