@@ -19468,7 +19468,23 @@ The rating good condition has been assigned to the Environmental Management.</Co
 					</Comment>
                         <Message>On completion of the CAP survey, the Propulsion and Auxiliary Machinery, Fittings &amp; Systems has been found to be in good condition.</Message>
                     </Summary>
-                    <Summary refSummaryId="R_SU_009"/>
+                    <Summary refSummaryId="R_SU_009">
+                        <Comment>Main Engine crankshaft and camshaft new hydraulic dampers were installed. New ME main bearings, new big-end and thrust bearings were installed. ME cylinder liner of unit 1 was replaced with the spare one, due to discovered deep scratches on its surface (this one was the only renewed cyl liner).&#xD;
+Main Engine 15 000 Rhr overhaul was carried out at total RHr 85047 as per maker's recommendations. It included Main, big-end bearings, crankshaft and camshaft hydraulic dampers renewal. Crankshaft deflection was measured before and after docking with satisfactory results. Cylinder heads were overhauled in the workshop of the service company. New rocker arm bearings were fitted. Main Engine air cooler was ultrasonic cleaned and pressure tested. HT, LT and LO attached pumps were overhauled in the workshop of the service company. Fuel injection pumps, fuel injectors and fuel high pressure pipes were overhauled with new plunger and barrels and new injectors. HP-fuel pipes were lapped and o-rings renewed. Camshaft cams were visually inspected and clearances measured. No remarks were issued. Backlash was measured in the timing gears of Main Engine. ME main starting valve was overhauled. ME cylinder liner #1 was renewed, piston #1 was overhauled and reinstalled with new piston rings. Main engine was tested in operation/under load of the Bow Thruster and all alarms were tested and witnessed.&#xD;
+Fore and aft Stern tube seals' were replaced with bonding and liners' check was carried out during the docking by a maker approved company. Pitting was found in the stern tube aft seal chrome liner running track of seal #1. A spacer was installed and has created a new running surface for this seal. Surrounding of the aft chrome liner area was free of pitting. A recommendation was issued next dry-docking the aft chrome liner to be machined or renewed. The fore stern tube seal liner is ceramic coated, found in good condition and reused.  Axial/Radial alignment of both liners was performed. After the overhaul the stern tube seals fore and aft were pressure tested for 24 hr and no leaks were observed.&#xD;
+Aux engine 2 was overhauled. Pistons and liners were replaced. Conrods were reused. All connecting rod, main and thrust bearings were renewed. AE 2 TC was replaced with a reconditioned one. Cylinder head block was replaced with reconditioned one provided by the Owner. Injectors and Water cooling pump were replaced with reconditioned one. AE 2 crankshaft seals (front and rear) were renewed. LO pump was renewed. All filters, gaskets and fluids were replaced.&#xD;
+Aux engine 1 was overhauled. The scope of the overhaul was reported by the Technical Superintendent same as aux engine 2.&#xD;
+Aux engine 1 and 3 shaft seals were renewed by the Shipyard hands.&#xD;
+The HT Cooling FW pump and el motor were overhauled during the docking by the Crew. Bearings were renewed. The pump was tested after that in operation and found in normal working condition.&#xD;
+Accommodation aircon condenser was renewed by an external service company.&#xD;
+ER vent fans were overhauled and balanced in the workshop of the Shipyard.&#xD;
+The Air Circuit Breakers (ACB) of the Shaft generator and generators 1, 2, 3 were tested and serviced by an authorized company.&#xD;
+The Main Switchboard was checked with Thermal Imaging and no abnormally hot spots were found.&#xD;
+Generator bearings on DG1 and DG3 were replaced, as well as the shaft seals of the engines, by the shipyard.&#xD;
+ER vent fans el motors ps and sb were overhauled by the Shipyard. HT FW cooling pump el motor was overhauled by the Crew.&#xD;
+OWS 15-ppm device was replaced with a calibrated one during the dry-docking.&#xD;
+</Comment>
+                    </Summary>
                     <Summary refSummaryId="R_SU_010"/>
                     <Summary refSummaryId="R_SU_011"/>
                 </Summaries>

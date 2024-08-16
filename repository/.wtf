@@ -13,5 +13,11 @@
         <RevisionDescriptor commitTime="1721649685396" author="sprodanov" message="Intermediate report" id="14d6998f57a8b90533decc962290a316">
             <Tag name="14d6998f57a8b90533decc962290a316RELEASE" type="RELEASE" id="3327e05d19a4637bb3614c8537f04c72"/>
         </RevisionDescriptor>
+        <RevisionDescriptor commitTime="1723720249084" author="sprodanov" message="Intermediate report" id="7f0927f84e2fb24d3a66b81c4fcdc80f">
+            <Tag name="7f0927f84e2fb24d3a66b81c4fcdc80fRELEASE" type="RELEASE" id="cf85bee8372d6b46ce2bdb7e0bf5d2b9"/>
+        </RevisionDescriptor>
+        <RevisionDescriptor commitTime="1723721425867" author="sprodanov" message="SUBMIT TO CAP MANAGER" id="056fd697bbf0200d3521807426d876e9">
+            <Tag name="056fd697bbf0200d3521807426d876e9RELEASE" type="RELEASE" id="96ab50cdb4bca9d7e17b5afdb413e97c"/>
+        </RevisionDescriptor>
     </RevisionsDescriptor>
 </Wtf>

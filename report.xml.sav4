@@ -11429,7 +11429,7 @@ The rating good condition has been assigned to the Anchoring and Mooring Install
     <Son selected="true" refId="R_BL_013">
         <Comment>Both port and starboard windlass winch clutch pad were repaired.&#xD;
 Chain locker two inserts were made at frame numbers No. 136 - 138 with dimensions 1800 x 1200 mm. Deep Peneration NDT was carried out with successful result.&#xD;
-A certificate was issued by the shipyard.</Comment>
+</Comment>
     </Son>
     <Son refId="R_BL_008"/>
     <Son refId="R_BL_016"/>
@@ -14599,9 +14599,19 @@ All cargo and ballast hydraulic remote valves were successfully tested in the pr
                         <Message>On completion of the CAP survey, the Hull and Cargo Machinery, Systems and Fittings has been found to be in good condition.</Message>
                     </Summary>
                     <Summary refSummaryId="R_SU_009">
-                        <Comment>Both port and starboard windlass winch clutch pad dogs were repaired.&#xD;
-Anchor chain stoppers were serviced and tested by ships crew.&#xD;
-Cahin locker insert was made at frame number No. 136 - 138 with dimensions 1800 x 1200 mm. Welds quality was tested by NDT magnetic particle inspection.</Comment>
+                        <Comment>Both port and starboard windlass winch clutch pad were repaired.&#xD;
+Chain locker two inserts were made at frame numbers No. 136 - 138 with dimensions 1800 x 1200 mm. Deep Peneration NDT was carried out with successful result.&#xD;
+Rudder clearances and tail shaft wear down were measured and found within the limits.&#xD;
+Hose crane, FFB davit, rescue boat davit and liferaft launching davits wire were renewed and load tested successfully after that by a recognized company.&#xD;
+Hose crane hydraulic luffing cylinder overhauled. Removed for shipyard repairs in the workshop. Reinstalled post-repair. Functionality and no leaks were confirmed.&#xD;
+New Ballast Water Treatment System was installed, Maker - Alfa Laval. The system was commissioned and approved by the BV Class.&#xD;
+Full megger test was carried out by an external company of all equipment onboard.&#xD;
+Engine room air supply Vent Fans were overhauled. Dismantled and transported to the Shipyard workshop for repairs. Engine room vent fan compartment coating was maintained by the crew. Reinstalled after refurbishment. Functionality of the ER vent fans was confirmed.&#xD;
+Fire extinguishing and safety systems and equipment were five yearly serviced and inspected by a recognized company. Certificates and reports were issued and provided for review.&#xD;
+Lifesaving equipment was 5-yearly inspected and serviced by a recognized company.&#xD;
+Pre-Docking inspection of the FRAMO system was carried out by the maker. FRAMO pumps discharge rates were confirmed to be as designed specs. &#xD;
+Cargo tanks monitoring and ballast water tanks monitoring system was inspected by the maker. The report was provided. Some faulty sensors were identified and a requisition was created by the vessel for subsequent replacement, however the system was found overall operational.&#xD;
+PV valves were overhauled and calibrated by the Shipyard.</Comment>
                     </Summary>
                     <Summary refSummaryId="R_SU_010"/>
                     <Summary refSummaryId="R_SU_011"/>

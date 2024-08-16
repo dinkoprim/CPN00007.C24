@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Revision commitTime="1723720249084" author="sprodanov" message="Intermediate report" id="7f0927f84e2fb24d3a66b81c4fcdc80f">
+    <Tag name="7f0927f84e2fb24d3a66b81c4fcdc80fRELEASE" type="RELEASE" id="cf85bee8372d6b46ce2bdb7e0bf5d2b9"/>
+    <Parts>
+        <Part name="docs\shipStatus.pdf" id="316b1b2fc6bc9d2a0d44d759aeeaa908"/>
+        <Part name="img\20240617_083458 gangway_800.jpg" id="581872086a4eca20df2f22fdab4ecff1"/>
+        <Part name="img\20240603_095646 main deck port side, safe walkway, entry to forecastle store, wide_800.jpg" id="0f15a82928d91d39d3129374adc9cc87"/>
+        <Part name="img\20240609_083612 anchor windlass portside_800.jpg" id="4a3098bf84049d3ed4dc3a4af45e836b"/>
+        <Part name="img\20240603_100416 windlass, portside anchor gypsy wheel, winch drum brake, clutch_800.jpg" id="837e43a05f30cd3a4999c0f3fe4c3b57"/>
+        <Part name="img\IMG_1718108978328 mooring winch fwd clutch pad removed_800_8.jpg" id="7ca3377f5fb50db347f33779df17b5fb"/>
+        <Part name="img\20240618_133828 anchor windlass clutch repaired_800.jpg" id="97ffdea0c09dd6b02d391e5ba336fe78"/>
+        <Part name="img\20240609_083619 anchor windlass starboard_800.jpg" id="854df2f3415bc30e5fba0be5bae9dea6"/>
+        <Part name="img\20240617_084429 mooring winches clutch removed_800.jpg" id="172e2e64fcdef7a79bface88f7c68e1f"/>
+        <Part name="img\20240618_133819 anchor windlass clutch repaired_800.jpg" id="e7190150e6740a4ae9f5fa3cf2c290af"/>
+        <Part name="img\20240603_132142 engine room winch brake test rig_800.jpg" id="c3f41508541c15059107cca6a157353e"/>
+        <Part name="img\20240603_100450 port side anchor chain stopper_800.jpg" id="eb3288fd69b14b4a59e6c9e20f185a76"/>
+        <Part name="img\20240603_095858 starboard anchor chain stopper hook_800.jpg" id="4e49f88e95c87d4c2d64920758bfec89"/>
+        <Part name="img\20240609_085509 anchor chain sb ranged out_800.jpg" id="b2958cbf3e82b1793281ef8de4621331"/>
+        <Part name="img\20240609_085506 anchor swivel sb_800.jpg" id="48f531dd205f52e4b20275102d96efc1"/>
+        <Part name="img\20240609_085502 anchor starboard_800.jpg" id="9222a05768b54050f148742ec7097ce2"/>
+        <Part name="img\20240609_085316 anchor chains ranged out, portside_800.jpg" id="47afe773ffd49b9ed6b13e62bc33342e"/>
+        <Part name="img\20240609_085310 anchor portside_800.jpg" id="a73690a8228a9ba230a77fcc941fbea6"/>
+        <Part name="img\20240609_085249 anchor chains ranged out, portside_800.jpg" id="435db8cd3db8785dd1b7969c072b1421"/>
+        <Part name="img\20240603_095815 forecastle mooring station, foreward winch, anchor widnlass, starboard anchor chain, anchor stopper, gypsy wheel_800.jpg" id="cb889e7fba8edc72bda60ac6de8e76e7"/>
+        <Part name="img\20240603_100656 forecastle windlass winch motor Foundation Brackets_800_0.jpg" id="a3395c7cac232deac4af1fd128765f0b"/>
+        <Part name="img\20240603_095652 main deck starboard mooring winch _800.jpg" id="2b195fe9fd55260208159cd23202156a"/>
+        <Part name="img\20240603_105232 main deck starboard winch, tested date stenciled, clutch lever some corrosion_800.jpg" id="d67ef7e391b03825f1bc5fc301a43ca9"/>
+        <Part name="img\20240617_084347 mooring windlass ps_800.jpg" id="ecc18dc6729148d5e7bada7060dd323d"/>
+        <Part name="img\20240603_110110 main deck star board, mooring winch, date of brake bhc test _800.jpg" id="7efb5f2cb34c558dee3323466f86fa39"/>
+        <Part name="img\20240603_100235 forecastle, forward mooring station, port side winch, port headline taut_800.jpg" id="8660be72f73faf6a08746dde562f980f"/>
+        <Part name="img\20240603_100108 forward mooring station, headlines taut, forward center lead_800.jpg" id="f80450c2864e08d963951658d326d6b2"/>
+        <Part name="img\20240603_091201 mooring winch in front of the accommodation, poop deck, foam monitor_800.jpg" id="759447c6cf65c32d9bff7b445c954b8a"/>
+        <Part name="img\20240603_090801 aft mooring station, poop deck, mooring winches_800.jpg" id="bb47bb284b1d0cb2c1663d865fb8f17d"/>
+        <Part name="img\20240603_090659 aft mooring station, poop deck, mooring winches and foundations, general_800.jpg" id="354e711793e0586d65e3502ec837b62e"/>
+        <Part name="img\20240603_090653 aft mooring station, poop deck, mooring winches foundations, general_800.jpg" id="fba5218fe0d628f6f92e48bb4119aa35"/>
+        <Part name="img\20240603_090731 aft mooring station, poop deck, mooring winches hydr motor, hosed, clutch_800.jpg" id="1143707fc54af1f2c126c0faef3ba531"/>
+        <Part name="img\20240603_090220 aft mooring station, poop deck_800.jpg" id="609edc26d674edb7c82bd78bd4ff5d0d"/>
+        <Part name="img\20240603_091911 morring station, poop deck, winches, access hatches_800.jpg" id="32df8f0a3341bccd60622e2271ea5414"/>
+        <Part name="img\20240603_091201 mooring winch in front of the accommodation, poop deck, foam monitor_800_0.jpg" id="759447c6cf65c32d9bff7b445c954b8a"/>
+        <Part name="img\20240603_090659 aft mooring station, poop deck, mooring winches and foundations, general_800_0.jpg" id="354e711793e0586d65e3502ec837b62e"/>
+        <Part name="img\20240618_133751 anchor windlass chain stopper_800_0.jpg" id="9d741a4cc6cc0a70af5badb5f6ca3d03"/>
+        <Part name="img\20240603_100333 forecastle, forward mooring station, starboard side fairlead rollers_800.jpg" id="a2247dde6aae207dbced2d71f82b534c"/>
+        <Part name="img\20240603_100138 forcastle forward mooring station, panama chock center lead, fairlead rollers_800.jpg" id="aa14d60a25ca6b37bcbc561d09cf764c"/>
+        <Part name="img\20240603_095740 mooring roller fairlead dismantled for maintenance_800.jpg" id="dd07df8bb7e8681cd06ab850b1ae506e"/>
+        <Part name="img\20240603_090339 aft mooring station, poop deck, fairlead rollers, FFB davit control_800.jpg" id="dee8fa232a48779dea8475c55f5d066d"/>
+        <Part name="img\20240603_100235 forecastle, forward mooring station, port side winch, port headline taut_800_0.jpg" id="8660be72f73faf6a08746dde562f980f"/>
+        <Part name="img\20240603_100233 forecastle, forward mooring station, port side panama chock, mooring bitts, vent dampers_800.jpg" id="bb9d33e676aed81ef56a6645e1b9a7f2"/>
+        <Part name="img\20240603_100139 forecastle, forward mooring station, centerlead bitt, rope store hatches, port side fairlead rollers, panama chock_800.jpg" id="764ac05b675510d9f3aa3d8bff977adf"/>
+        <Part name="img\20240603_100108 forward mooring station, headlines taut, forward center lead_800_0.jpg" id="f80450c2864e08d963951658d326d6b2"/>
+        <Part name="img\20240617_084309 chain lockers_800_0.jpg" id="f345fc9cde102c7d5752da559df233e1"/>
+        <Part name="img\20240617_084309 chain lockers_800_1.jpg" id="f345fc9cde102c7d5752da559df233e1"/>
+        <Part name="img\IMG_2242 chain lockers_800.JPG" id="ab7177b74b5a2cfc7594c635dea23760"/>
+        <Part name="img\IMG_2239 chain lockers_800.JPG" id="2cd4fea12362989a7d7eada57b4d5fd4"/>
+        <Part name="img\20240603_105616 forecastle store, hatches to chain lockers, bitter end_800_0.jpg" id="caa24c1a065dbffd973fc4b56c6607c1"/>
+        <Part name="img\IMG_1718109136225 chain locker steel cut_800.jpg" id="44963909896fd5be300d021f169029fe"/>
+        <Part name="img\IMG_1718109127457 chain locker steel cut_800.jpg" id="22812ca2b3cd9a7a9341a4806255f078"/>
+        <Part name="img\IMG_1718275844645 chain locker steel renewed_800.jpg" id="463000cc938e8ff16aad83717e6fdfed"/>
+        <Part name="img\20240609_105732 chain locker draft measurements, repair proposal_800.jpg" id="727642623429400d06829e3b55eb71ea"/>
+        <Part name="img\20240603_132157 engine room steering gear chain blocks slings_800.jpg" id="72472dfe4bb70affac499a544735db7f"/>
+        <Part name="img\20240603_132154 engine room steering gear_800.jpg" id="0f80bd5667fd117631c372dfa6dafa24"/>
+        <Part name="img\20240603_132233 engine room steering gear_800.jpg" id="48e2090743f0720f533bff71ea8ead5b"/>
+        <Part name="img\20240603_132240 engine room steering gear_800.jpg" id="9f59118eaa4796078051ba412cf63d73"/>
+        <Part name="img\20230106_092602 steering gear_800.jpg" id="8428d7411c270f537a1b95b1704030b9"/>
+        <Part name="img\20230106_092612 steering gear_800.jpg" id="7f08479a95d4234df5b6efc451d2fd48"/>
+        <Part name="img\20230106_092553 steering gear_800.jpg" id="d6a17d380e8ed137bc86b81c150f42ba"/>
+        <Part name="img\20230106_092547 steering gear_800.jpg" id="e83e300e08d98436b35f7b79248666c2"/>
+        <Part name="img\20240619_103946 engine room steering gear start and alarms_800.jpg" id="c5a5bf369886005b9453449223e2c26d"/>
+        <Part name="img\20240603_132221 engine room steering gear motor 2 panel_800.jpg" id="ca55e70dc7f12a3de53f98a5efe77edc"/>
+        <Part name="img\20240603_132219 engine room steering gear fire alarm bell telephone_800.jpg" id="2d5cdbbb815fb56d999072a04abaaa3a"/>
+        <Part name="img\20240619_104221 engine room steering gear rudder angle indicator_800.jpg" id="294f65c426b95896035f4f535c9a2c57"/>
+        <Part name="img\20240603_132224 engine room steering gear bearing lubrication_800.jpg" id="02a1d32dfdad7d11eec044f6397b2951"/>
+        <Part name="img\20240603_132211 engine room steering gear oil tank_800.jpg" id="85b5b8476669c88fd19ae7edda2d1842"/>
+        <Part name="img\d8c7ab1b-6500-44eb-b951-f5c65a443470 chain locker plate_800.JPG" id="b63ac052523c62e2025c71d5653a44ba"/>
+        <Part name="img\20240619_105228 bridge steering rudder angle indicator_800.jpg" id="872096c6ef3a53918e98516711695377"/>
+        <Part name="img\20240617_091006 rudder blade and propeller, recoated_800.jpg" id="ae1bb1d836ece2b361f777bd7fedf979"/>
+        <Part name="img\rudder stock clearences_800.jpg" id="00c973296620d7baf35f895e52ce559a"/>
+        <Part name="img\20240618_090646 rudder blade, propeller_800.jpg" id="b9a5f8472200392e6d401b51fa5bb4bb"/>
+        <Part name="img\Screenshot 2024-07-24 133450_800.png" id="4ab811eac901e3d9e5cc40af82d5844c"/>
+        <Part name="img\20240603_104144 forecastle, bosun store, hydraulic supply motor_800.jpg" id="18245ca3abcf91ab9137f1ecc2d4b53c"/>
+        <Part name="img\20240603_104125 forecastle, bosun store, hydraulics oil tank_800.jpg" id="60209db2df19f2fc531152bfdfc11a84"/>
+        <Part name="img\20240603_104123 forecastle, bosun store, hydraulic pumps and tank for forecastle machinery_800.jpg" id="dfedad083f83ccda3243fbf67810b4af"/>
+        <Part name="img\20240603_132138 engine room aft winch motor hydraulics oil tank_800.jpg" id="f5a835ad34d1455441db7959b28b642f"/>
+        <Part name="img\20240603_105555 forecastle chem store, ventilation fan running_800.jpg" id="db616891ce5a8e8c94e1a04fa14529da"/>
+        <Part name="img\20240603_104444 forecastle, bow thruster room, motor, thruster tunnel, piston position indicator_800.jpg" id="9aa3f820234175d4144508654e4b5d1d"/>
+        <Part name="img\20240609_085458 bow thruster tunnel_800.jpg" id="9ad176d236ae98e7e5bd1dedebdf3bf7"/>
+        <Part name="img\20240618_132544 ship hull bow thruster starboard, grating_800.jpg" id="075b0893cf88ede703827e66f719d10e"/>
+        <Part name="img\20240603_111047 FRAMO ballast pump, port side, top cover, hydraulic lines_800.jpg" id="f0ff48d524e20f877d835789d172b850"/>
+        <Part name="img\20240603_112254 FRAMO ballast pump, starboard, top cover, hydraulic lines (1)_800.jpg" id="462c28a0cf98e229c95b8ffb417fd9e5"/>
+        <Part name="img\IMG_2537 FRAMO Ballast water pump in WBTk 6P_800.JPG" id="f9d976988fd6f99fe3533561f79c371a"/>
+        <Part name="img\IMG_2523 FRAMO Ballast water pump in WBTk 6S_800.JPG" id="f3d1f87fbdaa9a699e4636296336a584"/>
+        <Part name="img\20240603_095120 hose crane before repair of the hydr cylinder_800.jpg" id="268ebaf2e94c53cfd3963b7831b1cabd"/>
+        <Part name="img\20240605_115055 hose crane luffing cylinder removed_800.jpg" id="09d9072bd5119a44a4a8929922b7df36"/>
+        <Part name="img\20240617_083156 hose crane hydraulic cylinder hinges, after repair of the cylinder, due to leakage_800.jpg" id="39437b818b3cd33b30dc0892c0a156d3"/>
+        <Part name="img\20240617_083152 hose crane hydraulic cylinder hinges, after repair of the cylinder, due to leakage_800.jpg" id="6843cbb1f2e23dc13c8374c61a2b3635"/>
+        <Part name="img\IMG_0852 hose crane load test_800.JPG" id="b88d244919b977d07e3feb573d1a61a8"/>
+        <Part name="img\20240603_104207 hatch to bow thruster room_800.jpg" id="ab16d3cefeda1d51942887c62972942f"/>
+        <Part name="img\20240603_104255 paint locker spinklers_800.jpg" id="e398479caf9692a362eae00da3c7ffe7"/>
+        <Part name="img\20240603_104217 paint locker fan air duct_800.jpg" id="040b4bc9ff6709e98691e6fa5e7e223f"/>
+        <Part name="img\20240603_104237 forecastle store main isolating switchboard_800.jpg" id="570a1095e85eeaa2e90df12922226e70"/>
+        <Part name="img\20240603_104318 forecastle lighhting isolating boards and ventilation fan_800_0.jpg" id="94d3ac4e844140eecc2c88abbd016deb"/>
+        <Part name="img\20240603_104141 forecastle, bosun store, winch hydraulics switch board_800.jpg" id="d1be26a9b1f2e742a1fc19af9d80ef8b"/>
+        <Part name="img\IMG_20200124_234155 Forecastle store, switch boxes_800.jpg" id="2d543e0a8283ec19c540b16aa57dc961"/>
+        <Part name="img\20240603_132135 engine room life boat davit oil tank_800.jpg" id="61182d05f15edf8434c7494a72b9115f"/>
+        <Part name="img\20240603_095434 deck floodlights on top of midship storm shelter, facing foreward_800.jpg" id="d7b1dd60a086e13d6de6e476c8849308"/>
+        <Part name="img\20240603_095358 deck floodlights on top of midship storm shelter, facing accomodation_800.jpg" id="b3244b2a619b49c4c2c37e037a408d74"/>
+        <Part name="img\20240617_082553 lighting in front of accommodation_800.jpg" id="4ff1bd0c8a2ef847490399b8d629cd51"/>
+        <Part name="img\20240603_093559 emergency lighting around accommodation_800.jpg" id="d5e225afc524c78550e219a98e51bb39"/>
+        <Part name="img\20240603_104144 forecastle, bosun store, hydraulic supply motor_800_0.jpg" id="18245ca3abcf91ab9137f1ecc2d4b53c"/>
+        <Part name="img\20240603_104138 forecastle, bosun store, winch hydraulics_800_0.jpg" id="11d3dab9b765f941cbae4aaeaf8b7444"/>
+        <Part name="img\20240603_132138 engine room aft winch motor hydraulics oil tank_800_0.jpg" id="f5a835ad34d1455441db7959b28b642f"/>
+        <Part name="img\20240603_105534 forecastle chem store, ventilation fan, water sprinkler line_800.jpg" id="70a00b9c72e8acea524860e0fc7386bc"/>
+        <Part name="img\20240603_104310 paint locker ventilation fan_800_0.jpg" id="bef8a6b5414ac774502934025350ea33"/>
+        <Part name="img\20240617_084756 bilge alarms in the bow thruster room_800.jpg" id="09b1ae6e35b67874df9b6ca926b0f151"/>
+        <Part name="img\20240617_084730 bilge alarms in the bow thruster room_800.jpg" id="8837369324ff876bea549b2a8de47370"/>
+        <Part name="img\20240603_111917 main electrical cabling duct run penetration to engine room, seal_800.jpg" id="05b031989c7e01533394269df6f7c5a0"/>
+        <Part name="img\20240603_110058 main deck, under catwalk, main cable run duct end, cables insulated at flange_800.jpg" id="57f613917d7a38e69a4dfe27a9c2aa70"/>
+        <Part name="img\20240603_110827 cable penetration seal, main cable run duct fore to aft, catwak _800.jpg" id="989903aed7d47320e3c839e4f5d84929"/>
+        <Part name="img\20240603_110711 electrical cabling main deck, junction box_800.jpg" id="1f7fe40b5aaf0e713e3fbe275727b99e"/>
+        <Part name="img\20240603_100240 forcastle, forward mast_800.jpg" id="871b321c180ed7084e3fb34e9213ebc9"/>
+        <Part name="img\20240603_091138 connection junction box electrical_800.jpg" id="0467414d184647bd07f86ac84cf269bf"/>
+        <Part name="img\20240603_110321 CT 1 C ullage point, tank pressure sensor_800.jpg" id="77b2f8bd6cfca80b9eabc4237f7a670d"/>
+        <Part name="img\20240618_134121 new embarkation ladder for gangway_800.jpg" id="4eae16f9a59cc6713a613b7475bf1a80"/>
+        <Part name="img\20240603_105739 main deck port side, forecastle bulwark_800.jpg" id="fc1216679a3da9a10727484e95ab0fc6"/>
+        <Part name="img\20240603_100354 forecastle bulwark, port side _800.jpg" id="5b0a9a02b334478894e8cd115d8d2943"/>
+        <Part name="img\20240603_110531 SBWT 4 wing ballast hatch, air vent, safe walkway, handrails starboard_800.jpg" id="4ed926f042f5019d78df53d23ca1ed1a"/>
+        <Part name="img\20240603_095447 look of main deck from catwalk at accomodation crop_800.jpg" id="8d80af6081c60d316962206366a7dbbd"/>
+        <Part name="img\20240603_100429 forward mast, floodlights_800_0.jpg" id="fdf111a68cc5b824f8c5804538584d8b"/>
+        <Part name="img\20240603_100240 forcastle, forward mast_800_0.jpg" id="871b321c180ed7084e3fb34e9213ebc9"/>
+        <Part name="img\20240603_091719 el lighting around the accommodation_800.jpg" id="8ca675f49053522d363bd4e6e468e479"/>
+        <Part name="img\20240603_091529 lighting around the accommodation, electrical junction box_800_0.jpg" id="a7089b570c650b78ba84b7ffc2c9977b"/>
+        <Part name="img\20240603_094851 lighting on deck, intrinsically safe_800_0.jpg" id="ade02aa619dd8baa7565e4538e5475d7"/>
+        <Part name="img\20240603_105955 main deck port side, safe walkway, antiskid applied_800.jpg" id="4ae6d257bd20b4eab664eb1a8edeb6da"/>
+        <Part name="img\20240603_091520 poop deck, front of accommodation, bulwark_800.jpg" id="b553dbc574a4f302e974e36e812ccc4b"/>
+        <Part name="img\20240603_105531 forecastle chem store wide_800.jpg" id="fa80161f62757a6f5d350c231693dcc6"/>
+        <Part name="img\20240603_091425 sample locker on deck, weathertight door_800.jpg" id="9eb7676d53bd39550376c264a2e45eb6"/>
+        <Part name="img\20240617_083024 cargo tank dome 4S coating of the hatch, not good done_800.jpg" id="aeebf623641cd4155a0f6fb8a361c0e9"/>
+        <Part name="img\20240617_083018 cargo tank dome 4S coating of the hatch_800.jpg" id="1a597a909cb65a8a2481e6d3e35a2b4e"/>
+        <Part name="img\20240603_105920 CT 2 P manhole hatch cover_800.jpg" id="8553a40915131c1088632b6f70882125"/>
+        <Part name="img\IMG_1837 butterworth hatch CT 5P_800.JPG" id="1823070fa47d3f2341e15c10b4c8bd3b"/>
+        <Part name="img\20240603_105335 CWT 1 ballast tank coaming and hatch cover starboard_800.jpg" id="6604685ae475cc7b07b0f70317c684a9"/>
+        <Part name="img\IMG_2259_800.JPG" id="4d490ead23f4b94769f00db199e9cffb"/>
+        <Part name="img\20240603_110531 SBWT 4 wing ballast hatch, air vent, safe walkway, handrails starboard_800_0.jpg" id="4ed926f042f5019d78df53d23ca1ed1a"/>
+        <Part name="img\20240603_100130 forecastle vent damper, forepeak air vent, maintenance_800.jpg" id="4e35b6f131940a7a4fc6fbb65bd1f352"/>
+        <Part name="img\IMG_2341_800.JPG" id="74089067e4a6f765ddfea6bb83129051"/>
+        <Part name="img\IMG_2612_800.JPG" id="86f62f2f37583f9ee3c432035b2d03b7"/>
+        <Part name="img\20240603_092601EDG fuel tank vent head_800.jpg" id="c7f45d5ed69338848ea524d5c8dada0f"/>
+        <Part name="img\20240603_092413 vent head_800.jpg" id="88936540bfa55cf19ed04e8f94b8d674"/>
+        <Part name="img\20240603_092642 gooseneck vent head_800.jpg" id="7d41294b9a5aa4a8a80e9a91d3c9f682"/>
+        <Part name="img\20240603_091713 vent head dismantled for maintenance_800.jpg" id="5e6631a60eb714c1acdccb7eb4dcf9f9"/>
+        <Part name="img\20240603_104225 paint locker fan air duct_800.jpg" id="25c21eae87b2110ddde4a45e2a288515"/>
+        <Part name="img\20240603_104310 paint locker ventilation fan_800_1.jpg" id="bef8a6b5414ac774502934025350ea33"/>
+        <Part name="img\20240603_132022 steering gear room emergency escape hatch_800.jpg" id="96126ee75d463fb01b7f93ffa525c800"/>
+        <Part name="img\20240603_091117 weathertight doors for the accommodation_800.jpg" id="8ad3c7fd4d41ec7ed394f82461e6eab8"/>
+        <Part name="img\20240617_082717 CO2 room door_800.jpg" id="fa3268e5b01d458ba048fbbc4455a77c"/>
+        <Part name="img\20240603_105441 forecastle chem store, watertight door, rubber packing seal_800_0.jpg" id="b23ea9b6ae3b496afb4d11816e983b61"/>
+        <Part name="img\20240603_100139 forecastle, forward mooring station, centerlead bitt, rope store hatches, port side fairlead rollers, panama chock_800_0.jpg" id="764ac05b675510d9f3aa3d8bff977adf"/>
+        <Part name="img\20240603_090859 aft mooring station, poop deck, escape hatches_800.jpg" id="7f239154ed71236ce8e6830ce4691ef2"/>
+        <Part name="img\20240603_105437 forecastle chem store, ventilation fan vent flap, rubber packing seal_800.jpg" id="21ca08911815e389f87f220435d42abf"/>
+        <Part name="img\20240603_093235 exhaust ac room, goose neck_800.jpg" id="6435dd520a200a23c7dad290d4f32791"/>
+        <Part name="img\20240617_082159 ER fire dampers flap still requiring corrosion maintenance_800.jpg" id="f61a3a12492551c4f6e56cdecfee5180"/>
+        <Part name="img\IMG_1718261579559 ER vent fan installed_800.jpg" id="7d6d6da9e1f815aa0cc1e670c7a23296"/>
+        <Part name="img\20240609_081701 ER vent fan casing maintenance, fan ashore overhaul by the shipyard_800.jpg" id="e31893605fb8d248381f0bcc06c10fd6"/>
+        <Part name="img\20240605_082700 ER fan compartment acces for overhaul and maintenance_800.jpg" id="729ad51a8e2e9fb79f9fb9c5a8a1ebbc"/>
+        <Part name="img\20240617_082018 ER vent fans dampers, corrosion maintenance inside_800.jpg" id="cb73498b3efa8acd3301c1481a3644e8"/>
+        <Part name="img\20240603_104318 forecastle lighhting isolating boards and ventilation fan_800_3.jpg" id="94d3ac4e844140eecc2c88abbd016deb"/>
+        <Part name="img\20240603_104138 forecastle, bosun store, winch hydraulics_800_1.jpg" id="11d3dab9b765f941cbae4aaeaf8b7444"/>
+        <Part name="img\20240619_153020 bow thruster amper gauge on the Bridge, when tested_800.jpg" id="bb7a83cd7f69e4834e4afaa9fcd08ee3"/>
+        <Part name="img\20240618_153641 FRAMO ballast pump operation_800.jpg" id="14f1879f1048774e90bb1e473335e85f"/>
+        <Part name="img\IMG_0853 hose crane load test_800.JPG" id="d41b786e75931c19347568c5c88763f5"/>
+        <Part name="img\20240603_112405 main deck stairs, lighting_800.jpg" id="c8948fde9ab6b70a62afec663b787f79"/>
+        <Part name="img\20240603_111857 main deck lighting _800.jpg" id="07eb4c81c0c198db69075ba26033d9fb"/>
+        <Part name="img\20240619_163451 main deck from bridge when alongside and testing of the gangway_800.jpg" id="010ba632783d02945f172426f7f2c75e"/>
+        <Part name="img\20240603_091510 lights on main deck_800.jpg" id="b23cb1cd1d14b92fac02245c8a55c576"/>
+        <Part name="img\IMG_2342_800.JPG" id="2081ad52b03d56789957294776f6743d"/>
+        <Part name="img\20240603_105446 WBT 1 C ball float vent head reapirs_800.jpg" id="1d814c4744c711a8c8c2f7bcb0240fbd"/>
+        <Part name="img\20240617_082431 various misc and fuel vent head maintenance, garbage spares_800.jpg" id="32e87bb83b20ba4a37ca901f10fae42c"/>
+        <Part name="img\20240617_082413 various misc and fuel vent head maintenance_800.jpg" id="cdb3232fc77fa95b701a595b67b2a08e"/>
+        <Part name="img\20240603_092610 ER fire dampers rubber retaining channel_800.jpg" id="05a7ef98b41a6956852885c37c9d2e96"/>
+        <Part name="img\20240603_114525 ER funnel fire dampers remote closing pneumatic actuators_800.jpg" id="01ef524a037607977b459e25eb313886"/>
+        <Part name="img\20240603_110741 main deck, framo hydraulic lines, catwalk, deck longitudinal structural members_800.jpg" id="26fc7a98e4fedd2e2e30376ddfefe2ad"/>
+        <Part name="img\20240603_112515 main deck FRAMO lines penetrating bulkhead seal, brackets support_800.jpg" id="616c140b1b8c2a36ea8d02f2275015d9"/>
+        <Part name="img\20240603_110224 cargo line support bracket, framo control lines, pump stripping supply line, support bracket, clamps and valves_800.jpg" id="81a04d62c7487a40ae7fdfc29ca332f5"/>
+        <Part name="img\20240603_111047 FRAMO ballast pump, port side, top cover, hydraulic lines, sheer strake_800.jpg" id="f0ff48d524e20f877d835789d172b850"/>
+        <Part name="img\20240603_095238 cargo hoses or heavy ballast hoses, manifold_800.jpg" id="45d118c6a68c633f6b3cb89de44870ea"/>
+        <Part name="img\20240603_111220 main deck port manifold wide.vapour return, bunker lines_800.jpg" id="624addbe164313bcb6195b40f70ffe61"/>
+        <Part name="img\20240603_112222 main deck starboard, bunker transfer lines, _800.jpg" id="71b2143edc3493c3eedb3d55eca2416a"/>
+        <Part name="img\20240603_111231 main deck port wide, bunker lines_800.jpg" id="d5a0ea6d4a4cdc8bf2a2567c49e4845e"/>
+        <Part name="img\20240603_110431 under catwalk, corrosion compressed air line, u clamps, cable ducts, framo hdraulic oil lines_800.jpg" id="7380188706447e1a7e6e000e101ab6eb"/>
+        <Part name="img\20240603_111310 main deck port, cargo manifold, compressed air line for purging_800.jpg" id="32aea5e73565bcd1383063272ac118bc"/>
+        <Part name="img\20240603_110123 compressed air line, corrosion at weld joint_800.jpg" id="e5298940366522d008b390381e2f790f"/>
+        <Part name="img\20240603_112529 bunker lines_800.jpg" id="3cf3d6c6659df4ac036374012f2d9c71"/>
+        <Part name="img\20240603_112320 main deck, emergency shower line thermal lagging_800.jpg" id="4a96446fb234d8d000c7d705cafe2954"/>
+        <Part name="img\20240603_111837 main deck, vacuum stripping drain pump tank piping, emegency shower line_800.jpg" id="278adb5398a962c02935bdd2a18aefac"/>
+        <Part name="img\20240603_111549 main deck port, emergency shower, eyewash_800.jpg" id="28611274dad69ddbfb50bfcf64cc5179"/>
+        <Part name="img\20240603_111354 main deck port, manifold bunker line valves, saveall driptray_800.jpg" id="d14125273e25ee2fce42aed9db5cfe1d"/>
+        <Part name="img\20240603_104425 forecastle, bow thruster room, forepeak ballast valves_800.jpg" id="08e258d8da9495139ec4976ebbd345c4"/>
+        <Part name="img\20240603_104600 bow thruster room bilge overboard discharge valve_800.jpg" id="10fc384d306af8c690ba8662b8c343b3"/>
+        <Part name="img\20240603_112337 main deck, bulk foam line pressure test stencil_800.jpg" id="a052b5e38c05f3ae7c48d493355800f9"/>
+        <Part name="img\20240603_112303 main deck, heating line, vapor line pressure test stencil_800.jpg" id="639055c61f727dc756b2555d0de2b502"/>
+        <Part name="img\20240603_110240 bulk foam line, tank cleaning machines supply line, pressure test date stenciled _800.jpg" id="f22a2c55ff0fdc98dc9161b4df7717ba"/>
+        <Part name="img\20240603_140427 emergency and tank cleaning pump, foam pump suction strainer_800.jpg" id="ec3a4e0473609aed8ef8763bcccdaace"/>
+        <Part name="img\20240603_133227 overboard line and valve, FWG and AC_800.jpg" id="26d19329d6a48b420a3e57d26396548c"/>
+        <Part name="img\20240603_140046 FWG SW cooling pump and AC SW cool pump_800.jpg" id="336c8c35acff4d773baf91e444814f31"/>
+        <Part name="img\20240603_133456 suction CW cooling water pump HOC hydraulic oil coller_800.jpg" id="1a7240a211f30dcadc9a5190daa2951c"/>
+        <Part name="img\20240619_140134 testing fire pump in ER, pressure gauge_800_0.jpg" id="df6009049bed9f1fec30084b5195bbdc"/>
+        <Part name="img\20240618_165717 new installed overboard valve, SW cooling pump_800.jpg" id="2cb7d16195b30f2727957229677a556b"/>
+        <Part name="img\20240603_140402 fire foam pump overboard line_800.jpg" id="cba276d0a13efdfe07b3784ced8e3ed5"/>
+        <Part name="img\IMG_1718362075148 overboard valve overhaul_800.jpg" id="b943106bf02fae5255a248ab81026b21"/>
+        <Part name="img\20240617_094411 overboard valve_800.jpg" id="a0ef2bd85dff3bbb0f13375fc7fd8102"/>
+        <Part name="img\20240603_133151 overboard line, and locked valve, sewage_800.jpg" id="4430f42a56032e351e63910d656fe7fa"/>
+        <Part name="img\20240603_132120 engine room chain blocks, loose lifting appliances_800.jpg" id="fa199b9d4e0c40c194cc772ba070c138"/>
+        <Part name="img\20240603_132122 engine room sling straps, loose lifting appliances_800.jpg" id="62db01c57bc585c10e02d02e01ff0706"/>
+        <Part name="img\20240603_104255 paint locker spinklers_800_0.jpg" id="e398479caf9692a362eae00da3c7ffe7"/>
+        <Part name="img\20240617_084604 paint store inside forecastle room_800_0.jpg" id="22f284da715f678c0d05f18735e2fd0a"/>
+        <Part name="img\20240603_105625 forecastle chem store, cargo and bunker samples shelves, water sprinklers above_800.jpg" id="071e6594c1fd1a7247ff28598fc50e59"/>
+        <Part name="img\20240603_105602 forecastle chem store, cable tray, water sprinkeler line_800.jpg" id="1e2b4d8ba0ed551806574807f751fc3a"/>
+        <Part name="img\20240603_133515 engine room bulk foam tank and analysis posted_800.jpg" id="a77895f0cc8d2d7285954c638ecc593a"/>
+        <Part name="img\20240603_131440 engine room bulk foam system valve_800.jpg" id="370c9222928c0a0d9e3a460ee516f1b2"/>
+        <Part name="img\20240603_131439 FiFi foam system release panel_800.jpg" id="1fa41b90670ffa573e56b0651afa244b"/>
+        <Part name="img\20240603_133526 foam injection pumps and tank_800.jpg" id="5f1bb9ee5663ec29701f326634c2e02b"/>
+        <Part name="img\20240603_140343 fire and foam pump el motors_800.jpg" id="595424abfacfad78ef7b53f48ef2c2ec"/>
+        <Part name="img\20240619_111539 fire, foam pump coupling disaasembled_800.jpg" id="978bb9d7940ea532c761d9ce79ddaa4a"/>
+        <Part name="img\20240603_110307 cargo tanks domes, vapor PV line, vapor return line, bulk foam line, brackets and valves, deck cables_800.jpg" id="ac37feea96ba76a41967421e3fd03fff"/>
+        <Part name="img\20240603_110623 bulk foam monitor branch from foam line, tank washing valve and line_800.jpg" id="d99e083d73d3f44bcb2e9cd2f8067938"/>
+        <Part name="img\20240603_112311 main deck bulk foam line support bracket_800.jpg" id="6f611213f4f812d1346eeda65b08a02c"/>
+        <Part name="img\20240603_095504 foam monitor around starboard manifold_800.jpg" id="08cc6ce3e9405d4300ee7c2fc22c8462"/>
+        <Part name="img\20240603_134241 semi-portable fire extinguisher in ER, ABC dry powder, ER lavatory, sink, Ultrasonic bath cleaning_800.jpg" id="67febac0cb3e66622548e5ccccd751fc"/>
+        <Part name="img\20240603_134230 portable foam applicator in ER_800.jpg" id="220fa73c796e9c265902862d2b91c61d"/>
+        <Part name="img\20240603_105407 fire line forward, isolating valve to forecastle, chem store sprinkler branch _800.jpg" id="6e30465a973c0883d71923ac4fc50c3f"/>
+        <Part name="img\20240603_104249 paint locker sprinklers_800.jpg" id="2e9a9839a518b4f9a9d6b274c8155909"/>
+        <Part name="img\20240609_150910 gas detectors, induvidual and tankscope_800.jpg" id="73d32db64a65542955dc03fd12d9dde8"/>
+        <Part name="img\20240603_131425 engine room fire alarm smoke sensor, detector_800.jpg" id="994616ee46c26537be90dee645af75b4"/>
+        <Part name="img\20240603_132219 engine room steering gear fire alarm bell telephone, emcy communication_800.jpg" id="2d5cdbbb815fb56d999072a04abaaa3a"/>
+        <Part name="img\20240603_133120 smoke and UV fire detectors of fire alarm and water mist system_800.jpg" id="f0dd28639f454197f7eff7081fd9055f"/>
+        <Part name="img\20240603_133633 ER alarm signal, syrene_800.jpg" id="85244b198b85fe5fc167d01876cd3591"/>
+        <Part name="img\20240619_144434 water mist system testing in real situation_800.jpg" id="cdf750a589a91f4044e8588007153393"/>
+        <Part name="img\20240603_093348 LSA and fire locker room weathertight door corrosion maintenance, fire suits_800.jpg" id="9ce7c609bee19df935a9f21ca2a945d9"/>
+        <Part name="img\20240603_093341 LSA and fire locker room weathertight door corrosion maintenance_800.jpg" id="b6d1ad14636da3a776a4e12bdcd88c85"/>
+        <Part name="img\20240603_134234 fire hose in ER_800.jpg" id="3a2d21b458eaacdfaad2ed70223e33b2"/>
+        <Part name="img\20240617_140612fire hose in ER, new couplings_800.jpg" id="2d1bc629ff6cf748e8747277c3e2448b"/>
+        <Part name="img\20240603_092459 fire hose_800.jpg" id="b4166813ff1e7f18e9a5c6bd1d578247"/>
+        <Part name="img\20240603_100903 forecastle, bosun store, firemans outfit box, equipment inside_800_800_0.jpg" id="b8e0b88e248feb0cd37e3b4a4e64e2f0"/>
+        <Part name="img\20240619_111734 water mist panel, pump and equipment_800.jpg" id="497fa6cfa923ee669b6d2c2b7fb3a9e1"/>
+        <Part name="img\20240619_144434 water mist system testing in real situation_800_0.jpg" id="cdf750a589a91f4044e8588007153393"/>
+        <Part name="img\20240619_144515 water mist system testing in real situation, above DG3, AE3_800.jpg" id="c06e250a4bc3f4ad2195a7fabefcd119"/>
+        <Part name="img\20240603_110153 foreward tank cleaning line, fire line_800.jpg" id="1f54bebeea4764a7433108564876568c"/>
+        <Part name="img\20240603_105407 fire line forward, isolating valve to forecastle, chem store sprinkler branch _800_0.jpg" id="6e30465a973c0883d71923ac4fc50c3f"/>
+        <Part name="img\20240603_112548 main deck fire main line hydrant_800.jpg" id="affe14603cc7e0e1f18277babe4fcccf"/>
+        <Part name="img\20240603_110557 bulk foam branch box, foam line isolation valve, foam hydrant_800.jpg" id="e42ffbd31b8b0e4ccd839bcf138fd218"/>
+        <Part name="img\20240603_093352 LSA and fire locker room weathertight door corrosion maintenance, fire suits_800.jpg" id="ced163a02f5a3344b0dc416c7cb60638"/>
+        <Part name="img\20240603_113956 emergency generator BA compressor_800.jpg" id="e047b350f02971abefb9ce6c95675768"/>
+        <Part name="img\20240603_093823 FFB davit_800.jpg" id="f7a9743ff02a4453178b03a277ca51b2"/>
+        <Part name="img\20240605_133319 inside FFB_800.jpg" id="700ef6adf54ea4e382e1679f3cdc909a"/>
+        <Part name="img\20240617_081942 FFB davit coating repairs and renewal of the hydr cylinder pipe_800.jpg" id="4184ade1ce202606635a504b9cb382e6"/>
+        <Part name="img\20240619_143235 FFB davit load testing_800.jpg" id="e4ca0b4efe1e3b0fdd148c28d8efd4a3"/>
+        <Part name="img\20240603_092853 rescue boat craddle_800.jpg" id="cf4ed27db5725d6097abcec397ecd5f6"/>
+        <Part name="img\20240608_135550 rescue boat crane, brake mechanism_800.jpg" id="e0f68502b19d2b031728c684ef31b2f2"/>
+        <Part name="img\20240603_093041 rescue boat hydraulic accomulator_800.jpg" id="db4abe964ac740f2d1ad16c60fd25a41"/>
+        <Part name="img\20240603_090747 aft mooring station, poop deck, rear side of accommodation block, rescue boat_800.jpg" id="b9cf0c1be75f0173321c62d9f12fe426"/>
+        <Part name="img\20240603_093808 accommodation external decks, liferaft launching crane_800.jpg" id="faad2ef9de63e06749b0248f3c698f22"/>
+        <Part name="img\20240603_093411 liferaft and HRU_800.jpg" id="1a9cdff027c1683f2fbf0ab1993a52e2"/>
+        <Part name="img\20240617_144040 liferaft launching crane new hook_800.jpg" id="959712252a321b7d5fcc0aff272472b8"/>
+        <Part name="img\20240603_105404 main deck forward Life Raft_800.jpg" id="1a05c8e4f80f0f82291385a203be9ad9"/>
+        <Part name="img\20240603_092030 liferaft HRU_800.jpg" id="1ccc860d4b86fcd52c9b648159c6cdab"/>
+        <Part name="img\20240603_091926 liferaft launching crane , brake drum_800.jpg" id="15c0845fd89c43a2bcd267072ad5e176"/>
+        <Part name="img\20240608_135642 liferaft launching crane_800.jpg" id="2cd6ce11004ac778a33ea33e9e504216"/>
+        <Part name="img\20240617_144040 liferaft launching crane new hook_800_0.jpg" id="959712252a321b7d5fcc0aff272472b8"/>
+        <Part name="img\20240617_144115 liferaft launching crane new hook_800.jpg" id="b2bc3ae598c831a1699eff7c1bc1962a"/>
+        <Part name="img\IMG_0865_800_0.JPG" id="515e98ddab13aae809ddc751b1611216"/>
+        <Part name="img\IMG_0866_800.JPG" id="652f0141f94ef14bd6033eb2379c157f"/>
+        <Part name="img\20240603_092208 liferaft embarkation ladderand station_800.jpg" id="13ac37a3a98af2bba24391bb861fdb6d"/>
+        <Part name="img\20240608_135615 liferaft, embarkation ladder_800.jpg" id="a9b5738d64df53722ab3875588536b59"/>
+        <Part name="img\20240618_170416 tug boats for berthing, MOB lifebouy_800.jpg" id="4467bffc87d173220879e1125c02bd5e"/>
+        <Part name="img\20240603_092747 life jacket in LSA locker_800.jpg" id="e7dc9d3a4de2129b06616d58455113b7"/>
+        <Part name="img\20240603_115914 ECR aircon, lifejacket, ECR fire signal and alarm_800.jpg" id="e9915a0944f23276ea628b22d08b0786"/>
+        <Part name="img\20240609_151430 lifejackets on the bridge_800.jpg" id="f22863d06143967ef87af078d81e3eb9"/>
+        <Part name="img\20240609_150835 immersion suit_800.jpg" id="3170c208c192ad517cb432370e50b513"/>
+        <Part name="img\20240603_132306 EEBD_800.jpg" id="b3ddf0a3c72cd81ed33c0269ffa577c2"/>
+        <Part name="img\20240603_132455 EEBD no.6, expiry Dec.2031_800.jpg" id="974291ffd5a3441bfdabeb601d9fdb46"/>
+        <Part name="img\20240603_140459 sludge pump control panel and ER EEBD 7, ER tel. relay box_800.jpg" id="40142782dbd7ee74b7f28e5e6dc79680"/>
+        <Part name="img\20240603_140227 EEBD next to LO pump_800.jpg" id="e8a326680fa915c9765b36b432474032"/>
+        <Part name="img\20240609_152339 EPIRB_800.jpg" id="f56ecd1e5f747e2da2f8ff9f2cfb50d1"/>
+        <Part name="img\20240604_140143 line throwing device, LO transfer and for filter pump_800.jpg" id="c0c0375d8c27515e2e8b3e80178d4cbf"/>
+        <Part name="img\20240609_151319 pyrotechnics, line throwing device_800_0.jpg" id="f753c14c0cb0f27a1e7482f3d673deb6"/>
+        <Part name="img\20240609_151241 pyrotechnics_800.jpg" id="d1116b496925d3a9f3ce5dde6a6c3ec1"/>
+        <Part name="img\20240609_151217 pyrotechnics_800.jpg" id="89add0a2c1aff0c74403168aedc53935"/>
+        <Part name="img\20240603_094115 muster station posters, IMO posters_800.jpg" id="c077287be5cd8a02ff5e8ccf3f504a90"/>
+        <Part name="img\20240609_151138 IMO signs_800.jpg" id="d5673724f3420e62c5e937d044adae33"/>
+        <Part name="img\20240604_140618 IMO signs_800.jpg" id="e0449e58f2d24418785e0c9d8767cee4"/>
+        <Part name="img\20240609_150653 SART expiry_800.jpg" id="1d5f9f2c71a7b1697a49b8a8c3a8c9a6"/>
+        <Part name="img\20240617_095051 liferaft launching crane brake drum_800.jpg" id="7d17857d192fde4ee578af5d959af02d"/>
+        <Part name="img\20240603_090956 garbage place around accommodation_800.jpg" id="db8aa0992bd9962fe32116419d71522f"/>
+        <Part name="img\20240603_091000 garbage place around accommodation_800.jpg" id="971cae41f581850ca0614d35882603dc"/>
+        <Part name="img\20240603_134248 semi-portable fire extinguisher in ER, ABC dry powder, portable winden spill pump_800.jpg" id="8ef9beab605995e7c25252c3bc04c1b6"/>
+        <Part name="img\20240603_091259 oil spill pump on deck_800.jpg" id="47cf262a202084a59acbf43121dd275f"/>
+        <Part name="img\20240603_111139 deck hose crane, sopep drum_800.jpg" id="604ca85d069dbb76d2c10ac0dd73a435"/>
+        <Part name="img\20240603_095017 SOPEP container on main deck_800.jpg" id="fdf2ed65ff095fd6420c68c2615da422"/>
+        <Part name="img\20240603_095030 SOPEP container on main deck_800.jpg" id="b990cde709a8e85ae9cdbac318093e98"/>
+        <Part name="img\20240603_133658 thermal oil tank bulkhead, ER tween deck general view, ER chemical store_800.jpg" id="d41483a6bcd331972b41b81b2dcaf1d0"/>
+        <Part name="img\IMG_1848_800.JPG" id="bcb263f386076bd48a49eb12e6918266"/>
+        <Part name="img\20240603_105951 CT 2 P fixed tank cleaning machine_800.jpg" id="66b9ba2ff677c9202d0693793ce14d89"/>
+        <Part name="img\20240603_111738 main deck, vacuum stripping drain wilden pump_800.jpg" id="61ec07f0aac04d717528d8cf78f89c01"/>
+        <Part name="img\20240603_111721 main deck, vacuum stripping tank_800.jpg" id="ebd9ef72b39428332b45fe19ce0287a5"/>
+        <Part name="img\IMG_1843 hose crane in operation before crane cylinder overhaul_800.JPG" id="1118342daf92cd34a233d21f6b54061a"/>
+        <Part name="img\20240603_110226 cargo line support bracket, pump control lines, pump stripping supply line, supports, clamps and valves_800.jpg" id="6e3e867452dc1c8263e330d9e73d7ed7"/>
+        <Part name="img\20240603_105917 CT 1 C cargo line, remote controlled cargo discharge valve_800.jpg" id="741fddde4fb860b88f9e45006abb9a6d"/>
+        <Part name="img\20240603_105909 CT 1 C butherworth opening hatch, remote controlled cargo discharge valve_800.jpg" id="3ff571c49bb1baaf09586876bb41e422"/>
+        <Part name="img\20240603_131459 engine room, cargo ballast system control remote hydraulic valves system control panel_800.jpg" id="52f8b8842cc683a03ce50910b01e6e8a"/>
+        <Part name="img\20240603_131458 engine room, cargo ballast system control remote hydraulic valves system_800.jpg" id="c90784ac2e7e1e2816c34b5fa1e2bef1"/>
+        <Part name="img\20240603_105904 CT 1 C framo cargo pump top, cargo discharge hand valve_800.jpg" id="79257487b74a5df80abf98b617cc13cd"/>
+        <Part name="img\20240603_105858 CT 1 C framo cargo pump top cover_800.jpg" id="462a0a6efe253f51eb37323e47bb9186"/>
+        <Part name="img\IMG_2064_800.JPG" id="7067f3f9680dd40b14d4c47e14b5d46e"/>
+        <Part name="img\20240609_151823 cargo pumps panel, FRAMO hydraulic control_800.jpg" id="9c7f013fb8e46c5dc8a018f9d73db612"/>
+        <Part name="img\20240603_105644 forecastle store, framo portable cargo pump_800_0.jpg" id="156be805a9297a0c2db680f42488b9e7"/>
+        <Part name="img\20240603_164052 cargo system control panel and ballast FRAMO throttle control panel_800.jpg" id="54928b4cc2c862a291f533dc845ac6c3"/>
+        <Part name="img\20240603_131026 ballast and cargo remote hydr valves solenoid cabinet_800.jpg" id="02fa001f21d42cac0a3f969f04ad3f89"/>
+        <Part name="img\20240609_151827 cargo valves control_800.jpg" id="6125d165bb03fbe1fe4c607e3ed1ee44"/>
+        <Part name="img\20240609_150705 bridge general view_800.jpg" id="fde07d44971cec11aa868073c3aff379"/>
+        <Part name="img\20240609_151823 cargo pumps panel, FRAMO hydraulic control_800_0.jpg" id="9c7f013fb8e46c5dc8a018f9d73db612"/>
+        <Part name="img\20240603_111516 main deck port, vacuum stripping drain piping valves and lines, manifold gratings_800.jpg" id="71716ffd35051f5c30c83471aafafbda"/>
+        <Part name="img\20240603_111722 main deck, vacuum stripping tank, ladder_800.jpg" id="925fb419fce563defd76af7826612a82"/>
+        <Part name="img\20240603_111405 main deck port manifold vacuum stripping drain lines and valves _800.jpg" id="4636753598a5375c11c3e7d2773b7821"/>
+        <Part name="img\20240603_110321 CT 1 C ullage point, tank pressure sensor, cargo tank dome_800.jpg" id="f1b797b02fcea5d495acad46682117f5"/>
+        <Part name="img\20240609_152143 Cargo tank and ballast tanks ullage computer_800.jpg" id="49645a8e9e94136d10c671a13d76d7b6"/>
+        <Part name="img\IMG_1996_800.JPG" id="f83601daf1f7869de5ab01d5754154a3"/>
+        <Part name="img\IMG_3048_800_0.JPG" id="746cfa6cb9e2a12ae470e9fc1d52578b"/>
+        <Part name="img\20240609_152203 Cargo tank and ballast tanks ullage computer_800_0.jpg" id="2a3f4f854c14eb8c9582d64f3be0db38"/>
+        <Part name="img\20240619_091709 cargo tanks high level alarms, testing on place_800.jpg" id="f94e33877857f657bed1ebcf7f6df0ba"/>
+        <Part name="img\20240619_090832 cargo tanks high level alarms, testing_800.jpg" id="90f695697c171d847a5e2261e7790622"/>
+        <Part name="img\20240603_095424 overfill alarm HLA siern _800.jpg" id="837b698b6060df701878895514074bd9"/>
+        <Part name="img\20240603_110827 cable penetration seal, main cable run duct fore to aft, catwalk, venting pipeline 4P_800.jpg" id="989903aed7d47320e3c839e4f5d84929"/>
+        <Part name="img\20240603_110310 CT 1C vapor return line, valve with electrical continuity bonding strap, tank washing line, foam line_800.jpg" id="69c9d8a24041f0c96f832f91f90c67ca"/>
+        <Part name="img\20240603_111424 main deck port, cargo valves, earth bonding_800.jpg" id="b8fb44fd127cd5b408bbe269b6123af6"/>
+        <Part name="img\20240603_131514 engine room, tank cleaning heater lagging, thermal oil valves_800.jpg" id="518613603bac6da1d2254cf9b4f8fbcb"/>
+        <Part name="img\20240603_131502 engine room, tank cleaning heater lagging, insulation_800.jpg" id="90c744cde7e7a13f8c70a04b3a4fb75c"/>
+        <Part name="img\20240603_095211 cargo hoses or heavy ballast hoses_800.jpg" id="bfd4f4cd69ba33ce17fdfd73c1ba0623"/>
+        <Part name="img\20240604_143056 hoses for heavy ballast, test date_800.jpg" id="72bac18aeb4f056bf061813866de5c51"/>
+        <Part name="img\20240603_095237 cargo hoses or heavy ballast hoses, manifold_800.jpg" id="b42c221ed540877c207221f42d0425fc"/>
+        <Part name="img\20240603_105657 forecastle chem store, framo portable pump hoses, bitter end hammer_800.jpg" id="cabd5a175367553d26e4b640cd2f8949"/>
+        <Part name="img\20240603_095158 gas free fan_800.jpg" id="749756f77d4a69931adcdaf12fafcb30"/>
+        <Part name="img\20240603_105633 forecastle chem store, portable ventilation air driven fan_800.jpg" id="a01515a22d28581a1351b82f6dc8d8ce"/>
+        <Part name="img\20240603_112204 main deck starboard, manifold vent socks, gasfree fan ducting_800.jpg" id="34dbd7800dfc16143e7a215109109bd2"/>
+        <Part name="img\20240603_095314 gas free flexible fan Air Ducting vent sock_800.jpg" id="d5c162639f928f0b657f8b2542c0bf92"/>
+        <Part name="img\20240603_111151 main deck, port manifold, saveall driptray_800.jpg" id="4a7d36f7937f7e54fa72831e15761cdb"/>
+        <Part name="img\20240603_111405 main deck port manifold vacuum stripping drain lines and valves _800_0.jpg" id="4636753598a5375c11c3e7d2773b7821"/>
+        <Part name="img\20240603_111549 main deck port, emergency shower, eyewash_800_0.jpg" id="28611274dad69ddbfb50bfcf64cc5179"/>
+        <Part name="img\20240609_091054 OWS 3way valve_800.jpg" id="7b480210671b9fc9c71d29d5b20d2cc9"/>
+        <Part name="img\IMG_0642 overboard valve_800.JPG" id="d63ec1ee741c4d6bd2d9ccdbc9a2fe9c"/>
+        <Part name="img\20240618_090433 ship hull vertical side midship ps, ballast pumps sea chest_800.jpg" id="fa4084790c1b8f63bb319c5d9fe84429"/>
+        <Part name="img\IMG_2602_800.JPG" id="4848f7c705e0c43bc0808679c07963b5"/>
+        <Part name="img\chain blocks PMS_800.png" id="acc4798d8d1b3ac37f8da2a2ed6d8142"/>
+        <Part name="img\IMG_0855 foam monitor test_800.JPG" id="e1fb7e1bec814eb5b56ad41a2ca4228e"/>
+        <Part name="img\IMG_2233 gas detector calibartion sticker_800.JPG" id="4786e1b270dd56959a8889d6ac564c25"/>
+        <Part name="img\20240609_151018 gas detector span bottles_800.jpg" id="04f1d08cf11f23b1938988f2ea2cc12f"/>
+        <Part name="img\20240619_115905 fire alarm panel_800.jpg" id="95c0f191526be110597e40071374580c"/>
+        <Part name="img\20240603_090938 fire hoses around accommodation_800.jpg" id="42d0ee23283a42ca9dbd38c47574daea"/>
+        <Part name="img\FFB cert crop_800.png" id="a69099845747ebe1b07277f7f7e3505b"/>
+        <Part name="img\liferaft inspection sticker_800.png" id="cd1b900bd0d362289eae193b7f1efa8e"/>
+        <Part name="img\liferaft ladder PMS_800.png" id="10464024ce6bfef8f024afa54fc5ac8f"/>
+        <Part name="img\tank cleaning machines PMS_800.png" id="9f9f84a7b28e710c246e35daeb270b16"/>
+        <Part name="img\20240603_131224 framo power pack el motors_800.jpg" id="38fcda504d85e45b6b49be9b6bc57ba0"/>
+        <Part name="img\UTI Radar comparisson_800.png" id="3c4b5c677817c706568f0b876264a815"/>
+        <Part name="img\20240617_082912 new BWTS pipes_800.jpg" id="fc3b4faf9ad0eaf09e78307ed28acb7d"/>
+        <Part name="img\20240618_141955 BWTS new cabinets_800.jpg" id="f6357a63d9830a3cb1b573f01b90197a"/>
+        <Part name="img\20240618_160113 BWTS new panel_800.jpg" id="c2dfa62cfe52b979fee85cd6ceb13bd1"/>
+        <Part name="img\20240603_110711 electrical cabling main deck, junction box, foam line, tank washing line, venting line, thermal oil heating line_800.jpg" id="1f7fe40b5aaf0e713e3fbe275727b99e"/>
+        <Part name="img\20240617_093732 lifting equipment_800.jpg" id="b09cebdb0f8e377a29a9887eb46cb42f"/>
+        <Part name="img\IMG_2016_800.JPG" id="bea99599ef2ec6bcbf96b5f06fd3146d"/>
+        <Part name="img\IMG_1997_800.JPG" id="3a1a3fe7dfa266a1ca7bf30d722e63a5"/>
+        <Part name="img\IMG_1912_800.JPG" id="1871a198c75b3f591fdf4ecc4a14722f"/>
+        <Part name="img\IMG_2198_800.JPG" id="2d6a0e254daaaf005f9ff43820ac44c9"/>
+        <Part name="img\IMG_2191_800.JPG" id="45720fa37b289de2c077d23fa7f87d3a"/>
+        <Part name="img\20240603_111318 main deck port, cargo manifold and crossover vavles, manifold pressure gauges_800.jpg" id="526076eee189248f0b6e884b549ad87a"/>
+        <Part name="img\20240603_095322 gas free flexible fan Air Ducting, SB manifold vent sock_800.jpg" id="e4fb2aff0b6a3f7b489260a9f707d3d3"/>
+        <Part name="img\20240603_105853 CT 1 C pump top plate, cargo discharge line_800.jpg" id="b09d5831a43bf90b99a09206beaab255"/>
+        <Part name="img\20240603_111409 main deck port, framo line cargo pipe expansion joint, tank washing connection_800.jpg" id="c53d97f7ec76f2ed33abd4f2f49ca115"/>
+        <Part name="img\20240603_111424 main deck port, cargo valves, earth bonding_800_0.jpg" id="b8fb44fd127cd5b408bbe269b6123af6"/>
+        <Part name="img\20240603_105802 CT 1 C  cargo drop line and drop valves_800_0.jpg" id="078bfe52cb8034fd73b4cd20760e5ce3"/>
+        <Part name="img\IMG_2539 FRAMO pump Ballast water strainer WBTk 6P_800.JPG" id="0803a663fe7a80df596003fac94d6c87"/>
+        <Part name="img\IMG_2894_800.JPG" id="1beaeeb2d98f2e3c527afdad640b13fb"/>
+        <Part name="img\IMG_2947_800.JPG" id="af37b7cc9a8b63cd0b851c079632a439"/>
+        <Part name="img\IMG_2946_800.JPG" id="4a8f4152ead91a7ba454a4a8db1d60f7"/>
+        <Part name="img\IMG_2719_800.JPG" id="a29c61009374a4c424335f9611974353"/>
+        <Part name="img\20240603_110300 tank cleaning machines supply line, supports, u clamps and valves_800.jpg" id="f01962248a76d06a52d72ccaf2b909c9"/>
+        <Part name="img\20240603_110240 bulk foam line, tank cleaning machines supply line, pressure test date stenciled _800_0.jpg" id="f22a2c55ff0fdc98dc9161b4df7717ba"/>
+        <Part name="img\IMG_20200124_191349 TS Submerged pressure temp sensors_800.jpg" id="408b1ee9aa7b228d8f78c44243ea6a31"/>
+        <Part name="img\20240603_111444 drain and stripping valves and lines_800.jpg" id="861345848bf6910d608dc27372766cb5"/>
+        <Part name="img\20240603_111519 main deck port, vacuum stripping drain piping valves and lines_800.jpg" id="f940cb3f4eaa8cb5e309ab1e5d08ffe6"/>
+        <Part name="img\20240603_111631 main deck port, vacuum stripping tank, PV lines, mast riser_800.jpg" id="aa8590498587c73e9d5728750b312da0"/>
+        <Part name="img\20240603_111822 main deck, vacuum stripping drain pump piping_800.jpg" id="8f49e65521dc17287575680475e81717"/>
+        <Part name="img\20240603_110330 mast riser, PV valves stack, dismantled for maintenances_800_0.jpg" id="79ab3e040f4b1b29af8d71b157833b69"/>
+        <Part name="img\IMG_2410 PV returned from calibration_800.JPG" id="bf5b17f6e28e18cec5489f4f59a7de84"/>
+        <Part name="img\20240603_095625 PV pressure valve seat_800.jpg" id="b8bca60c04f23d2810d578366712f78c"/>
+        <Part name="img\20240603_095612 PV valves dismantled for maintenance_800.jpg" id="42d2bee6a59e6758e366cace655cbf91"/>
+        <Part name="img\20240604_143122 PV valves reinstalled_800.jpg" id="c02a5c6ebca312c1fd076fed380fbc2b"/>
+        <Part name="img\20240603_094937 mast riser_800.jpg" id="e5b148f6e95219b955faf41c3f06468b"/>
+        <Part name="img\20240618_113305 remote hydraulic valves power pack_800.jpg" id="89156cac5de765c1b1722dbb4a92a09a"/>
+        <Part name="img\20240605_140135 hydraulic remote valves_800.jpg" id="eac57ef8ee0ca48ae9730f8738b873dd"/>
+        <Part name="img\20240605_140152 hydraulic remote valves_800_0.jpg" id="3d140302e707eb164681537b69475dd7"/>
+        <Part name="img\20240603_105909 CT 1 C butherworth opening hatch, remote controlled cargo discharge valve_800_0.jpg" id="3ff571c49bb1baaf09586876bb41e422"/>
+        <Part name="img\IMG_2615_800.JPG" id="4c9394afc1089fd171738bd6ac7152c2"/>
+        <Part name="img\IMG_3038_800.JPG" id="766d61fed4e767df04f637338dd77e36"/>
+        <Part name="img\IMG_2201_800.JPG" id="b2df88a7f90bd90f47a44a5e4ff83feb"/>
+        <Part name="img\20240603_111405 main deck port manifold vacuum stripping drain lines and valves _800_1.jpg" id="4636753598a5375c11c3e7d2773b7821"/>
+        <Part name="img\20240603_091142 FO tanks sounding pipe and scupper plug_800.jpg" id="452d834ef767e135317a352f1768796d"/>
+        <Part name="img\20240603_090924 sounding pipes and scupper plugs around accommodation_800.jpg" id="a85dc151e9148c9796541f0695a45314"/>
+        <Part name="img\Screenshot 2024-07-31 110901_800.png" id="e8fae64da450c157ac8f501dd9d8daa6"/>
+        <Part name="img\Screenshot 2024-07-31 111355_800.png" id="47071fb0614505b4bd3b8359d76af62c"/>
+        <Part name="img\Screenshot 2024-07-31 111945_800.png" id="14d2ed3b35e959c11005181a90487d82"/>
+        <Part name="img\Screenshot 2024-07-31 112218_800.png" id="8151394a32e1a0bffac7e29cb29c7f24"/>
+        <Part name="img\Screenshot 2024-07-31 112636_800.png" id="8c99198dd1a9d4d4778484ebe499106d"/>
+        <Part name="img\Screenshot 2024-07-31 112819_800.png" id="4585ebc00ea0db4fa7e46dac8f9a053d"/>
+        <Part name="img\Screenshot 2024-07-31 113109_800.png" id="187b9e68a1261481438c3c1d051e7d85"/>
+        <Part name="img\Screenshot 2024-07-31 113627_800.png" id="0266075b1578e8e99bdc301737e4f717"/>
+        <Part name="img\Screenshot 2024-07-31 112218_800_0.png" id="7b2b179cbffaec83a26bcea303e116aa"/>
+        <Part name="img\Screenshot 2024-07-31 111945_800_0.png" id="452eedf70e936a36e36a62abf0ee2bb8"/>
+        <Part name="img\Screenshot 2024-07-31 113925_800.png" id="2e9e85b4e1cdd13c04893c46a6101614"/>
+        <Part name="img\Screenshot 2024-07-31 114613_800.png" id="d12134f29a2270ab68033173556aeb60"/>
+        <Part name="img\Screenshot 2024-07-31 114948_800.png" id="35c4e023eb266cc081aba999ea02d3b5"/>
+        <Part name="img\Screenshot 2024-07-31 115908_800.png" id="c8ed8b09db71eceaccd66a2f353ba18e"/>
+        <Part name="img\IMG_2882 main deck_800.JPG" id="e24d20b1729fc4f80f3feadec31b1e96"/>
+        <Part name="img\IMG_2833 bottom_800.JPG" id="2552d1a553483e80708701c3a2aaca22"/>
+        <Part name="img\IMG_2828 inner bottom_800.JPG" id="49dcfe7cc8e99f2875bf02521e2dcb1c"/>
+        <Part name="img\IMG_2849 corrosion spot on tank bottom before rebuilding and recoating_800.JPG" id="8e2740ff21b8d368fb055f4b461c6875"/>
+        <Part name="img\IMG_2826 aft bulkhead_800.JPG" id="4b858bacfc01c5e6f1dd0285a6df67d8"/>
+        <Part name="img\IMG_2853 fore bulkhead_800.JPG" id="c5b26c83a11e9e1011d1ed1b769e6f0f"/>
+        <Part name="img\IMG_2810 side shell ps_800.JPG" id="f705e4076c08ddb7aeea12e31dc1ae40"/>
+        <Part name="img\IMG_2858 side shell stbd_800.JPG" id="73107d1ce3dcf96e90a5904bf69c7207"/>
+        <Part name="img\IMG_2811 longitudinal bulkhead ps_800.JPG" id="0351a991228c6e83f9b177aac61e6829"/>
+        <Part name="img\IMG_2880 longitudinal bulkhead stbd_800.JPG" id="c5e35cda4243e111a509323ee9d772b1"/>
+        <Part name="img\IMG_2823 internal structure_800.JPG" id="ea297d1b0718f02bc2c2c63764eef7fa"/>
+        <Part name="img\IMG_3238  Ballast tank WBT 1C rebuilded with welding, coating repair_800.JPG" id="56740287cba5111357201a794e830312"/>
+        <Part name="img\IMG_3220 Ballast tank 1C coating repair_800.JPG" id="1efd0aea7b76039c6a9cf596e480ff6a"/>
+        <Part name="img\IMG_3242 Ballast tank WBT 1C rebuilded with welding, coating repair_800.JPG" id="597e0a94a52532db0bd443facffd22c1"/>
+        <Part name="img\IMG_3248 Ballast tank 1C coating repair_800.JPG" id="54108bbbb04671245412ad060d7e284c"/>
+        <Part name="img\IMG_3250 Ballast tank 1C coating repair_800.JPG" id="cd09c73223d32d215cb5e3f67fef5c72"/>
+        <Part name="img\IMG_3225_800.JPG" id="481eaa5cfbcde1293e44eb695d844338"/>
+        <Part name="img\IMG_2931 main deck_800.JPG" id="7e6e94bae57243f20e4ef0c0e1bf94dc"/>
+        <Part name="img\IMG_2901 bottom_800.JPG" id="b945c996718eacb98aac0f53d1ec4150"/>
+        <Part name="img\IMG_2898 inner bottom_800.JPG" id="d47195a80c01f576120d47e545eedb42"/>
+        <Part name="img\IMG_2891 aft bulkhead_800.JPG" id="c603e2ca6b83139e831dc72112353f33"/>
+        <Part name="img\IMG_2909 fore bulkhead_800.JPG" id="6a7b69f7a84f7a0ddbddbcb842bed6eb"/>
+        <Part name="img\IMG_2925 side shell ps_800.JPG" id="e2eec27f315e1e462c23420863699057"/>
+        <Part name="img\IMG_2926 longitudinal bulkhead stbd_800.JPG" id="61c76f28ac42e6abf5bdaee2a8365ead"/>
+        <Part name="img\IMG_2930 internal structure_800.JPG" id="d161750fa046267684a3cb0a52be54f2"/>
+        <Part name="img\IMG_3017 main deck_800.JPG" id="c44e41b39e0a78a1e108e5f3467c510d"/>
+        <Part name="img\IMG_2987 bottom_800.JPG" id="5125057751ef4078e41ced8c9cd03b70"/>
+        <Part name="img\IMG_2994 inner bottom_800.JPG" id="046cbe5154dfb2dc7566639c0ef2418e"/>
+        <Part name="img\IMG_2986 aft bulkhead_800.JPG" id="639d11a56e86839726dbde5aebabb2d1"/>
+        <Part name="img\IMG_3003 fore bulkhead_800.JPG" id="fc5fd15ab5b13de32e7e70d5572eb349"/>
+        <Part name="img\IMG_3020 side shell stbd_800.JPG" id="e8e7093d7dacaf4a740a509654ce90ae"/>
+        <Part name="img\IMG_3021 longitudinal bulkhead ps_800.JPG" id="71eba3913f7292f297fa0867608f7f6b"/>
+        <Part name="img\IMG_3013 internal structure_800.JPG" id="cb95b949ebf2e80ea6be27c3723c3b03"/>
+        <Part name="img\IMG_2975 main deck_800.JPG" id="54edc39c8a8855488d572cb7834dcbef"/>
+        <Part name="img\IMG_2953 bottom_800.JPG" id="161750b81ec2e6ade26bc73d067aa6eb"/>
+        <Part name="img\IMG_2954 inner bottom_800.JPG" id="ac66d0b95c271a873e867b2b3579e4c3"/>
+        <Part name="img\IMG_2961 aft bulkhead_800.JPG" id="6fd36ad96687db0b8a298b135b055c95"/>
+        <Part name="img\IMG_2944 fore bulkhead_800.JPG" id="52df6326396a8daf1ab2f38d69575539"/>
+        <Part name="img\IMG_2973 side shell ps_800.JPG" id="80a48b5a8f467bebe2bcf649cf014f58"/>
+        <Part name="img\IMG_2974 longitudinal bulkhead stbd_800.JPG" id="6be9b52572e1e471f4822eae545fe139"/>
+        <Part name="img\IMG_2968 internal structure_800.JPG" id="e8661f8ee595d4d1973a127f9af9f420"/>
+        <Part name="img\IMG_3073 main deck_800.JPG" id="b3d899ed926eeaef4da3b20e3d00395f"/>
+        <Part name="img\IMG_3043 bottom_800.JPG" id="90f7a4f2412458ff11904573f6917011"/>
+        <Part name="img\IMG_3035 inner bottom_800.JPG" id="1d8cb2802d79ab8a864c0f4417128ace"/>
+        <Part name="img\IMG_3040 fore bulkhead_800.JPG" id="5815d16402a024412f29f9cbc8562cad"/>
+        <Part name="img\IMG_3052 aft bulkhead_800.JPG" id="4b4aa76257924d70adf019833f929a44"/>
+        <Part name="img\IMG_3070 side shell stbd_800.JPG" id="59a18f1a6b9c821c2a0261f6d233cc10"/>
+        <Part name="img\IMG_3062 longitudinal bulkhead ps_800.JPG" id="501459901d9b28a045de95be03de38bf"/>
+        <Part name="img\IMG_3036 internal structure_800.JPG" id="70e112c8d06a61219bc9f289dd853e31"/>
+        <Part name="img\IMG_2805 main deck_800.JPG" id="bf5440ac4608965557e0ca580e160b0c"/>
+        <Part name="img\IMG_2774 bottom_800.JPG" id="75891541269151fa7bae16f665f37162"/>
+        <Part name="img\IMG_2773 inner bottom_800.JPG" id="7e7ea27ece8c0603439f10c1094524d9"/>
+        <Part name="img\IMG_2777 aft bulkhead_800.JPG" id="ab54af9c01b8139a6fef708b63c57a5d"/>
+        <Part name="img\IMG_2769 fore bulkhead_800.JPG" id="7d950185df12d9ea4b72ea7076c77096"/>
+        <Part name="img\IMG_2798 side shell ps_800.JPG" id="387371ca4caba8864b34ad7c67371c5f"/>
+        <Part name="img\IMG_2799 longitudinal bulkhead stbd_800.JPG" id="fed7997b3ba244eda747c91cf713bd87"/>
+        <Part name="img\IMG_2775 internal structure_800.JPG" id="1083b03d5cc1a52508dbadc69d4c0d3f"/>
+        <Part name="img\IMG_2754 main deck_800.JPG" id="a32f0d09662e78a6737ae2822c14a371"/>
+        <Part name="img\IMG_2724 bottom_800.JPG" id="fcd9e34a72e4b18d5818e3d1e91f664d"/>
+        <Part name="img\IMG_2721 inner bottom_800.JPG" id="e17d8bb616dd0a0480f54c2e6f3e5714"/>
+        <Part name="img\IMG_2717 fore bulkhead_800.JPG" id="e3ab05cf14f23f155c280acf6fb9126e"/>
+        <Part name="img\IMG_2731 aft bulkhead_800.JPG" id="64437c3fbfdd39dd6e7e068740e3e3e2"/>
+        <Part name="img\IMG_2750 side shell stbd_800.JPG" id="467ade3607333347b68e6529e62c6158"/>
+        <Part name="img\IMG_2749 longitudinal bulkhead ps_800.JPG" id="53703476211fb183d0c6643936850b1c"/>
+        <Part name="img\IMG_2727 internal structure_800.JPG" id="edb4e6fcee9a68ba3498cffbd5fe63b0"/>
+        <Part name="img\IMG_2321 main deck_800.JPG" id="2793272455761af43587f325e441af3b"/>
+        <Part name="img\IMG_2267 bottom_800.JPG" id="f76767535d6b08004486163bbb6463c3"/>
+        <Part name="img\IMG_2268 inner bottom_800.JPG" id="dc4b517b1f27526075014365395a9c24"/>
+        <Part name="img\IMG_2289 bulkhead aft_800.JPG" id="076ec6cb45d1809fdb959e6e29e0d033"/>
+        <Part name="img\IMG_2269 bulkhead fore_800.JPG" id="2248af9dffe08b8279ef325be7d4e230"/>
+        <Part name="img\IMG_2315 side shell ps_800.JPG" id="f845455d00cbac8577ebebaae764d31b"/>
+        <Part name="img\IMG_2310 longitudinal bulkhead stbd_800.JPG" id="96b1ff3247ea5e7ab28a2b3a86be5786"/>
+        <Part name="img\IMG_2274 internal structure_800.JPG" id="9d44765e6f1d8f2b5ba9f2fa8ef8be88"/>
+        <Part name="img\IMG_2409 main deck_800.JPG" id="6fdb0cd30415e7a443abc044f0824511"/>
+        <Part name="img\IMG_2360 bottom_800.JPG" id="7265db3b74c19d3de73b1fd6dc26543e"/>
+        <Part name="img\IMG_3218 access hole from inside_800.JPG" id="9ffda3edd0fe47bcb1092315c161ec41"/>
+        <Part name="img\IMG_2347 inner bottom_800.JPG" id="7bd313ce84cb953e1bebf4c9324e39ce"/>
+        <Part name="img\IMG_2375 aft bulkhead_800.JPG" id="e6eb860b2082a9391b4b3ca7b5208c25"/>
+        <Part name="img\IMG_2348 fore bulkhead_800.JPG" id="b6d50afc32d8ad16738ad2995dfdd3af"/>
+        <Part name="img\IMG_2407 side shell stbd_800.JPG" id="b0e9d3a34c1be48e5c37b5db035013cd"/>
+        <Part name="img\IMG_2408 longitudinal bulkhead ps_800.JPG" id="86a3a2bd33e567071a2802357292083c"/>
+        <Part name="img\IMG_2389 internal structure_800.JPG" id="30d6a32b794ccc21399a9adc5bcba1c7"/>
+        <Part name="img\IMG_2593 main deck_800.JPG" id="a497a57b6b81099f23b70af97c9ab1ac"/>
+        <Part name="img\IMG_2571 bottom_800.JPG" id="bb529e1262903767451c3c93fdd3e4a4"/>
+        <Part name="img\IMG_2580 inner bottom_800.JPG" id="9f643ad4e43b25ab2e93a709000d3421"/>
+        <Part name="img\IMG_2563 aft bulkhead_800.JPG" id="fb947704c6433af52a4dc01dfd72df6c"/>
+        <Part name="img\IMG_2585 fore bulkhead_800.JPG" id="c9b82f3729e5bc91859fb65421e54822"/>
+        <Part name="img\IMG_2607 side shell ps_800.JPG" id="a2043f823220faaca175d425f8083dc3"/>
+        <Part name="img\IMG_2608 longitudinal bulkhead stbd_800.JPG" id="a7e0eea9c0566038f84713734f65e49e"/>
+        <Part name="img\IMG_2599 internal structure_800.JPG" id="675289568bf9ea4a1f2ed159a834090d"/>
+        <Part name="img\IMG_2530 main deck_800_0.JPG" id="7651eeeeaa1db1288decadf7f5d62971"/>
+        <Part name="img\IMG_2501 bottom_800_0.JPG" id="b686e6938471012122e34a500a3fe484"/>
+        <Part name="img\IMG_2498 inner bottom_800_0.JPG" id="87cfe9ee499da80d897737101e69a901"/>
+        <Part name="img\IMG_2488 aft bulkhead_800_0.JPG" id="cc669dbc0e3573a9dd5413c73403bd70"/>
+        <Part name="img\IMG_2509 fore bulkhead_800.JPG" id="f09fda068fe2c00b1102bd85da2730c2"/>
+        <Part name="img\IMG_2525 side shell stbd_800.JPG" id="65c95c0a1a26ecb6725f8d2af4e56523"/>
+        <Part name="img\IMG_2524 longitudinal bulkhead ps_800.JPG" id="bcea00f75453ead069b3de5e07680a1a"/>
+        <Part name="img\IMG_2473 internal structure_800.JPG" id="6de1084b083851eb56e897b02a35eba9"/>
+        <Part name="img\IMG_2703 main deck_800.JPG" id="ba259f3cd0767e7a292332b9e41a5223"/>
+        <Part name="img\IMG_2678 bottom_800.JPG" id="118388be8a0ece63884954b9ca350411"/>
+        <Part name="img\IMG_2671 inner bottom_800.JPG" id="0dbfe9bf3de0a30484fcf3db18721dc0"/>
+        <Part name="img\IMG_2692 aft bulkhead_800.JPG" id="ed6989ae7d3cebf523bfee5bed732d73"/>
+        <Part name="img\IMG_2668 fore bulkhead_800.JPG" id="97ce03b512d27f58574d33fcdd3dcf1e"/>
+        <Part name="img\IMG_2675 side shell ps_800.JPG" id="eb78bb577a804e996eae1f888276502b"/>
+        <Part name="img\IMG_2676 longitudinal bulkhead stbd_800.JPG" id="6ae5364671e9952e20b3913c33b0e33b"/>
+        <Part name="img\IMG_2689 internal structure_800.JPG" id="2ddcb2006f197204cd610e48eb26c2d8"/>
+        <Part name="img\IMG_2661 main deck_800.JPG" id="7510551ab77949f13a967090ebc60b49"/>
+        <Part name="img\IMG_2627 bottom_800.JPG" id="0704b668c94223822ab23cc304f21bba"/>
+        <Part name="img\IMG_2621 inner bottom_800.JPG" id="42226c87aea0e0a8c8a16cab7950a18d"/>
+        <Part name="img\IMG_2641 aft bulkhead_800.JPG" id="eac4352fc4fe3e2d7f6e786e65b12a78"/>
+        <Part name="img\IMG_2614 fore bulkhead_800.JPG" id="f91de4254e07f86e79b2ac68cc1c2a9a"/>
+        <Part name="img\IMG_2657 side shell stbd_800.JPG" id="bdabf8d0707ac64055a30750eddb390f"/>
+        <Part name="img\IMG_2656 longitudinal ps_800.JPG" id="8fc0baf7de5e8da1645f93e6462ae64a"/>
+        <Part name="img\IMG_2650 internal structure_800.JPG" id="61facddbab873caa4740134e76a337d5"/>
+        <Part name="img\IMG_2461 main deck_800.JPG" id="e568f0bdeef84ec25ea13a61093f3db3"/>
+        <Part name="img\IMG_2423 bottom_800.JPG" id="9bb61e36638446f9d5f6d173035bf274"/>
+        <Part name="img\IMG_2462 aft_800.JPG" id="e10eec6befecfc522413a4349f76a83b"/>
+        <Part name="img\IMG_2440 coating damages before repair, Side shell portside_800.JPG" id="8601cc8d6239f65909692f342ad3e552"/>
+        <Part name="img\IMG_2449 side shell stbd_800.JPG" id="fcae7afd5c3f45a5a23928038d97a403"/>
+        <Part name="img\IMG_2434 internal structure_800.JPG" id="f4b84562c400360fe49a815c0c465edf"/>
+        <Part name="img\IMG_2426 fore_800.JPG" id="845cf6705102be8052bdb7143ecf9323"/>
+        <Part name="img\IMG_20240617_081744 side shell portside after coating repairs_800_0.jpg" id="f5f30eba2c12116f71c9a1e11f216704"/>
+        <Part name="img\IMG_20240618_080637 Internal structure after coating repairs_800.jpg" id="b22c9aa615f280e6b5a64aa6ec8a20fe"/>
+        <Part name="img\IMG_2007 main deck_800.JPG" id="41606c26795adc454707fba90ace467c"/>
+        <Part name="img\IMG_2026 bottom_800.JPG" id="b25b6e97770e52a1664c08b6def797e4"/>
+        <Part name="img\IMG_2036 fore bulkhead_800_0.JPG" id="2804262fff68cd293bb9e1a82e0ffc60"/>
+        <Part name="img\IMG_2014 aft bulkhead_800.JPG" id="eabf0c481cc8c83bc0c7edf8de7bf3d0"/>
+        <Part name="img\IMG_2027 ps longitudinal bulkhead_800.JPG" id="3f169e8dea59a5ddebd6d207412165d6"/>
+        <Part name="img\IMG_2024 stbd longitudinal bulkhead_800.JPG" id="19d8c1d15c35212f62633b98cb135aeb"/>
+        <Part name="img\IMG_2016 internal structure_800.JPG" id="bea99599ef2ec6bcbf96b5f06fd3146d"/>
+        <Part name="img\IMG_20240614_181001_800.jpg" id="6d986f6beb6b4c496353217c0d98df33"/>
+        <Part name="img\IMG_20240614_181230_800.jpg" id="ccacdc40b87df06af2bbe932df9fd57d"/>
+        <Part name="img\IMG_1983 main deck_800.JPG" id="58000c1ccd2776a0628b563c176879a1"/>
+        <Part name="img\IMG_1991 bottom before coating repairs_800.JPG" id="b5ec16beeb0afc1b7c425227536c6031"/>
+        <Part name="img\IMG_1996 aft bulkhead_800.JPG" id="f83601daf1f7869de5ab01d5754154a3"/>
+        <Part name="img\IMG_1986 fore bulkhead_800.JPG" id="75322c13009cfcae16cbdf1ff03fa89d"/>
+        <Part name="img\IMG_1988 longitudinal bulkhead ps_800.JPG" id="7c7062d6bc6d7970efe6fa394507977f"/>
+        <Part name="img\IMG_1981 longitudinal center bulkhead stbd_800.JPG" id="73b72dc39f8eaed41b15ab1c6423f658"/>
+        <Part name="img\IMG_1989 internal structure_800.JPG" id="52f381206faccc4d86e3ae76c0569378"/>
+        <Part name="img\IMG_3207_800.JPG" id="23d15a2b53e1afdd85ddaaa736711798"/>
+        <Part name="img\IMG_3215_800.JPG" id="74481794292eca923dae9c4023b20dee"/>
+        <Part name="img\IMG_2049 main deck_800.JPG" id="9a0a0ec29a71d5a0e4a7f956d7eb668c"/>
+        <Part name="img\IMG_2072 bottom_800.JPG" id="dab2cc999a8553fca04b6e62d724e72e"/>
+        <Part name="img\IMG_2066 aft bulkhead_800.JPG" id="ffb97a3c7802f1c43a6cfe899649def5"/>
+        <Part name="img\IMG_2056 fore bulkhead_800.JPG" id="011fb3dbadac02d9f16748e7071671e1"/>
+        <Part name="img\IMG_2059 longitudinal center bulkhead ps_800.JPG" id="ee4c178b961e78d858bb246f134da4ce"/>
+        <Part name="img\IMG_2057 longitudinal stbd bulkhead_800.JPG" id="747f9aeea2f4835e9f2f706cada7bd88"/>
+        <Part name="img\IMG_2064 internal structure_800.JPG" id="7067f3f9680dd40b14d4c47e14b5d46e"/>
+        <Part name="img\IMG_3103 CT2S inner bottom coating repair_800.JPG" id="f6b1c3f670f41f0420fbc6295dbed40a"/>
+        <Part name="img\IMG_3107 CT2S inner bottom coating repair_800.JPG" id="3696ef7b9bd1a06abdf8764f13af8ee6"/>
+        <Part name="img\IMG_3112 CT2S inner bottom coating repair_800.JPG" id="26a914e3fb6e45585971999ec6e8750f"/>
+        <Part name="img\IMG_1928 main deck_800.JPG" id="6c06fedef24c2b55af4cf159bcc97ce2"/>
+        <Part name="img\IMG_1944 bottom_800.JPG" id="8df9dc03bfdc3b317a0561120f567414"/>
+        <Part name="img\IMG_1953 aft bulkhead_800.JPG" id="9f7ed432013554d0a330cc12d6f6c48f"/>
+        <Part name="img\IMG_1935 fore bulkhead_800.JPG" id="5537417de73ce08d0d8b2a1802f316a3"/>
+        <Part name="img\IMG_1963 longitudinal bulkhead ps_800.JPG" id="59a1fff69a4a3f06471feb1a40c71b76"/>
+        <Part name="img\IMG_1946 longitudinal center bulkhead stbd_800.JPG" id="87b3b2c419f7e640adc4ba9f7bdce151"/>
+        <Part name="img\IMG_1955 internal structure_800.JPG" id="eefc1ec7a72fae11faa2b0f4acef20c2"/>
+        <Part name="img\IMG_2087 main deck_800.JPG" id="16bda46d39b93383b02a5b88d34de6cc"/>
+        <Part name="img\IMG_2098 bottom_800.JPG" id="707644056d7cd0a2c26b8a2ffce4d262"/>
+        <Part name="img\IMG_2106 aft bulkhead_800.JPG" id="bab6e9c00bf42802c56d43f0d5770e44"/>
+        <Part name="img\IMG_2093 fore bulkhead_800.JPG" id="665f79ee0218ea77d002ae3c26e788c2"/>
+        <Part name="img\IMG_2104 longitudinal center ps bulkhead_800.JPG" id="67c6e1e56b5e631c3e67a7eadfcb52e0"/>
+        <Part name="img\IMG_2097 longitudinal bulkhead stbd_800.JPG" id="05682cc10a1073933433184e24184918"/>
+        <Part name="img\IMG_2089 internal structure_800.JPG" id="39da1fbc573d5bddbc68fd5900a331d3"/>
+        <Part name="img\IMG_1886 main deck_800.JPG" id="df9b259b14b5bfc5554274cf7aab414a"/>
+        <Part name="img\IMG_1906 bottom_800.JPG" id="139790184a5aac04ec07a98aa273310b"/>
+        <Part name="img\IMG_1912 aft bulkhead_800.JPG" id="1871a198c75b3f591fdf4ecc4a14722f"/>
+        <Part name="img\IMG_1898 fore bulkhead_800.JPG" id="e2ee7f818dd72421360fcc3dde9ae801"/>
+        <Part name="img\IMG_1913 longitudinal bulkhead ps_800.JPG" id="dfb1e1f59a253dd3afcb51da32f3a9ac"/>
+        <Part name="img\IMG_1899 longitudinal center bulkhead_800.JPG" id="d0aaf31f809e745affe3c5e5ff61a4b9"/>
+        <Part name="img\IMG_1910 internal structure_800.JPG" id="abfe113afa47951e459313c295aed738"/>
+        <Part name="img\IMG_2123 main deck_800.JPG" id="824eff526a4d98971370e649c2104028"/>
+        <Part name="img\IMG_2147 bottom before coating repairs_800.JPG" id="8519a47efe6b12e0dc4ca36507f7ddf7"/>
+        <Part name="img\IMG_2145 aft bulkhead_800.JPG" id="7ce51ac4c236bc189fc49d711f010230"/>
+        <Part name="img\IMG_2137 fore bulkhead_800.JPG" id="e11aaa1e820b861ba4d1bc398240a066"/>
+        <Part name="img\IMG_2142 longitudinal center bulkhead ps_800.JPG" id="b5f4fc4d47075adb672fd2beb997d619"/>
+        <Part name="img\IMG_2143 longitudinal bulkhead stbd_800.JPG" id="82e32a1983ce81165fcde73f90d426ce"/>
+        <Part name="img\IMG_2153 internal structure_800.JPG" id="63ea8f8d26bd7a4a0f3edace58371ae2"/>
+        <Part name="img\IMG_1846 main deck_800.JPG" id="60eeed3c1a6eb8250896bd46969beb59"/>
+        <Part name="img\IMG_1870 bottom before coating repair_800.JPG" id="3e9a811aaa9aa9df5419669927829469"/>
+        <Part name="img\IMG_1871 aft bulkhead_800.JPG" id="2df35c6212077b88bd92e48e7a73f7aa"/>
+        <Part name="img\IMG_1878 fore bulkhead_800.JPG" id="ddceeb1118b460b75c249c73abfbd3c4"/>
+        <Part name="img\IMG_1873 longitudinal bulkhead ps_800.JPG" id="2ff4f1f9890d7f746839bd9aa10188b2"/>
+        <Part name="img\IMG_1876 longitudinal center bulkhead_800.JPG" id="8a84436f4d1ebc8d9fe3c94a2a54960a"/>
+        <Part name="img\IMG_1865 internal structure_800.JPG" id="8239cc6b549c168c93d37d176440319b"/>
+        <Part name="img\IMG_2160 main deck_800.JPG" id="5212741a80fbd2aaf78f378aff8fb7f6"/>
+        <Part name="img\IMG_2179 bottom_800.JPG" id="a2b0990c529025c04a7094c459ea430e"/>
+        <Part name="img\IMG_2182 aft bulkhead_800.JPG" id="633d7f78c7082d5a4887f42576442621"/>
+        <Part name="img\IMG_2169 fore bulkhead_800.JPG" id="4af9402c7670f9c7d0e2590782ddc6bb"/>
+        <Part name="img\IMG_2180 longitudinal center bulkhead ps_800.JPG" id="d798807eef6baf3b1e8670aeb7cef114"/>
+        <Part name="img\IMG_2174 longitudinal bulkhead stbd_800.JPG" id="934cfb8986ac2ab8b9bab7fd93f0d961"/>
+        <Part name="img\IMG_2183 internal structure_800.JPG" id="bcf30d076d3949c62c2ee978e4016855"/>
+        <Part name="img\IMG_2227 main deck_800.JPG" id="ad5b865cc293c3ca93eb5f6f21e93de8"/>
+        <Part name="img\IMG_2213 bottom_800.JPG" id="4446aafd44a0b4a028f4f1ae342e0633"/>
+        <Part name="img\IMG_2224 aft bulkhead_800.JPG" id="b4352400cf7f96076230a73604c18796"/>
+        <Part name="img\IMG_2225 fore bulkhead_800.JPG" id="f5fa0d9e411828fbd29e403eea14c09d"/>
+        <Part name="img\IMG_2230 bulkhead ps_800.JPG" id="2208890a573791bc4e0e740878384c06"/>
+        <Part name="img\IMG_2217 bulkhead stbd_800.JPG" id="9e93d6ff385094f5c3cce0ef69848dad"/>
+        <Part name="img\IMG_2222 internal structure_800.JPG" id="4b92e71133fa458a7f207366faf44e0c"/>
+        <Part name="img\IMG_2205 main deck_800.JPG" id="0969ace137fbf3a8d38ea06646edab99"/>
+        <Part name="img\IMG_2199 bottom_800.JPG" id="bc69a2cd4e378b5a86fd42fa708718b4"/>
+        <Part name="img\IMG_2198 aft bulkhead_800.JPG" id="2d6a0e254daaaf005f9ff43820ac44c9"/>
+        <Part name="img\IMG_2207 fore bulkhead_800.JPG" id="67c783f5de80571373997a414ec6993f"/>
+        <Part name="img\IMG_2193 bulkhead ps_800.JPG" id="1ce3809c5be528c5b42e7e2186aa5c05"/>
+        <Part name="img\IMG_2201 bulkead stbd_800.JPG" id="b2df88a7f90bd90f47a44a5e4ff83feb"/>
+        <Part name="img\IMG_2191 internal structure_800.JPG" id="45720fa37b289de2c077d23fa7f87d3a"/>
+        <Part name="img\IMG_3194 CT3P inner bottom coating repair_800.JPG" id="3463475119af45a811ddd3d08ad27a92"/>
+        <Part name="img\IMG_3200 CT3P inner bottom coating repair_800.JPG" id="d175e8b6ce5f2c7d37ed646d10268859"/>
+        <Part name="img\IMG_3118 CT3S inner bottom coating repair_800.JPG" id="07865583feecf57ed304e1c617e583c5"/>
+        <Part name="img\IMG_3119 CT3S inner bottom coating repair_800.JPG" id="8b3419f302a639192e53b1ad8b3d568a"/>
+        <Part name="img\IMG_3187 CT4P inner bottom coating repair_800.JPG" id="2bbb4133436c9ba14fa928170e94d10c"/>
+        <Part name="img\IMG_3188 CT4P inner bottom coating repair_800.JPG" id="c7131935035c91a653c824b4e1d3a4ae"/>
+        <Part name="img\IMG_3130 CT4S inner bottom coating repair_800.JPG" id="8ceb10dcb8bd55543130c72b511fd35e"/>
+        <Part name="img\IMG_3132 CT4S inner bottom coating repair_800.JPG" id="4cc1b1aee8f61a9739d1dddd392491c2"/>
+        <Part name="img\IMG_3179 CT5P inner bottom coating repair_800.JPG" id="005893d91034a2e0088bcd330a889382"/>
+        <Part name="img\IMG_3172 CT5P inner bottom coating repair_800.JPG" id="d781d1ac2ec6c018ed8699bf16980d6a"/>
+        <Part name="img\IMG_3148 CT5S inner bottom coating repair_800.JPG" id="9ada847001f2945b12b347d0bbadff70"/>
+        <Part name="img\IMG_3152 CT5S inner bottom coating repair_800.JPG" id="0c050bc412d2598b124c08c28b73e565"/>
+        <Part name="img\IMG_3167_800.JPG" id="7c66b86230928026eb5f11c6d48c335d"/>
+        <Part name="img\IMG_3160 Drain Tk SB dome hatch coating repair_800.JPG" id="2a653b0cedc4d51c0fd731d9373a6538"/>
+        <Part name="img\IMG_3161 Drain Tk SB bottom coating repair_800.JPG" id="2291606bffb264ba2c4b8220dc0ba07d"/>
+        <Part name="img\IMG_3162 Drain Tk SB bottom coating repair_800.JPG" id="3152ef8db1a0be6dd3eb6deb3513bfd2"/>
+        <Part name="img\IMG_3203 CT2P dome hatch coating repair_800.JPG" id="0f61953b92436737ec85d0b7c4a1862d"/>
+        <Part name="img\IMG_3204 CT2P dome hatch coating repair_800.JPG" id="4927dd9c52bad22aa24f0fe4fb80a191"/>
+        <Part name="img\IMG_3141 CT5S dome hatch coating repair_800.JPG" id="5cb608c586fa92b3e4cb0d4e1a9c47a0"/>
+        <Part name="img\20240608_140021 fresh water tank_800.jpg" id="79b3b07d3126d5e55a6627dc74670a4d"/>
+        <Part name="img\20240609_091926 FW tank_800.jpg" id="d853d1b8a378f83933f2cc94ebe9751d"/>
+        <Part name="img\20240609_091912 FW tank_800.jpg" id="d387e867a89a0dd357b37803f19d8502"/>
+        <Part name="img\20240603_085902 fresh water tank sb_800.jpg" id="a17a5f9320440eb6690a699f92a7354b"/>
+        <Part name="img\20240603_085956 fresh water tank sb_800.jpg" id="205815c4df692787b45f792301595a13"/>
+        <Part name="img\20240603_085947 fresh water tank sb_800.jpg" id="5b5e3d9cc4814c47fd12d27990a1196f"/>
+        <Part name="img\IMG_20240618_080951 Internal structure after coating repairs_800.jpg" id="390ba783ed1e913e48d9905178b35557"/>
+        <Part name="img\IMG_20240618_080729 Internal structure after coating repairs_800.jpg" id="9472fb897c26bf521f938b31046ff62a"/>
+        <Part name="img\IMG_20240617_082246_800.jpg" id="2298658ec8d9b614a3f0919898eebee7"/>
+        <Part name="img\IMG_20240617_075206_800.jpg" id="be4e384b99a9833f211c04b6908e67de"/>
+        <Part name="img\IMG_3142_800.JPG" id="5beabb4655da889b05bfd06a0ba47bc1"/>
+        <Part name="img\IMG_3163_800.JPG" id="43af33bf30449b4ce60b783095485cce"/>
+        <Part name="img\IMG_0625 VOID space no.782_800.JPG" id="1f18ed02d4fd33dea072f7167ef41965"/>
+        <Part name="img\IMG_0626 VOID space no.782_800.JPG" id="f9fba02458972895da0ff2bb52356b01"/>
+        <Part name="img\IMG_0628 VOID space no.782_800.JPG" id="8eb9060e29b48af723e6d1a9f658d562"/>
+        <Part name="img\IMG_0631 VOID space no.782_800.JPG" id="5d39a1f19e1694e6a6ea56a25a478749"/>
+        <Part name="img\IMG_0632 VOID space no.782_800.JPG" id="b844e5217251df915024fc07f75f5f07"/>
+        <Part name="img\IMG_0618 sewage collecting tank no.768_800.JPG" id="6dc72887848cfb1b1cd3e86ad71de3aa"/>
+        <Part name="img\IMG_0619 sewage collecting tank no.768_800.JPG" id="2be49c22023f39aed9d9b875bd507c26"/>
+        <Part name="img\IMG_0620 sewage collecting tank no.768_800.JPG" id="9eeacdb703d5adcb3c6369aafec30e7b"/>
+        <Part name="img\IMG_0622 sewage collecting tank no.768_800.JPG" id="f6e76d80005fb51439a528e8ed7c6373"/>
+        <Part name="img\20240603_131201 FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" id="7035957956035d7d091b21b9a1a6e351"/>
+        <Part name="img\20240603_131156 manhole, FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" id="eba0b30459018ca5d0f91e19c581cdfd"/>
+        <Part name="img\20240603_131148 FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" id="bea83abed22f501a5f8714f992bf21f9"/>
+        <Part name="img\20240603_131133 FO fuel tank in ER no.760, HFO bunker center and overflow tank_800.jpg" id="e40abfd807f76f9b0cb0a4b37d4229c2"/>
+        <Part name="img\20240617_094059 fuel tank, HFO settling tank, no.756_800.jpg" id="8592bf38bd2b08ad349bcaf89060dd98"/>
+        <Part name="img\20240617_094056 fuel tank, HFO settling tank, no.756_800.jpg" id="913c333b52ee1b00590e247f7273257d"/>
+        <Part name="img\20240617_094046 fuel tank, HFO settling tank, no.756_800.jpg" id="552b229c3a7829e73d78e3767ebc3787"/>
+        <Part name="img\20240617_094006 fuel tank, HFO settling tank, no.756_800.jpg" id="a36343cc84f3a2cbfc46a293c5a129c1"/>
+        <Part name="img\20240603_134348 engine room, purifier room general, separators, FO fuel oil preparation equipment_800.jpg" id="dd63509520519757a092383ebf63d406"/>
+        <Part name="img\20240603_140155 engine room, main engine, general condition, cranckcase doors, foundation bolts_800.jpg" id="6bb7b94d5851da6c68652f8f83e64d1b"/>
+        <Part name="img\20240604_141017 engine room, lavatory, air compressors, general_800.jpg" id="568b32dee43a3dd9e449bba7ad27182c"/>
+        <Part name="img\20240618_132436 ship hull front portside, bow_800.jpg" id="b881a6282fe1e30b6cbc13ebbd845608"/>
+        <Part name="docs\62002-2-2a Construction Plan Midship.pdf" id="5ed282d2ccaa0eee385dae96ed48e69c"/>
+        <Part name="docs\62002-2-1a Construction Plan Midship.pdf" compression="GZIP" id="c19205a4d2a39f80ee013204bd7a3d5a"/>
+        <Part name="docs\62001-1 General arrangement.PDF" id="e1b9db4ed9ea6dbd0d9da3857e6342fd"/>
+        <Part name="img\20240603_095643 main deck starboard mooring winch, wide_800.jpg" id="5114751c53dcee67d62392cb55dc62d8"/>
+        <Part name="img\20240603_095046 main deck midship portside_800.jpg" id="6e0d2d75fa3d63a4e5dbca560394e1d9"/>
+        <Part name="img\20240603_094959 main deck midship starboard_800.jpg" id="915a0afcabe4e34e5faffa9e0082fe29"/>
+        <Part name="img\20240603_094900 main deck aft portside_800.jpg" id="f7ec6f79c8f4dced521d748038926f1b"/>
+        <Part name="img\20240603_094855 main deck aft starboard_800.jpg" id="c14974209b6a903b42795ed77a068b6b"/>
+        <Part name="img\Main deck midships sb after docking_800_0.jpg" id="1471462d83554c4eba9b4d44a43146f6"/>
+        <Part name="img\Main deck midships ps after docking_800.jpg" id="288932d93c8f8586661fdb5b25c49086"/>
+        <Part name="img\Main Deck Fore sb after docking_800.jpg" id="ec361451a673f2e16d43f797eb4e13c7"/>
+        <Part name="img\Main deck Fore ps after docking_800.jpg" id="e9e048c3545d8d745e5a56e0b6f851a4"/>
+        <Part name="img\Main deck Aft sb after docking_800.jpg" id="a554bc8ee395ad692b84e6cbdd8d4f62"/>
+        <Part name="img\Main deck aft ps after docking_800.jpg" id="8400ce81908962f38f79cdbf2c492bf4"/>
+        <Part name="img\IMG_3095 afterpeak, main deck_800.JPG" id="b0cab872343af3fd0b441554ffbbbbbc"/>
+        <Part name="img\IMG_3093 afterpeak bottom_800.JPG" id="8b865bb2c0701ce771aca59186ef0710"/>
+        <Part name="img\IMG_3084 afterpeak, fore bulkhead_800.JPG" id="71e95bcb8f63621e906cfc172ff5baf7"/>
+        <Part name="img\IMG_3082 afterpeak side shell_800.JPG" id="f7a082887fd74d1f812d949ac3aa465f"/>
+        <Part name="img\IMG_3091 afterpeak side shell_800.JPG" id="0ac40779cd771d1c5ad2631e650df6d5"/>
+        <Part name="img\IMG_3088 afterpeak internal structure_800.JPG" id="0527909f1c15965f76066af1ac85c67f"/>
+        <Part name="img\cylinder liner_800.png" id="6352fd34581255572882996b32690357"/>
+        <Part name="img\turbo charger_800.png" id="00bc41737e1f4a68747418f95dff3de4"/>
+        <Part name="img\cpp system_800.png" id="194f0b7924e638c3a1a950cc46103d20"/>
+        <Part name="img\cpp test_800.png" id="8e1bf27665608cf5bd1e406940fdbd3b"/>
+        <Part name="img\compressor_800.png" id="df94967fa509e67ce56076fabe438918"/>
+        <Part name="img\firea alrm_800.png" id="aa0507a6d5c137a4e8f6514b34b4c2c2"/>
+        <Part name="img\economiser_800.png" id="478b6276b9e9fb1e5d7535a4d97c1133"/>
+        <Part name="img\lube oil pump_800.png" id="4971e61cda3230bd294bd91b1d8392eb"/>
+        <Part name="img\20240617_093805 OWS new 15-ppm device_800.jpg" id="f0ca2282eebd94eda931f81088fa4794"/>
+        <Part name="img\20240603_132517 OWS, water mists system, evac system equipment_800.jpg" id="405cc4078472271aaae525f120cae132"/>
+        <Part name="img\20240603_133328 OWS starter and control panel_800.jpg" id="98f42b7d6457405316cf7b9c21cfdbd6"/>
+        <Part name="img\20240603_133337 OWS 15-ppm device before replacement_800.jpg" id="522a3a035a418bf13e0bd878f81960b4"/>
+        <Part name="img\20240603_133345 OWS, bilge pump, 30way valve_800.jpg" id="8e09d1e0f92e147875141ed3d3ea59a5"/>
+        <Part name="img\20240603_140825 engine room bilges suction strainer, bilge level alarm float ER forward_800.jpg" id="12bf202b381aed0baa858492988e6145"/>
+        <Part name="img\20240603_135918 tank top under stern tube forward seal, bilge alarms_800.jpg" id="fb3087aefff7cdb23b2255b3cd2f8572"/>
+        <Part name="img\20240603_132547 evac system pump_800.jpg" id="6f6af44ad5eca709682db0737cbcce05"/>
+        <Part name="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800.jpg" id="b45c84c6b60ee27fe923396ab0ea9e93"/>
+        <Part name="img\20240603_133349 evac system control panel_800.jpg" id="7285934c86fb2b21fb43eeef87413312"/>
+        <Part name="img\IMG_0607 bilge collecting tank_800.JPG" id="f860a11ff6d8fd4b52071727c372e94e"/>
+        <Part name="img\IMG_0608 bilge collecting tank_800.JPG" id="4d4f95a97265986ac4e5170762f9f8b9"/>
+        <Part name="img\20240604_141028 bilge collecting tank no.769_800.jpg" id="87bdb72643cc47cef9832142639684ac"/>
+        <Part name="img\20240603_133658 thermal oil tank bulkhead, ER tween deck general view, ER chemical store_800_0.jpg" id="d41483a6bcd331972b41b81b2dcaf1d0"/>
+        <Part name="img\pro-bztf7cdj_800.jpeg" id="54b48d0715c851af0dff8e5861454a1b"/>
+        <Part name="img\pro-ows4ZBfJ_800.jpeg" id="d8749694a9c65fbc648cb5940171da5f"/>
+        <Part name="img\20240603_094534 CO2 hoses every 10 years, hydrauxtatic test question mark_800.jpg" id="061766b538bfdf1429a018b4d9a07e29"/>
+        <Part name="img\20240617_082656 CO2 bottles taken for hydr test, hoses replace_800.jpg" id="f179d7105ed62e1bf2676d9b10fa613c"/>
+        <Part name="img\20240604_142020 co2 alarm whistle, signal_800.jpg" id="a5b4e67d18c52cffb8479f1a91ca961c"/>
+        <Part name="img\20240603_134230 portable foam applicator in ER_800_0.jpg" id="220fa73c796e9c265902862d2b91c61d"/>
+        <Part name="img\20240603_134246 semi-portable fire extinguisher in ER, ABC dry powder_800.jpg" id="4fa3bd3f1f68dea5418838991840fcc1"/>
+        <Part name="img\20240603_131841 fire hose in er, ME ducts_800.jpg" id="6e1d150d41802bf4ac871f4bd7e2057c"/>
+        <Part name="img\20240603_134234 fire hose in ER_800_0.jpg" id="3a2d21b458eaacdfaad2ed70223e33b2"/>
+        <Part name="img\20240603_134256 fire hydrant in ER_800.jpg" id="caab33221e998d3b6032de019e0809b8"/>
+        <Part name="img\20240603_140343 fire and foam pump el motors_800_0.jpg" id="595424abfacfad78ef7b53f48ef2c2ec"/>
+        <Part name="img\20240603_132022 steering gear room emergency escape hatch_800_0.jpg" id="96126ee75d463fb01b7f93ffa525c800"/>
+        <Part name="img\20240603_132128 engine room steering gear room emergency escape, pv valve test jig, device_800.jpg" id="4ca8c283133d269c99b0029716c4bde6"/>
+        <Part name="img\20240603_134539 engine room escape ladder, route, fire door_800.jpg" id="78dc92fa45696170e7b7ed7ce0dc2f3a"/>
+        <Part name="img\20240603_134548 engine room emcy escape route ladder_800.jpg" id="5d5f4a91fd7c246a8f05c371a165bbad"/>
+        <Part name="img\20240603_090859 hatches, rubber retaining channel, rubber seals_800.jpg" id="7f239154ed71236ce8e6830ce4691ef2"/>
+        <Part name="img\20240603_132128 engine room steering gear room emergency escape, pv valve test jig, device_800_0.jpg" id="4ca8c283133d269c99b0029716c4bde6"/>
+        <Part name="img\20240603_134533 engine room escape fire door, IMO sign_800.jpg" id="20acb269d34397871ab03780ff6da5c8"/>
+        <Part name="img\20240604_140517 ECR aircon_800.jpg" id="193c58900aa45693b8151a33ed5106b9"/>
+        <Part name="img\20240603_140906 engine room bilge tanktop piping, LO valve_800_0.jpg" id="eda6f27c17ddd0a1ab1d97b07ab2f8cc"/>
+        <Part name="img\20240603_140900 engine room bilge tanktop piping, pipe insulation, lighting in bilges_800_0.jpg" id="2b21cfbbfd5ba8ab9fb63cfbd3a91eae"/>
+        <Part name="img\20240603_140840 engine room bilges, under main engine_800.jpg" id="95445818aab4b16b2e5af394e6e701cd"/>
+        <Part name="img\20240619_111607 main engine rear side, crankcase covers, oil mist detector, cooling piping, safeties el box_800.jpg" id="7daf67bc877f5b68257340410492a91e"/>
+        <Part name="img\20240604_140130 expansion tanks in ER, AE, ME HT and ME LT_800.jpg" id="db2b924574b78607514307329c2fea23"/>
+        <Part name="img\20240603_135238 ME top, ME exhaust gas duct, insulation, ER general, Purifier room ventilation_800.jpg" id="114a9ff1b903bbf2c0b76756632562a7"/>
+        <Part name="img\20240603_135230 ME top, ME cylinder covers, ME free end side_800.jpg" id="09ff16aebeec362cf459c0186a4b6fbc"/>
+        <Part name="img\20240603_132519 sewage tank bulkhead, evac system equipment_800.jpg" id="77acc68ca8eefc04701b3f575cadf977"/>
+        <Part name="img\20240603_131514 engine room, tank cleaning heater lagging, thermal oil valves_800_0.jpg" id="518613603bac6da1d2254cf9b4f8fbcb"/>
+        <Part name="img\20240603_114557 main engine exhaust duct thermal lagging_800.jpg" id="d78270c4662fb091469f49d59bfad4f4"/>
+        <Part name="img\20240603_133738 aux engine exhaust gas ducts and insulation_800.jpg" id="7829c130c5db62db0a88f2b58b6a37dd"/>
+        <Part name="img\20240619_145646 new insulation on the exhasut duct support for the flap actuator_800.jpg" id="a9b38e88639f34b4a0b4cd56ed4af564"/>
+        <Part name="img\20240603_140609 ME turning gear el motor_800.jpg" id="7c7f2cd7c09a6e07cb325869bd1ab0c3"/>
+        <Part name="img\20240603_140435 Main Engine cylinder block, explosion relief valves, foundation bolts_800.jpg" id="85affae64cfd6346a696d342b002e9fc"/>
+        <Part name="img\20240603_134349 engine room, purifier room, separators, FO fuel oil preparation equipment_800.jpg" id="8cbc457b1eb0873459162a30fb3220ef"/>
+        <Part name="img\20240603_134604 purifier room ceiling, vent ducts, cable trays, fire sensors, lighting_800.jpg" id="4dcb34a9de7ae53aedb6c489b854d563"/>
+        <Part name="img\20240617_082326 emcy generator batteries removed_800.jpg" id="3e95c520134085018d8aaf4cd09bbefe"/>
+        <Part name="img\20240617_082321 emcy generator new light_800.jpg" id="7ff5e2f14a16d6cf413a1aa5e14d2326"/>
+        <Part name="img\20240603_113603 emergency generator - Copy_800.jpg" id="b87fdd262820897c45f9044f2f21bd97"/>
+        <Part name="img\20240603_131858 ER workshop_800.jpg" id="3b58e2c46229109c95835c8eeeab78fe"/>
+        <Part name="img\20240603_131855 ER workshop tools_800.jpg" id="ae4c2c37adbd6fae42ade1b9e98d5122"/>
+        <Part name="img\20240603_132014 workshop store and spares, drilling machine_800.jpg" id="06dfd949b1c87fd7469d0f7095d8baa1"/>
+        <Part name="img\20240603_132155 steering gear machine, railing, steering gear room general, expansion tank, emergency replenish LO tank, emcy communication_800.jpg" id="6be91fd1cbc0693aa91d153cb6ebb355"/>
+        <Part name="img\20240619_083401 Main engine assembled after overhaul_800.jpg" id="6c1ff72d722b2fae2bea2c5088c0c670"/>
+        <Part name="img\20240608_140119 ME cylinder heads covered_800.jpg" id="adb3eb18c07685d25cbf148825b0835c"/>
+        <Part name="img\20240603_133627 ME top view , general, cable run_800.jpg" id="79f0263f43c2e13d97d996ae78727f9a"/>
+        <Part name="img\20240603_140724 Main engine seen from aft, ME TC, gear box solenoids and pressure trnasmitters_800.jpg" id="86d324521e257fb9dacb0da6d637bb0c"/>
+        <Part name="img\20240618_134556 ME turning gear_800.jpg" id="62ccf6098a07c9c19ead7052800eebaf"/>
+        <Part name="img\20240619_152431 Main engine tested at 650 rpm, local panel_800.jpg" id="4f32a03f1314dc4ee4a3469999ba1a93"/>
+        <Part name="img\20240619_155856 main engine control console, oil mist detector alarm activated_800.jpg" id="4d708f3370c0dff304a2db5a20ab22c1"/>
+        <Part name="img\20240619_154949 ME shut down trigged, LO trip tested_800.jpg" id="d25e0072456660f11dd6df73b94a9764"/>
+        <Part name="img\20240619_154739 testing of LO low pressure trip during operation of the main engine_800.jpg" id="be4b05f7b307e28cc02ecaceee35d634"/>
+        <Part name="img\20240603_140433 main engine alarm and safeties sensor box_800.jpg" id="e410c0fe3a23e18a1f348e83d7dfc59c"/>
+        <Part name="img\20240619_154734 main engine rear side, safety solenoids box_800.jpg" id="e35af6534cd1c346926b133889895634"/>
+        <Part name="img\20240603_135235 ME top, ME cylinder covers, indicator valves - Copy_800.jpg" id="965d302804230e6c45e1df4f78222df4"/>
+        <Part name="img\20240603_140435 Main Engine cylinder block, explosion relief valves, foundation bolts - Copy_800.jpg" id="e18c352d1c2ff2f9ed8463d5c4392536"/>
+        <Part name="img\20240619_152326 Main engine tested at 650 rpm, local panel_800.jpg" id="52de3e2c2dee2b462a50495f46eb5845"/>
+        <Part name="img\20240609_092325 ME crankshaft, replacement of bearings, piston suspended_800.jpg" id="e8cfe44e25c5d53d025667d6c9e2e8c9"/>
+        <Part name="img\ME crankshaft pin measurement_800.jpg" id="3671f9be763d3020bbb5d0201c4d522b"/>
+        <Part name="img\20240619_133629 main engine thrust and main bearings, old ones_800.jpg" id="c33231035937537e1783907d9c7b5304"/>
+        <Part name="img\20240618_134319 main engine old bearings' condition_800.jpg" id="b5e3f021caacbe0b916aaf503824b213"/>
+        <Part name="img\20240609_092357 ME crankshaft, replacement of bearings, piston suspended_800.jpg" id="e65ef8183246f13931cc050156d03440"/>
+        <Part name="img\20240609_092147 ME crankshaft, replacement of bearings_800_0.jpg" id="ae6470ee66d00f7177b31a5baf6680b9"/>
+        <Part name="img\20240603_140611 ME air cooler, FW cooling pipes_800.jpg" id="3e80dce752cb5732e7a323738198fcba"/>
+        <Part name="img\20240619_152246 main engine crankcase and camshaft doors, rear view_800.jpg" id="433cfed5b727ec90e425f8a442a65e59"/>
+        <Part name="img\ME piston unit 1, which was only overhauled_800.png" id="47b7cbb0d244fd1931bf3c5d3e60b097"/>
+        <Part name="img\20240618_101925 ME cylinder heads inspection_800_0.jpg" id="3c962913c24dfc535fbac98d3e5f663f"/>
+        <Part name="img\ME exh valves from the cylinder heads_800.jpg" id="8977fcb48597cdd9ca8029ef9597432c"/>
+        <Part name="img\IMG_1718096240507 main engine hydraulic damper_800_0.jpg" id="1aec618d3d918f04565e3223daea9e71"/>
+        <Part name="img\camshaft bearing clearances_800.jpg" id="b40505a6f25ff907d2ae750caaf95f9f"/>
+        <Part name="img\ME timing gear backlash measurement_800.jpg" id="8da6d7fddb76201911c1dc27dca6b07d"/>
+        <Part name="img\20240603_140121 shaft generator reduction gear, gear box_800.jpg" id="b39009e56924055e76d24538e499a7e5"/>
+        <Part name="img\20240619_111624 main engine crankcase covers, stay and foundation bolts_800.jpg" id="5ff6fdf58de5b3eb8e9a9835e5a2df57"/>
+        <Part name="img\FLIR1983 ME crankcase doors, when running_800.jpg" id="6d651fdc9505291284f31ea6df270a1a"/>
+        <Part name="img\20240603_140435 Main Engine cylinder block, explosion relief valves, foundation bolts - Copy - Copy_800.jpg" id="a77a9fcba0199331f206e1a9e3a72647"/>
+        <Part name="img\IMG_0641 ME main engine crankshaft hydraulic damper, new mounting_800.JPG" id="f5b27a45a059c0e61131952f0c6c2988"/>
+        <Part name="img\IMG_1718092226465 main engine hydraulic damper_800.jpg" id="681cb93caeed1a9789658d4ccf033ea6"/>
+        <Part name="img\20240617_094333 main engine fuel injection pumps, FOIP_800.jpg" id="d073d206a46ee9b9531dec9e896aa45e"/>
+        <Part name="img\20240617_094331 main engine fuel injection pumps, FOIP_800.jpg" id="226ab9bd4f48006ebe4b8dae6de85c30"/>
+        <Part name="img\20240619_083504 Main engine attached pump after overhaul_800.jpg" id="efb63eddcb652c9768e30c5c04f5ecac"/>
+        <Part name="img\20240603_140608 ME air cooler cooling pipes_800.jpg" id="4797ae89e1a0752da723e7163e204bf5"/>
+        <Part name="img\FLIR1986 ME FW attached cooling pump when operating_800.jpg" id="9b97f82120a6b40f6fc7726b41455a47"/>
+        <Part name="img\FLIR1987 ME FW attached cooling pump when operating_800.jpg" id="00f997f5dbf2943b6290fcf62eb9551e"/>
+        <Part name="img\20240603_135238 ME top, ME exhaust gas duct, insulation, ER general, Purifier room ventilation_800_0.jpg" id="114a9ff1b903bbf2c0b76756632562a7"/>
+        <Part name="img\20240617_091940 ehxaust gas leak repaired in ER duct_800.jpg" id="fdca5c238a2393acb5163cacdecb73d3"/>
+        <Part name="img\20240619_145646 new insulation on the exhasut duct support for the flap actuator_800_0.jpg" id="a9b38e88639f34b4a0b4cd56ed4af564"/>
+        <Part name="img\20240609_084440 stern tube seals renewal, liner check_800.jpg" id="81acd693879ec863ab1aaba0c6ec93e2"/>
+        <Part name="img\20240604_140130 stern tube gravity tank_800.jpg" id="ac2d3d10904984b3ba17021636d0591d"/>
+        <Part name="img\20240603_140657 emergency propulsion panel sterntube tachometer_800.jpg" id="ad91032902f188f382a3eabae186cc07"/>
+        <Part name="img\20240603_135922 stern tune forward seal, propeller shaft_800_0.jpg" id="c5a702e6df810731e9fa75810208acc8"/>
+        <Part name="img\20240608_140652 propeller shaft stern tube fore_800.jpg" id="ae11a603b2ae9ae3f53c420a08a3fdfd"/>
+        <Part name="img\20240609_084421 stern tube seals renewal, liner check_800.jpg" id="57d697b9a60eb897897a332d0976a602"/>
+        <Part name="img\Stern tube aft new spacer in position_800.jpg" id="68b56117c913508f0fe608e7889fa78a"/>
+        <Part name="img\Stern tube fore seal liner condition._800.jpg" id="886af888a65906412778e13f30853305"/>
+        <Part name="img\20240618_090741 propeller, blade, sb starboard_800.jpg" id="afee4d9d687a7c8b5141c9e4aa57961a"/>
+        <Part name="img\20240618_090646 rudder blade, propeller_800_0.jpg" id="b9a5f8472200392e6d401b51fa5bb4bb"/>
+        <Part name="img\stern tube gravity tank was cleaned_800.jpg" id="cfc4fe1c2601dad083cab40af8fd14dc"/>
+        <Part name="img\Fwd monitoring tank was cleaned and inspected_800.jpg" id="bc57947952787c92e2e37fdc70a815a5"/>
+        <Part name="img\propeller shaft wear down_800.jpg" id="2a604ea771f6bc8a512324b529fd9fb9"/>
+        <Part name="img\20240619_152457 main engine and gearbox coupling, engaged_800.jpg" id="dc4d43d19502691870d4486604dbe58a"/>
+        <Part name="img\20240618_134804 ME coupling and engaing lever, gear box_800.jpg" id="fda26e09668c79ea71144f59e796475a"/>
+        <Part name="img\20240603_140644 engine room, shaft generator, coupling cover_800.jpg" id="63f920dc8dd30781b741ad903cfd532a"/>
+        <Part name="img\20240603_140651 vulcano coupling for shaft generator to gear box (probably)_800.jpg" id="3d37e7b118415ade0917da28bf1bb1c4"/>
+        <Part name="img\20240603_135716 FRAMO emergency propulsion motor, engaging lever_800.jpg" id="2be57cc4dd5d53c7a2e0a8df1b054934"/>
+        <Part name="img\20240603_140737 ME coupling with gear box_800_0.jpg" id="2e3ee7a056a87a4706800280bea4d778"/>
+        <Part name="img\20240603_134140 Aux engine 1 rear side view_800.jpg" id="c7a191a96077e06880822105230df7a2"/>
+        <Part name="img\20240603_134149 Aux engine 1 front side view_800.jpg" id="17f5f691341a2a36857e67df86602a45"/>
+        <Part name="img\IMG_1717933117666 aux engine 1 overhaul_800.jpg" id="5f640af9808e1b34d536b99b953071b7"/>
+        <Part name="img\IMG_1718178586116 Aux engine 1 overhaul_800_0.jpg" id="653d16a0bf868c0cf35aa248121f4999"/>
+        <Part name="img\20240617_114003 aux engine 1 testing, AE1_800.jpg" id="5864ca59483660a4df223c330694a41c"/>
+        <Part name="img\20240618_163946  AE1 in operation testing, main switchboard_800.jpg" id="4c6e3bd0adc5ed027eb995f370e70de9"/>
+        <Part name="img\20240617_114015 AE1 parameters on the technician computer during testing_800_0.jpg" id="a66b7e124080a1fed824503b34aeea47"/>
+        <Part name="img\20240603_133837 Aux engine 2 front side view_800.jpg" id="3920681de5f7e537f5d077cd33d1c08f"/>
+        <Part name="img\20240604_162150 Aux engine 2 overhaul_800.jpg" id="09cec996eabdbe08a0586d3b0e4be298"/>
+        <Part name="img\20240604_162126 Aux engine 2 overhaul_800.jpg" id="7061d3b5738464acb9248c1fc4a8d2ac"/>
+        <Part name="img\20240605_083233 new AE2 cylinder head block_800.jpg" id="647a29348535ed1bc41c0a287773daeb"/>
+        <Part name="img\20240605_083613 AE2 pistons renewed, old conrods, new bearings_800.jpg" id="6e85a030a6363e6dcb2e9296f7534dde"/>
+        <Part name="img\20240603_134208 Aux eng 3 rear side view_800.jpg" id="b63d5523bbfbec680f62a1b7931e99c1"/>
+        <Part name="img\20240619_083036 Aux engine 3 under 26% load_800.jpg" id="fb4bede8daa93b5e4d48928972edc582"/>
+        <Part name="img\Aux engine 3 tested under 70% oad_800.jpg" id="91de9007bc9f0862257323ad62ff2ed0"/>
+        <Part name="img\20240603_113755 emergency generator general, EDG_800.jpg" id="35e962f662d38d68ff9aa8a154b0dca7"/>
+        <Part name="img\20240618_150443 emergency generator panel, emcy swithcboard_800.jpg" id="51c2def0853e0b2ea80b6ebca91cf67b"/>
+        <Part name="img\20240617_094619 HFO transfer pump_800.jpg" id="7b89526b58a7374f722c65a18dc4dea7"/>
+        <Part name="img\20240603_134903 FO preparation equipment, Fuel oil supply pumps_800.jpg" id="0fc0d127512be2c733540b52282c3f5d"/>
+        <Part name="img\20240603_134920 fuel oil preparation equipment, FO supply and circ pumps, Fo back-wash filter, mixing column, FO heater_800.jpg" id="deac6b9c3b74e85fe3eb378902d8f157"/>
+        <Part name="img\20240603_134729 FO purifier, control panel_800.jpg" id="1a3c65113074405165a120fdffc311fe"/>
+        <Part name="img\20240617_093955 purifier room_800.jpg" id="6e5af654a1abca96278a45fdbcdaac4e"/>
+        <Part name="img\20240619_140837 FO purifier starter panel, purifier in operation_800.jpg" id="5125ed74fb7a9fb23328b0dc1a94fa6d"/>
+        <Part name="img\20240603_140244 engine room, mgo transfer fuel pump, fuel tracing line junction box_800.jpg" id="e30b3d4f696f56e40b5a607040b123fc"/>
+        <Part name="img\20240603_133756 probably Aux engines DO supply pump_800.jpg" id="c88e690f2acca2a58e824deeff35fea6"/>
+        <Part name="img\20240603_134614 DO purifier_800.jpg" id="f271b92b53de3382bad4e0f45bbfc553"/>
+        <Part name="img\20240603_140454 LO purifier feed pump_800.jpg" id="dc279bc7967da100b4cd7eb86aff9449"/>
+        <Part name="img\20240603_140627 LO transfer and fill pump_800.jpg" id="70eebb4b18684d4d0e51ad0833605884"/>
+        <Part name="img\20240603_140222 lube oil LO pump_800.jpg" id="fb2ea96e3fab59226244203a90a00145"/>
+        <Part name="img\20240603_134626 separator, LO purifier, el motor, control panel_800.jpg" id="b9578c87e59420af2fb1d7ba0d505d9a"/>
+        <Part name="img\20240603_140527 LO purifier feed pump_800.jpg" id="cf7e096cb56029e19c869406f16e48c6"/>
+        <Part name="img\20240603_140509 sludge pump, piston pump_800.jpg" id="915e859c05dd1fcf5ff3b8fbee1fb65d"/>
+        <Part name="img\FLIR1707 thermal oil pumps_800.jpg" id="d096aefd0c80f18fcc52d523eee6b387"/>
+        <Part name="img\FLIR1697 thermal oil pumps, economiser pumps_800.jpg" id="e7b0bdc7c77687428d10d107a14c0d20"/>
+        <Part name="img\FLIR1706 thermal oil pumps_800.jpg" id="498e6009c4254ff220395c03801e6d47"/>
+        <Part name="img\FLIR1696 thermal oil pumps, economiser pumps_800.jpg" id="1d1db70a15f829b7d3bf94c53f57e081"/>
+        <Part name="img\20240619_111402 boilers thermal oil pumps_800.jpg" id="e75878fe0b90cac2374c75653a9ac615"/>
+        <Part name="img\20240619_145438 thermal fluid pumps 1&amp;2, Economizer Thermal fluid pumps 1&amp;2_800.jpg" id="4fbc0dafdaebe356e52dcd4a45c97de8"/>
+        <Part name="img\20240603_131603 thermal fluid circulating pumps, economiser pumps_800.jpg" id="4ab385fa760bd21bb658a1c63e873c28"/>
+        <Part name="img\20240618_093246 HT pump running after overhaul_800.jpg" id="f561ce362d258897024c52038295835f"/>
+        <Part name="img\20240617_153935 HT cooling pump overhauled, new mechanical seal_800.jpg" id="b36d79156f13e6e9685038322a3674a6"/>
+        <Part name="img\20240617_154328 HT pump casing and shaft_800.jpg" id="e5d71252ee8f2dbeaaa23a9f40091cc1"/>
+        <Part name="img\FLIR1965 ME FW HT pump_800.jpg" id="b080c08f37423028784df8cbdb75dac9"/>
+        <Part name="img\FLIR1964 ME FW HT pump_800.jpg" id="7124a7fe326d7ff9c6b77c8e7bfc04d0"/>
+        <Part name="img\20240618_134456 LO stby pump after overhaul_800_0.jpg" id="82e6b754fa96389308c4055f04655d89"/>
+        <Part name="img\20240603_140110 LT FW cooling pump, temp regulating valve, emergency sea water cooler, heat exchanger - Copy_800.jpg" id="d574a1af6483b5f8e5bd2847f41b909f"/>
+        <Part name="img\20240603_140101 AC aircondition sea water cooling pump_800.jpg" id="be10bd7cbc81e4cfd43e4812c5b000a6"/>
+        <Part name="img\20240603_140051 FWG SW cooling pump and AC SW cool pump_800.jpg" id="06f8c80af94b7d5601c7ff6580ea9557"/>
+        <Part name="img\20240603_133306 FWG distillate pump, ejector_800.jpg" id="d781c824934844d6b3862d11d211e757"/>
+        <Part name="img\20240619_140210 testing fire pump in ER, el panel starter for fire, foam. bilge pumps_800.jpg" id="c717226e547d529fd260937a719a0a17"/>
+        <Part name="img\20240603_140342 foam and tank cleaning emergency pumps_800.jpg" id="3ae412e984063819710f42bb533691d5"/>
+        <Part name="img\20240619_141834 Tank cleaning pump testing, pressure gauge when used as fire pump_800.jpg" id="ff1bd6a7010c73533f9a650e7d73f7df"/>
+        <Part name="img\20240619_134543 tank cleaning pump tested to substitute fire foam pump - Copy_800.jpg" id="d43d40647c7cfe771738ffb9e7561060"/>
+        <Part name="img\20240603_104542 bow thruster room fire pump_800.jpg" id="09e35b642ea07f9678a2024ca5f6b083"/>
+        <Part name="img\20240603_104520 bow thruster room fire pump_800.jpg" id="d1130208504b90e3292f6a14b67323fb"/>
+        <Part name="img\20240603_133709 hydrophore pumps_800.jpg" id="e9e8096619e6dbcf29ac1c0d89ab02f7"/>
+        <Part name="img\20240603_133726 domestic water heater and central water heating system heater - Copy_800.jpg" id="7f889e51d67687399cb3e75c850e45a0"/>
+        <Part name="img\20240603_140103 FWG SW cooling pump_800.jpg" id="aec6c7da9fb36236e7f716fa1ffa07ec"/>
+        <Part name="img\20240603_134219 starting air compressor, when running - Copy_800.jpg" id="f826b714fb7312b600832b402672a08e"/>
+        <Part name="img\20240603_134221 starting air compressor_800.jpg" id="3ff0ea415338a81b7227d5c87e2a2634"/>
+        <Part name="img\20240603_131512 engine room, service air compressor, air dryer_800.jpg" id="cbc557a899f54e5223af5c3c920f15f4"/>
+        <Part name="img\20240603_132353 air dryer reservoirs_800.jpg" id="14242cf02984e00a2211500f3114ff8d"/>
+        <Part name="img\20240604_140243 aircon compressor and condenser_800.jpg" id="22f06a0aa806d0ccd7a432f0051edb38"/>
+        <Part name="img\20240604_140249 aircon compressor and condenser, condenser planned for renewal - Copy_800.jpg" id="117b816e25b3ffb6c7a473f9ff3c6774"/>
+        <Part name="img\20240617_092754 ER service compressor_800.jpg" id="ae67831d632caa5c135d31a93bbe2dde"/>
+        <Part name="img\20240608_135856 service compressor vent fan renewed_800.jpg" id="d780a1d81aa3d3ded105715c36090007"/>
+        <Part name="img\IMG_1718109897439 ER vent fan_800_1.jpg" id="5ec02d625e4cb16c4bd96de798548f16"/>
+        <Part name="img\IMG_1718261579559 ER vent fan installed_800_0.jpg" id="7d6d6da9e1f815aa0cc1e670c7a23296"/>
+        <Part name="img\IMG_1718189456275 ER vent fan installed_800_0.jpg" id="21f716c5693eec919d2ad6382738e787"/>
+        <Part name="img\20240608_135541 corrosion maintenance inside the ER vent fan compartment ps_800.jpg" id="d351e4cdec49debfb1188afd09cdb8df"/>
+        <Part name="img\20240608_135446 corrosion maintenance inside the ER vent fan ps_800.jpg" id="839ed2eb37ca8412518855e1bd666d28"/>
+        <Part name="img\20240605_133423 ER vent fans compartment maintenance_800.jpg" id="7d8b57ee107e5dcc5971d42824909f9f"/>
+        <Part name="img\20240609_081708 ER vent fan casing maintenance, fan ashore overhaul by the shipyard_800.jpg" id="10266e08f46775090c6b6b78015982b2"/>
+        <Part name="img\20240603_131901 ER workshop vent duct and fan_800.jpg" id="291e0707f6a4a941744934e1f8d95d30"/>
+        <Part name="img\20240603_113626 emergency generator room ventilation fan, smoke detector_800.jpg" id="8279fd7fc7feb936e86cf8c5edd1bd04"/>
+        <Part name="img\20240603_131610 airconditioning plant, AHU air handling unit_800.jpg" id="0a25c520d5e585d931e384773fe979df"/>
+        <Part name="img\20240604_140258 accommodation aircon control panel_800.jpg" id="e452c4025f0002f1c534471c74e8ced3"/>
+        <Part name="img\20240603_131831 thermal fluid circ pumps, pipes and valves_800.jpg" id="f2ff6fa02868d092b24453450e203a89"/>
+        <Part name="img\20240603_140240 engine room thermal oil heating piping and valves_800.jpg" id="5a0dcdbafd4923eb7b0876677e6f722b"/>
+        <Part name="img\20240603_140327 ER HFO fuel oil tank line valves, fuel pipes_800.jpg" id="e8c9ebdb3ac225059ab2df4c03f1b643"/>
+        <Part name="img\20240603_140335 CORROSION &amp; WATER CONTROL ICAF ICCP DISPLAY UNIT anodes cathodic protection, fuel pipes_800.jpg" id="151f37a5fcd483bfaf41bfea38b19b17"/>
+        <Part name="img\20240603_140504 sludge pump piping, bilge piping_800_0.jpg" id="e0f51cff6320686d898c0f8879c29f0b"/>
+        <Part name="img\20240603_140503 bilge and sludge valve arrangement, suction and discharge_800_0.jpg" id="b9ce22811bfdd0ee004138428ac912fa"/>
+        <Part name="img\20240603_133800 probably Aux engines DO supply pump - Copy_800.jpg" id="fda1955dde56a4efe30aca1916accb8a"/>
+        <Part name="img\20240603_134616 FO pipes and valves from purifier to day tanks_800.jpg" id="deee654cf4b10011c4be709d783af152"/>
+        <Part name="img\20240603_140216 lube oil line before cooler, LO cooler thermostat control valve_800.jpg" id="5aac103352204214c3fe0b92802541c3"/>
+        <Part name="img\20240603_133136 ME starting air bottles, receivers_800.jpg" id="7b2b003063448828ec0bac04dd07c61d"/>
+        <Part name="img\20240603_134308_800.jpg" id="621a47b8f57bcbaa675032262e119994"/>
+        <Part name="img\20240603_133136 ME starting air bottles, receivers - Copy_800.jpg" id="17cfb2b0e9baec582fd26ccfbb35e8bd"/>
+        <Part name="img\20240603_140149 ME cooler, emergency sea water cooler, heat exchanger_800.jpg" id="3de60fcfec2fb61e9b1bef51d6e886cb"/>
+        <Part name="img\20240603_140046 FWG SW cooling pump and AC SW cool pump - Copy_800.jpg" id="f456b70aab36f4f579bc1cebee68590b"/>
+        <Part name="img\20240609_092520 Sea water pumps in ER, suction strainers_800.jpg" id="5d5bc043c84a29cfbc892c5305375806"/>
+        <Part name="img\20240603_140208 lube oil pipe line, FW cooling pipe line_800_0.jpg" id="afbbad9b7fa8baef12f847bb03de8473"/>
+        <Part name="img\20240603_140236 box coolers heat exchangers_800.jpg" id="aef4094ad473c63f41808ba4b24f1b98"/>
+        <Part name="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800_0.jpg" id="b45c84c6b60ee27fe923396ab0ea9e93"/>
+        <Part name="img\20240603_134559 purifier room ceiling, vent ducts, lighting_800.jpg" id="47d714c89801041aa032404464660c03"/>
+        <Part name="img\IMG_1831 ECR vent head and pipe_800.JPG" id="8cd94f8b07ddf5e3dd66b5b021cb7e77"/>
+        <Part name="img\20240603_090346 aft mooring station, poop deck, steering gear room vent_800.jpg" id="68a04610bdb48e28ac94157af3baae52"/>
+        <Part name="img\20240603_134710 ER emergency signal light, siren, bell, purifier room ventilation ducts_800_0.jpg" id="2f6f32d20eb34a3d11e62e735dc471b0"/>
+        <Part name="img\20240603_092910 welding bottles reducer, acetylene_800.jpg" id="85df140711ca8dc489789affc1498e3e"/>
+        <Part name="img\20240603_092916 welding gas bottle reducer, oxygen - Copy_800.jpg" id="ce6018b748d89d1d9e1d2a8c3746c85c"/>
+        <Part name="img\20240603_131756 thermal oil boilers casings_800.jpg" id="7b2000faf804da4cdd73ffe7b9af9881"/>
+        <Part name="img\20240603_114057 engine room thermal boilers burner 1 _800.jpg" id="ef392ce9a30bc1d40e9d29a80ba4b750"/>
+        <Part name="img\20240603_131822 thermal boiler 2 fluid flow indicator_800.jpg" id="459cc0ad80c2c9aa6d1c731cdcafb98e"/>
+        <Part name="img\20240603_114056 engine room thermal boilers burner 2, бурнер фуел хосес_800.jpg" id="9d6f943f839c2259097fc4acc52d7871"/>
+        <Part name="img\20240603_131552 thermal oil boiler 1, control panel_800.jpg" id="71a3e4bb310c0838666cced3dc5c8b4b"/>
+        <Part name="img\20240603_131753 thermal oil boiler 2 control panel_800.jpg" id="fba33ae08579c630db0c5c655a5fca8d"/>
+        <Part name="img\20240609_090802 safety valves_800.jpg" id="33f5da86fb5a1bfd997d51fc82902677"/>
+        <Part name="img\20240603_131817 thermal boiler 1 fluid flow indicator_800.jpg" id="e05daedf7c74f7838de3003fe307735a"/>
+        <Part name="img\20240603_131822 thermal boiler 2 fluid flow indicator_800_0.jpg" id="459cc0ad80c2c9aa6d1c731cdcafb98e"/>
+        <Part name="img\20240619_150016 thermal fluid flow indicator_800.jpg" id="7e7113e4bffc8c8be97f9e74f69fe7cc"/>
+        <Part name="img\20240603_114409 funnel, thermal oil expansion tank_800.jpg" id="831dbe82fbd1901d9d23563d999df86d"/>
+        <Part name="img\IMG_0587 inside the boiler 1 combustion chamber, tubes, refractory_800.JPG" id="3e54d60b3264bed979c04e79b2ca196e"/>
+        <Part name="img\IMG_0582 inside the boiler 1 combustion space, chamber_800.JPG" id="16d575f4510165cb64dfd5f2f30a2862"/>
+        <Part name="img\20240603_114051 engine room thermal boilers burner 1 , thermal oil pipes and lagging, insulation_800.jpg" id="483db5a391f66f380f11670cce4ad590"/>
+        <Part name="img\20240603_114206 engine room main engine exhaust duct lagging _800.jpg" id="33d2f6b8b08a441eb1e831d8964e3ac4"/>
+        <Part name="img\20240603_114209 engine room main engine exhaust duct lagging, exhaust flap actuator_800.jpg" id="80c669e112d36c7f92432245608a37b0"/>
+        <Part name="img\20240603_114032 engine room thermal lagging cladding, exhaust ducts_800.jpg" id="0aa6d8a83110db9d60228e37e0e28d5f"/>
+        <Part name="img\20240603_131552 thermal oil boiler 1, control panel_800_0.jpg" id="71a3e4bb310c0838666cced3dc5c8b4b"/>
+        <Part name="img\20240609_131126 boiler burner and diffuser_800.jpg" id="dcf8ba776d176232aa59b14ea801ebca"/>
+        <Part name="img\IMG_0581 boiler 1 burner removed_800.JPG" id="b79e35ea112bfd2d0ae0f1778c5c5ca5"/>
+        <Part name="img\IMG_0580 refractory material boiler 2_800.JPG" id="ee12e82d07c60dd7293a0f791c68e9ea"/>
+        <Part name="img\boiler 2 (8) inside the combustion chamber, tubes_800.JPG" id="fc75a44811129e6eedbd66fca3c30019"/>
+        <Part name="img\20240603_131753 thermal oil boiler 2 control panel_800_0.jpg" id="fba33ae08579c630db0c5c655a5fca8d"/>
+        <Part name="img\20240609_131324 boiler burner and diffuser_800_0.jpg" id="aa2de30a51752676c95a7c6f684a1d35"/>
+        <Part name="img\IMG_0588 economizer inspection cover_800.JPG" id="01d5c552d1f0d1b7e73793eb227126ad"/>
+        <Part name="img\20240609_131732 exhaust gas boiler tubes_800.jpg" id="2dac718d3ee127aaae063e383a68b809"/>
+        <Part name="img\20240609_131714 exhaust gas boiler tubes_800.jpg" id="0f1d547fe0ace092d1f5aec821970d3e"/>
+        <Part name="img\20240609_131740  exhaust gas boiler tubes_800.jpg" id="f9f91f3367c6f716d96ad23908f1e6ae"/>
+        <Part name="img\20240604_140126 thermal oil boilers exhaust sgas temp sensors_800.jpg" id="a2597fcda67122ed4fc0b59d8fc28332"/>
+        <Part name="img\20240603_114306 engine room main engine exhaust duct crack, traces of exh gas leak_800.jpg" id="e423331186f175954e29c313b39d5c53"/>
+        <Part name="img\20240617_092014 ME exhaust gas duct_800_1.jpg" id="3e6a72707c6d5a0869b9147ce2b44e30"/>
+        <Part name="img\20240617_092107 ME exhaust duct recent repair_800_2.jpg" id="b1a2e0c657ade87f85c4d1043954d062"/>
+        <Part name="img\20240617_091922 ehxaust gas leak repaired in ER duct_800_0.jpg" id="8f55a9b1553f17de0c090d554c7cb1e3"/>
+        <Part name="img\20240603_131552 thermal oil boiler 1, control panel_800_1.jpg" id="f559283f3d7a94f42ff9df16a9b95ef7"/>
+        <Part name="img\20240619_145753 thermal oil fluid valve dismantling for check_800.jpg" id="c02ad3694244ee2d186b29aa88f0a3fb"/>
+        <Part name="img\20240603_133253 FWG, chemical dosage pump_800.jpg" id="f54f0228a14f9d059400d3dbd6b13a41"/>
+        <Part name="img\20240603_133303 FWG general view_800.jpg" id="bc83b99a89e1c3b45e6e9683db646db1"/>
+        <Part name="img\20240603_140151 ME jacket cooler, emergency sea water cooler, heat exchanger_800.jpg" id="6af5df37e4f1352d8256ecd9d7ad15f1"/>
+        <Part name="img\20240603_140213 lube oil cooler heat exchanger_800.jpg" id="48a84cabcf04e0173f5b0dba61828ee2"/>
+        <Part name="img\20240603_140146 ME HT FW cooling pump, emergency sea water cooler, heat exchanger_800.jpg" id="03b6868e85f25759a68eb6273b95327e"/>
+        <Part name="img\20240603_140216 lube oil line before cooler, LO cooler thermostat control valve_800_0.jpg" id="5aac103352204214c3fe0b92802541c3"/>
+        <Part name="img\20240608_140428 ME air cooler removed for cleaning_800.jpg" id="7cb836847de466a00aa030246024cbb9"/>
+        <Part name="img\20240603_140637 main engine air cooler_800.jpg" id="9da213c00cafd37f551eb511a6c9cb37"/>
+        <Part name="img\20240603_134149 Aux engine 1 front side view_800_1.jpg" id="ddadd71100e467b738bcd4f7bfc1d38e"/>
+        <Part name="img\20240603_134921 fuel oil preparation equipment, FO supply and circ pumps, Fo change-over valves, mixing column, FO heater_800.jpg" id="721cfaab9dec387e5a5d0ba7a637395b"/>
+        <Part name="img\20240603_134920 fuel oil preparation equipment, FO supply and circ pumps, Fo back-wash filter, mixing column, FO heater_800_0.jpg" id="ab1d0d7088879a6598cd23975a930751"/>
+        <Part name="img\20240603_134916 FO preparation equipment, FO electric heaters_800.jpg" id="efe6bb26805e231e52be4e7798efa6f4"/>
+        <Part name="img\20240603_134704 purifiers electric heater_800_0.jpg" id="090d5d8dd876e6eddc0b6ed5c38a8e92"/>
+        <Part name="img\FLIR1761 domestic calorifier_800.jpg" id="0c5bc12954a864aedf28a224dc884973"/>
+        <Part name="img\FLIR1760 domestic calorifier_800.jpg" id="0913091dbf886da84e7685519a80254d"/>
+        <Part name="img\20240603_133136 ME starting air bottles, receivers_800_0.jpg" id="7b2b003063448828ec0bac04dd07c61d"/>
+        <Part name="img\IMG_0600 inside inspection of service air bottle, receiver_800.JPG" id="52770b3ed898c03e1b9637e4f6ae79c9"/>
+        <Part name="img\20240609_091749 main air receiver_800.jpg" id="31d4af6346f2f7ea68decd9caedaa901"/>
+        <Part name="img\IMG_0598 service air bottle, receiver opened_800_0.JPG" id="6ee555ecb2d1655f03ecb7890958362d"/>
+        <Part name="img\20240604_140517 ECR aircon_800_0.jpg" id="193c58900aa45693b8151a33ed5106b9"/>
+        <Part name="img\20240603_131612 accommodation aircon compressor reported to renew the condenser_800.jpg" id="e1b9087aadff49361c01aedd7a94b585"/>
+        <Part name="img\20240617_092549 chain block, ME injector tester_800.jpg" id="c7b6e0f022caa8ac08a95d9f4b7b6386"/>
+        <Part name="img\FLIR1758 hydrophore pumps_800.jpg" id="5ad79716eb5e70458114888db1061366"/>
+        <Part name="img\FLIR1759 hydrophore pumps_800.jpg" id="867ea714b776365bf3974bae418d283b"/>
+        <Part name="img\20240603_131855 ER workshop tools_800_0.jpg" id="ae4c2c37adbd6fae42ade1b9e98d5122"/>
+        <Part name="img\20240608_140130 hydraulic tool for unscrewing nuts, ME crankcase nut_800.jpg" id="01d4e3f80153cc4bb146bb84f724a9cd"/>
+        <Part name="img\20240603_132616 ER lavatory, sink, UV bath cleaning, semi-portable fire extinguisher_800.jpg" id="df417794fdd9c644eb3d487d235b3665"/>
+        <Part name="img\20240604_140938 dressing room, lavatory_800.jpg" id="ba4e147ed4f223cc93a5e64e8b9fc9ec"/>
+        <Part name="img\20240609_151705 bridge console, ME telegraph_800.jpg" id="d4631515dd787194d9e526c6cad3b601"/>
+        <Part name="img\20240619_151512 main control console, telegraph, CPP control_800.jpg" id="68caacbce0da268fd8bff90016cfee47"/>
+        <Part name="img\SOS room weathertight door maintenance, ESS_800.jpg" id="3d826bfb20fa292ae8f6dcee5f56b7a8"/>
+        <Part name="img\20240603_115910 closing sea inlet valves stand_800.jpg" id="d29ef7687378529bd94c45eb300db1d4"/>
+        <Part name="img\20240619_142417 quick closing valves testing_800.jpg" id="d2ba60dd362cf1419a15ab6ec4f6833a"/>
+        <Part name="img\20240619_142218 quick closing valves testing_800.jpg" id="fc018133a132d497d349c308174cfefb"/>
+        <Part name="img\20240603_140606 ER telephone with posted number index card, emcy communication nearby CPP local control_800.jpg" id="3d71417c60b32a11b83cef2ab5c47c7a"/>
+        <Part name="img\20240609_151709 bridge console_800.jpg" id="96ac2cf2380c2673fd203183311c66f9"/>
+        <Part name="img\20240604_140630 ECR VHF_800_0.jpg" id="47dff92a34e00087869fe58be67cb7a8"/>
+        <Part name="img\20240603_132219 engine room steering gear fire alarm bell telephone, emcy communication_800_0.jpg" id="2d5cdbbb815fb56d999072a04abaaa3a"/>
+        <Part name="img\FLIR1739 aux engine  when running_800.jpg" id="ed647e17b65f3dec729f2e1c439fa8ed"/>
+        <Part name="img\FLIR1737 aux engine 3 alternator_800.jpg" id="b886a6255d3b42b16253c3156985d4c8"/>
+        <Part name="img\FLIR1922 Aux engine alternator free end_800.jpg" id="61c194ab636b23e2102a301bd527ce15"/>
+        <Part name="img\FLIR1923 Aux engine alternator free end_800.jpg" id="2c1b676f4c2c4fc9e545933e8e07baf4"/>
+        <Part name="img\20240603_133915 Aux engine 1 control panel side view_800.jpg" id="b56166fd60f16377272dc4906ed96749"/>
+        <Part name="img\IMG_1718263607105 generator alternator bearings_800.jpg" id="3be3cc05805121f12d86e75ba26589b7"/>
+        <Part name="img\IMG_1718263598520 generator alternator bearings_800.jpg" id="d04852533f523e4abdab9fd9100ab72e"/>
+        <Part name="img\IMG_1718263595323 generator alternator bearings_800.jpg" id="42fa87fbc60960132791d1da243d216f"/>
+        <Part name="img\FLIR1995 shaft generator idle running_800.jpg" id="c7fc2c5bc3e13b78247bc5ab25679e5b"/>
+        <Part name="img\FLIR1994 shaft generator idle running_800.jpg" id="d7be557ecd42ab2fceef89dbf31a048d"/>
+        <Part name="img\20240603_140651 vulcano coupling for shaft generator to gear box (probably)_800_0.jpg" id="3d37e7b118415ade0917da28bf1bb1c4"/>
+        <Part name="img\20240619_152726 shaft generator connected, testing under load with the bow thruster_800_0.jpg" id="24b3171ce2538a9dc4afb62b85c730c3"/>
+        <Part name="img\FLIR1871 EDG, space heater_800.jpg" id="51619d815dd496b8ca0628230dbbd356"/>
+        <Part name="img\FLIR1870 EDG, space heater_800.jpg" id="83aa8e5b6f6755978000d9e5c160514b"/>
+        <Part name="img\20240603_114937 engine room ECR main switchboard_800.jpg" id="efb031d7b8a1064443b280d9f8cf1bd1"/>
+        <Part name="img\20240619_112037 main switchboard side panel, with running equipment_800.jpg" id="25f1b22a0a67ed13e4a22fd6c8681b61"/>
+        <Part name="img\FLIR1648 inside main switchboard, fuses, a few energized_800.jpg" id="788ae0048921b136f1d2fa9154c7faea"/>
+        <Part name="img\FLIR1649 inside main switchboard, fuses, a few energized_800.jpg" id="5d786168308470f6dbe4ff8d32f556ec"/>
+        <Part name="img\20240603_115458 stickers after the service on the ACBs af generators and bow thruster_800.jpg" id="461e982c6dc5cf007d64cc6005095f91"/>
+        <Part name="img\20240603_113605 Emcy switchboard emcy light missing_800.jpg" id="42c656bff0011632cae072497df5524e"/>
+        <Part name="img\20240618_150445 emecy switchboard fuses_800.jpg" id="4621984b42d41f40829ecb50483590d6"/>
+        <Part name="img\20240603_134752  fuel oil FO preparation equipment starter panel, power board_800.jpg" id="1467476777aa6793d418955147c01318"/>
+        <Part name="img\FLIR1636 inside main switchboard, fuses, a few energized_800.jpg" id="6c88964a75ac78fab31b55e552653937"/>
+        <Part name="img\FLIR1637 inside main switchboard, fuses, a few energized_800.jpg" id="be98640d6d80cf72b00cfac796957c30"/>
+        <Part name="img\20240603_132014 workshop store and spares, drilling machine - Copy_800.jpg" id="48164da15dddcd7a55380c1190bc734f"/>
+        <Part name="img\20240603_132547 evac system pump - Copy_800.jpg" id="dc0cd1f31090b9a724a276f69637e00c"/>
+        <Part name="img\20240603_132551 evac system control panel, seage tank, pipes and valves_800_1.jpg" id="b45c84c6b60ee27fe923396ab0ea9e93"/>
+        <Part name="img\20240603_141111 HFO booster pump transfer pump starter and contol panel_800.jpg" id="b9512713233909fa5384b8ea514f57c2"/>
+        <Part name="img\20240603_140331 HFO fuel oil transfer pump and fuel pipes, box coolers - Copy_800.jpg" id="4ac04e2ac8afd487755d11e08a43ccb2"/>
+        <Part name="img\FLIR1846 FO supply pumps_800.jpg" id="7f563c4081154450780f3a260cc420d8"/>
+        <Part name="img\FLIR1847 FO supply pumps_800.jpg" id="284a6092e7c4eb1f8e4b02896a114a0f"/>
+        <Part name="img\20240603_134920 fuel oil preparation equipment, FO supply and circ pumps, Fo back-wash filter, mixing column, FO heater_800_1.jpg" id="ab1d0d7088879a6598cd23975a930751"/>
+        <Part name="img\FLIR1854 FO circ pumps, FO preparation equipment_800.jpg" id="bff4dbdd964a0a447b35a08e34a19f75"/>
+        <Part name="img\20240603_134903 FO preparation equipment, Fuel oil supply pumps_800_0.jpg" id="0fc0d127512be2c733540b52282c3f5d"/>
+        <Part name="img\20240603_134620 separator, LO purifier control panel_800.jpg" id="ed88260b17f30e3f3325a91e971a6478"/>
+        <Part name="img\20240603_134641 separator, purifier electric motor and electric heater_800.jpg" id="10c52658e643959d53737cae8e5a7d85"/>
+        <Part name="img\20240603_140244 engine room, mgo transfer fuel pump, fuel tracing line junction box - Copy_800.jpg" id="d58c3178886d9e8db040d65b27011e4f"/>
+        <Part name="img\20240603_133800 probably Aux engines DO supply pump - Copy (2)_800.jpg" id="67956a1554d26142ce723b871d741260"/>
+        <Part name="img\20240603_134618 separator, LO purifier control panel, DO purifier - Copy_800.jpg" id="b9bc28ad2afd7509ee790697b41ea3b2"/>
+        <Part name="img\20240603_133449 FRAMO hydraulic oil transfer and filling pump - Copy_800.jpg" id="5617fc32b9f83ff9fa06c2139bc2cbdf"/>
+        <Part name="img\20240603_135839 tank top aft , foundation of gear box, reduction gear stand-by LO pump_800.jpg" id="d2c7401414f358f6e7867654cb561e24"/>
+        <Part name="img\20240603_140222 lube oil LO pump_800_0.jpg" id="fb2ea96e3fab59226244203a90a00145"/>
+        <Part name="img\20240603_135939 bilge, under the plates around the gear box_800.jpg" id="b8f74f85a917f387945e99e126ad7cc1"/>
+        <Part name="img\20240603_135839 tank top aft , foundation of gear box, reduction gear stand-by LO pump - Copy_800.jpg" id="b10158f284a01bb5ae882016d47f3254"/>
+        <Part name="img\20240603_135839 tank top aft , foundation of gear box, reduction gear stand-by LO pump - Copy (2)_800.jpg" id="69dcf13a4ecb253ced8b7783e4bb8d98"/>
+        <Part name="img\20240603_134638 separator, LO purifier, el motor, control panel_800.jpg" id="e1ff75fa9bf6469e59676c1b2bf350f6"/>
+        <Part name="img\20240603_134620 separator, LO purifier control panel_800_0.jpg" id="ed88260b17f30e3f3325a91e971a6478"/>
+        <Part name="img\20240603_140459 sludge pump control panel and ER EEBD 7, ER tel. relay box_800_0.jpg" id="40142782dbd7ee74b7f28e5e6dc79680"/>
+        <Part name="img\20240603_140508 sludge pump_800.jpg" id="31c11968cd809deff93fc8a38e6fe762"/>
+        <Part name="img\20240617_115513 HT pump el motor overhaul_800_800_1.jpg" id="f93e831c5b23ee5850bedbb075dae4dd"/>
+        <Part name="img\20240617_115803 HT pump el motor overhaul_800_800_1.jpg" id="f116baf710ed2f5b04cb78ce77cb436b"/>
+        <Part name="img\FLIR1967 LT pump_800_0.jpg" id="3bd65283ddfcb8655d28979e7a3f7d3a"/>
+        <Part name="img\FLIR1966 LT pump el motor_800.jpg" id="fd3a74c7704b4908910eb7222d77c612"/>
+        <Part name="img\FLIR1971 ME jacket preheating pump_800_800_0.jpg" id="78236b736247c0966a1c46d190a30969"/>
+        <Part name="img\20240603_140219 ME circ. pump preheating starter panel, AE cooling water controller panel, ME charge air cooler controller, HT cool water controller_800_800_0.jpg" id="74ce0d051fad74cceb71f41ac0dbeac0"/>
+        <Part name="img\20240603_140101 AC aircondition sea water cooling pump - Copy_800.jpg" id="2456796df4ddf83c022e72fe2031f030"/>
+        <Part name="img\FLIR1696 thermal oil pumps, economiser pumps_800_0.jpg" id="1d1db70a15f829b7d3bf94c53f57e081"/>
+        <Part name="img\FLIR1697 thermal oil pumps, economiser pumps_800_0.jpg" id="e7b0bdc7c77687428d10d107a14c0d20"/>
+        <Part name="img\FLIR1706 thermal oil pumps_800_0.jpg" id="498e6009c4254ff220395c03801e6d47"/>
+        <Part name="img\FLIR1707 thermal oil pumps_800_0.jpg" id="d096aefd0c80f18fcc52d523eee6b387"/>
+        <Part name="img\20240619_140204 testing fire pump in ER_800_800_0.jpg" id="f969b57ff1d7632d950f98bef2d65090"/>
+        <Part name="img\20240603_140343 fire and foam pump el motors - Copy_800.jpg" id="a85ce6d4fa06929ac68345e8142028e2"/>
+        <Part name="img\20240603_140422 tank cleaning &amp; emergency pump, foam pump motors - Copy_800.jpg" id="0ade2d9115ff779fe514b2733f519191"/>
+        <Part name="img\FLIR1758 hydrophore pumps_800_0.jpg" id="5ad79716eb5e70458114888db1061366"/>
+        <Part name="img\FLIR1759 hydrophore pumps_800_0.jpg" id="867ea714b776365bf3974bae418d283b"/>
+        <Part name="img\20240603_133731 UV light water desinfection unit, pumps local starter buttons, circ pumps central heating, domestic hot hater pump, hydrophore pumps_800.jpg" id="a6fe1bbaf0054eb03f53341b77129bdc"/>
+        <Part name="img\20240603_133354 FWG starter panel and salinity indicator_800.jpg" id="97060f5555f80b24a8340d1380bef647"/>
+        <Part name="img\20240603_140105 FWG SW cooling pump_800.jpg" id="4ece242bfef943286af41b1671665344"/>
+        <Part name="img\20240603_134221 starting air compressor_800_0.jpg" id="3ff0ea415338a81b7227d5c87e2a2634"/>
+        <Part name="img\20240604_140855 main switchboard, air compressors_800.jpg" id="0e92343308de63d968bf57ebd7c63541"/>
+        <Part name="img\20240617_092754 ER service compressor_800_0.jpg" id="ae67831d632caa5c135d31a93bbe2dde"/>
+        <Part name="img\20240604_140258 accommodation aircon control panel_800_0.jpg" id="e452c4025f0002f1c534471c74e8ced3"/>
+        <Part name="img\20240604_140249 aircon compressor and condenser, condenser planned for renewal - Copy (2)_800.jpg" id="41ceb36259d65c6cb4584ae8e4ebf443"/>
+        <Part name="img\IMG_1718109895155 ER vent fan_800.jpg" id="60affc10379e46a7dd74e3a7d32790eb"/>
+        <Part name="img\20240603_131901 ER workshop vent duct and fan - Copy_800.jpg" id="4d603ae8a424443f8f844e051e994741"/>
+        <Part name="img\20240603_113626 emergency generator room ventilation fan, smoke detector_800_0.jpg" id="8279fd7fc7feb936e86cf8c5edd1bd04"/>
+        <Part name="img\20240603_113730 emergency generator room fan starter panel, EDG cooler fan starter_800_0.jpg" id="838f370e3291c7b8bd1895380e75a620"/>
+        <Part name="img\20240604_140258 accommodation aircon control panel_800_1.jpg" id="e452c4025f0002f1c534471c74e8ced3"/>
+        <Part name="img\20240603_114449 funnel space lighting_800.jpg" id="d7dacced9060d7d6d966057027660046"/>
+        <Part name="img\20240603_134604 purifier room ceiling, vent ducts, cable trays, fire sensors, lighting_800_0.jpg" id="4dcb34a9de7ae53aedb6c489b854d563"/>
+        <Part name="img\20240603_114413 funnel space lighting, funnel dampers_800.jpg" id="92877934c55f5ddd354270fa7fdfbb9c"/>
+        <Part name="img\20240617_082321 emcy generator new light_800_0.jpg" id="7ff5e2f14a16d6cf413a1aa5e14d2326"/>
+        <Part name="img\FLIR1664 inside main switchboard, transformer_800.jpg" id="41e886e38d5c9a8296a22d27a83bd258"/>
+        <Part name="img\FLIR1665 inside main switchboard, transformer_800.jpg" id="8233a119a3d2f2fd30ab762e0e702f56"/>
+        <Part name="img\20240603_094158 battery 2020 due for renewal_800.jpg" id="9b408dfd5761b12cdab98e2570001fb9"/>
+        <Part name="img\20240617_082326 emcy generator batteries removed_800_0.jpg" id="3e95c520134085018d8aaf4cd09bbefe"/>
+        <Part name="img\20240603_134144 Aux engine 1 top view, turbocharger, exh duct insulation - Copy_800.jpg" id="3739339d2f602cefb4586c35ab46930d"/>
+        <Part name="img\20240603_133637 ER ventilation ducts, fire smoke detector, ER ceiling, cables, lighting_800.jpg" id="98fe37bfd05a9b1131fef41f0e9b6c84"/>
+        <Part name="img\20240603_140238 ER cable tray, tracing supports above_800.jpg" id="1897d369504c0d8ad097d005a1e8f105"/>
+        <Part name="img\20240603_140325 cable traces, junction box_800.jpg" id="0043cbf47e5ac291f744a1fa2056b2c8"/>
+        <Part name="img\IMG_1835 cable pentration in the EDG room to CO2 room, must be sealed additionally_800.JPG" id="6957015450fda66134dbde1635bfe7ae"/>
+        <Part name="img\20240603_140249 engine ER tracing fuel line star board junction box_800.jpg" id="0e517675dc768b91f4444b1026c0986e"/>
+        <Part name="img\20240603_131208 FRAMO junction box_800.jpg" id="c4b974f0595c32c680211c5ddcd15792"/>
+        <Part name="img\20240603_140459 sludge pump control panel and ER EEBD 7, ER tel. relay box_800_1.jpg" id="40142782dbd7ee74b7f28e5e6dc79680"/>
+        <Part name="img\20240603_140606 ER telephone with posted number index card, emcy communication nearby CPP local control_800_0.jpg" id="3d71417c60b32a11b83cef2ab5c47c7a"/>
+        <Part name="img\20240617_092700 welding equipment_800.jpg" id="0ea81fedec888d8ddcf5984b87de7bca"/>
+        <Part name="img\20240619_151510 main control console, telegraph, CPP control_800.jpg" id="ab035789c87b5815d541b11c50897c81"/>
+        <Part name="img\20240619_153305 main engine gauges during testing, 600 rpm_800.jpg" id="f7c2f55cee3ac3b597fcfb9204ab791f"/>
+        <Part name="img\20240619_155907 main engine control console, oil mist detector alarm activated, on alarm history monitor_800.jpg" id="4161b171a1190e3198cde403891d8836"/>
+        <Part name="img\20240619_155856 main engine control console, oil mist detector alarm activated_800_0.jpg" id="4d708f3370c0dff304a2db5a20ab22c1"/>
+        <Part name="img\20240603_140714 gear box pressure transmitters for alarms, LO trip, LO low pressure, LO stand0by pump_800.jpg" id="dfbbaaa8688145a5d75c40b350cb3773"/>
+        <Part name="img\20240603_114942 engine room ECR main switchboard pumps and compressor starters, before docking - Copy_800.jpg" id="1ce5d653a5edb4db4d2677a6ba9274dc"/>
+        <Part name="img\20240619_082938 synchronization panel, main switchboard, ECR_800.jpg" id="c9d6134136b642c519de71740e0f307d"/>
+        <Part name="img\20240618_150441 emergency generator panel, emcy swithcboard_800.jpg" id="6c53922b1160adda4baca9b0087c2fcb"/>
+        <Part name="img\20240603_131753 thermal oil boiler 2 control panel_800_1.jpg" id="fba33ae08579c630db0c5c655a5fca8d"/>
+        <Part name="img\20240603_131552 thermal oil boiler 1, control panel_800_2.jpg" id="71a3e4bb310c0838666cced3dc5c8b4b"/>
+        <Part name="img\20240604_140126 thermal oil boilers exhaust sgas temp sensors_800_0.jpg" id="a2597fcda67122ed4fc0b59d8fc28332"/>
+        <Part name="img\20230106_114826 boiler flame failure test_800_1.jpg" id="00f3c280cd04be8a35bf627f2aecc0ca"/>
+        <Part name="img\20240618_132512 ship hull front starboard, bow_800.jpg" id="7be77459e980bb6cd6424d44916a6471"/>
+        <Part name="img\20240618_132436 ship hull front portside, bow_800_0.jpg" id="b881a6282fe1e30b6cbc13ebbd845608"/>
+        <Part name="img\20240618_090405 ship hull vertical side midship ps_800.jpg" id="82e69c81e8744e97013e4ae8f545f164"/>
+        <Part name="img\20240618_090330 hull vertical side fwd, midship sb_800.jpg" id="56fae0a5edb4e90448071e7a563070b8"/>
+        <Part name="img\20240618_132835 ship hull aft starboard, stern, rudder, propeller_800.jpg" id="89b182e9e400192700748df2884955f8"/>
+        <Part name="img\20240618_132809 ship hull aft portside, stern, rudder, propeller_800.jpg" id="172984964d1c23b4d9c02d64435c73a2"/>
+        <Part name="img\20240609_084036 hull bow front starboard view before washing portside fwd_800.jpg" id="fac20a2487540ca64dad6deb177ddd2d"/>
+        <Part name="img\20240609_083949 hull bow side before washing portside fwd_800.jpg" id="fbdb853483fcbf018456f389d9ececba"/>
+        <Part name="img\20240609_084143 hull vertical side aft starboard view before washing_800.jpg" id="64e1c98f70b80c26119bff02c278099e"/>
+        <Part name="img\20240609_083834 hull vertical side before washing portside_800.jpg" id="36f0c07b93234bdc67d2409f7d942db3"/>
+        <Part name="img\20240609_084639 hull stern view portside, before washing_800.jpg" id="622caa5736be244e381ecb76dc1612f4"/>
+        <Part name="img\20240609_084612 hull stern view portside, before washing_800.jpg" id="bb481f27248f7674dccec7410afce108"/>
+        <Part name="img\20240618_090546 hull bottom aft sb_800.jpg" id="80c2e8973341a62804734b084251565a"/>
+        <Part name="img\20240618_090534 hull bottom aft ps_800.jpg" id="4b8d98a4aa656357b9e0f8a4b80b01aa"/>
+        <Part name="img\20240618_090150 hull bottom fwd ps_800.jpg" id="884b301445cbd46eab84614d56a9e82f"/>
+        <Part name="img\20240618_090141 hull bottom fwd sb_800.jpg" id="e63d2a048860c7b9805e91d5b6c9d0c7"/>
+        <Part name="img\20240618_090354 bottom midship ps_800.jpg" id="d4b6588d74d5e1739520b4ac037f2545"/>
+        <Part name="img\20240618_090342 bottom midship ps_800.jpg" id="c0863135ebb767d0e730dcd51c35b447"/>
+        <Part name="img\20240618_090230 hull bottom fwd ps_800.jpg" id="008ed197f57ac576ecb1c3932d3cc00f"/>
+        <Part name="img\20240618_100147 vacuum test of access hole WBT 1C_800_0.jpg" id="06412bb3e477abac6211fe932d774952"/>
+        <Part name="img\20240617_090730 ballas tank access hole aft_800.jpg" id="61002bb2aa55dc1c38370c34078304c2"/>
+        <Part name="img\20240618_090129 bottom access hole rewelded_800.jpg" id="ebd30b0770aa015615fea98fec8042b8"/>
+        <Part name="img\IMG_1718370720837 vaccum test of the ER side access hole_800_0.jpg" id="4e8f27f78d12c48109791c07c7fb95cd"/>
+        <Part name="img\20240609_084911 bottom before washing_800.jpg" id="e6d598fd9c056d0b0ddbc2fa98afbc4a"/>
+        <Part name="img\20240609_084822 hull bottom under bilge keel before washing_800.jpg" id="b8e26a7a42c3f73bc60517501674b905"/>
+        <Part name="img\20240603_111601 main deck port aft, walkway, handrails, bulwark wide_800.jpg" id="20f2742b2d9aa53667930e4c0c617c25"/>
+        <Part name="img\Main-deck.png" id="84a55955cee19a5a04ecd72d06d2b1f1"/>
+        <Part name="img\Side-shell.png" id="33882cdcbcc1e7d8934ef230e249fe97"/>
+        <Part name="img\Other-exposed-decks.png" id="6deb4e88f2f4e6bebbea204669eb1cf7"/>
+        <Part name="img\Bottom.png" id="48de3763601e1baae477f18e5f74ea1d"/>
+        <Part name="img\Global-Scurve.png" id="bd30af9cf2a1d911e4320f73af9a04fa"/>
+        <Part name="img\FW-APT---C.png" id="624cd665dc5fb2766fe6c238440c1190"/>
+        <Part name="img\Ballast-tank-WBT-1---C.png" id="5417bdbbf7299bd62bf2306e0450875d"/>
+        <Part name="img\Ballast-tank-WBT-2---P.png" id="5efe3447776e5575496064c24bce813f"/>
+        <Part name="img\Ballast-tank-WBT-2---S.png" id="f2a159919de2468e907495125f878733"/>
+        <Part name="img\Ballast-tank-WBT-3---P.png" id="1d86b18ed5b58e6886226f7307c684e8"/>
+        <Part name="img\Ballast-tank-WBT-3---S.png" id="4c40567e0a8d2dbcc52f1e3081dc46ec"/>
+        <Part name="img\Ballast-tank-WBT-4---P.png" id="11ba5da7450c5e45d07ad87088bc4d7d"/>
+        <Part name="img\Ballast-tank-WBT-4---S.png" id="bc689506e31a34a96a289b066a4c4f2b"/>
+        <Part name="img\Ballast-tank-WBT-5---P_0.png" id="64720744b975284cc98f6463926e4c81"/>
+        <Part name="img\Ballast-tank-WBT-5---S.png" id="94cda2f3f930141b3c4bbb8253440a4b"/>
+        <Part name="img\Ballast-tank-WBT-6---P.png" id="0e4e8b10e0a0919f25871f6d90c64e14"/>
+        <Part name="img\Ballast-tank-WBT-6---S.png" id="6fffd53071fe47078a474832e50e7cf8"/>
+        <Part name="img\Ballast-tank-WBT-7---P.png" id="cf67f3b608c1dbc84b906e418845670e"/>
+        <Part name="img\Ballast-tank-WBT-7---S.png" id="28fc8da9cf0a115dc1025580b354ef7f"/>
+        <Part name="img\Ballast-tank-FPT---C.png" id="3871caed6d95d01257b372a5b75c29cb"/>
+        <Part name="img\Cargo-tank-COT-1---C.png" id="91a8ef7e42421cbf418c15a67cca0f6c"/>
+        <Part name="img\Cargo-tank-COT-2---P.png" id="c4fb2726ebfe27c63f937426db15e9db"/>
+        <Part name="img\Cargo-tank-COT-2---S.png" id="1dd55332ddd68bc5f14f942a2cc26457"/>
+        <Part name="img\Cargo-tank-COT-3---P.png" id="75acc9e335b39fea026a3523464caddd"/>
+        <Part name="img\Cargo-tank-COT-3---S.png" id="22e22cfe5f914cbc73c3fe620906875f"/>
+        <Part name="img\Cargo-tank-COT-4---P.png" id="52924033287a031d88c6d577071d991e"/>
+        <Part name="img\Cargo-tank-COT-4---S.png" id="3d91a7eade9968af922adfb27f0f12d2"/>
+        <Part name="img\Cargo-tank-COT-5---P.png" id="ac575a23455422b824b259ddb6c838ea"/>
+        <Part name="img\Cargo-tank-COT-5---S.png" id="4bf0def7437c97b1dfade068d8b37e2d"/>
+        <Part name="img\Cargo-tank-DRAIN-TANK---P.png" id="2853b44fa6a367ca4429a08ee07cb5ad"/>
+        <Part name="img\Cargo-tank-DRAIN-TANK---S.png" id="8a74858b91b8fc853b8e7123b92530b3"/>
+        <Part name="img\Other-EVAC-Tank-SB---S.png" id="f4e76257b81cc34322ce8d163c687caf"/>
+        <Part name="img\FO-DO-LO-HFO-Centre-Tank-2---C.png" id="4f811ed05020dc5153eb3ddcacfb816b"/>
+        <Part name="img\FO-DO-LO-HFO-Settling-Tank-SB---S.png" id="1cdddb616af99079dbc31697234bd641"/>
+        <Part name="img\FW-FW-Tank---P.png" id="b7a5f464f36cb66d4d717e685ca9f64b"/>
+        <Part name="img\FW-FW-Tank---S.png" id="35d10e1df205d1654a186dd1eda9d51b"/>
+        <Part name="docs\GTB0-DWN-20140612221057 HER Hull Evaluation Report 2014 Wisby.pdf" id="ea3221c5149fef6f232210b307af5550"/>
+        <Part name="docs\SZC0-KPT-20190807143305 HER Hull Evaluation Report 2019 Wisby Verity.pdf" id="dfcb8a2d0b4b89e586c13a5e91bc84f8"/>
+        <Part name="docs\04025C_2024_1719255113691 HER Hull Evaluation Report ESP 2024.pdf" id="9c1c9605dc40df01e81a3e15f42f4ebd"/>
+        <Part name="img\Other-Chain-Locker---C_800.png" id="610b7aa90aa813022696111906024c7e"/>
+        <Part name="img\20240617_083103 cargo tank butterworth hatch 3S coating_800.jpg" id="a280f2bb08d2ad153033b778dec6e5d5"/>
+        <Part name="img\20240617_083659 cargo tank dome maintenance repair_800.jpg" id="fd1d9a6f68940ac90b674b0db48b91f6"/>
+        <Part name="img\LSA room weathertight door maintained_800.jpg" id="dd1205d9f4a2655302de6d48b7682671"/>
+        <Part name="img\SOS room weathertight door maintenance_800_0.jpg" id="44b0634f58798e4116984b5252d90472"/>
+        <Part name="img\20240617_084604 paint store inside forecastle room - Copy_800.jpg" id="0db455eed083a37b2b1248fd14dcdf73"/>
+        <Part name="img\FLIR1971 ME jacket preheating pump_800.jpg" id="79af9d9f84b8491f36b72246c9a5a469"/>
+        <Part name="img\20240619_140204 testing fire pump in ER_800.jpg" id="3f7cd4ec6075eab78fde4bddc08a0de3"/>
+        <Part name="compartmentLibrary.xml" id="b3477305ff9b2579a4bcdad4ab19ba86"/>
+        <Part name="report.xml" compression="GZIP" id="21854a84e510644bdafda46a3ab0374b"/>
+    </Parts>
+</Revision>
